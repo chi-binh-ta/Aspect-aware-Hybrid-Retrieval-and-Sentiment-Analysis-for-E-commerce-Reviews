@@ -1,0 +1,18 @@
+{
+  "input_path": "/content/ecommerce-sentiment-rag/data/processed/rag_corpus.csv",
+  "output_path": "/content/ecommerce-sentiment-rag/data/processed/rag_corpus_module4.csv",
+  "original_rows": 45259,
+  "output_rows": 45259,
+  "dropped_empty_rows": 0,
+  "text_column_used": "comment",
+  "sentiment_columns_preserved": false,
+  "model_path": "/content/ecommerce-sentiment-rag/models/module2/tfidf_linearsvm.joblib",
+  "has_decision_function": true,
+  "num_predictions": 45259,
+  "sentiment_was_inferred": true,
+  "predicted_sentiment_distribution": {
+    "positive": 34156,
+    "negative": 8544,
+    "neutral": 2559
+  }
+}

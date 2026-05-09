@@ -1,0 +1,80 @@
+[
+  {
+    "query_id": "q01",
+    "query": "Khách hàng phàn nàn gì về chất lượng sản phẩm?",
+    "sentiment": "negative"
+  },
+  {
+    "query_id": "q02",
+    "query": "Có những lỗi hỏng hoặc vấn đề độ bền nào được nhắc đến?",
+    "sentiment": "negative"
+  },
+  {
+    "query_id": "q03",
+    "query": "Khách hàng gặp vấn đề gì về giao hàng hoặc vận chuyển?",
+    "sentiment": "negative"
+  },
+  {
+    "query_id": "q04",
+    "query": "Review nào nói giao hàng nhanh hoặc chậm?",
+    "sentiment": null
+  },
+  {
+    "query_id": "q05",
+    "query": "Khách hàng phàn nàn gì về đóng gói, hộp hoặc bao bì?",
+    "sentiment": "negative"
+  },
+  {
+    "query_id": "q06",
+    "query": "Đóng gói sản phẩm có chắc chắn và đẹp không?",
+    "sentiment": null
+  },
+  {
+    "query_id": "q07",
+    "query": "Khách hàng đánh giá giá cả và độ đáng tiền như thế nào?",
+    "sentiment": null
+  },
+  {
+    "query_id": "q08",
+    "query": "Có review nào chê sản phẩm đắt hoặc không đáng tiền?",
+    "sentiment": "negative"
+  },
+  {
+    "query_id": "q09",
+    "query": "Khách hàng nói gì về dịch vụ shop và tư vấn?",
+    "sentiment": null
+  },
+  {
+    "query_id": "q10",
+    "query": "Các điểm mạnh của sản phẩm được khách hàng khen là gì?",
+    "sentiment": "positive"
+  },
+  {
+    "query_id": "q11",
+    "query": "Các điểm yếu của sản phẩm được nhắc đến là gì?",
+    "sentiment": "negative"
+  },
+  {
+    "query_id": "q12",
+    "query": "Review tiêu cực trong ngành hàng Electronic nói gì?",
+    "category": "Electronic",
+    "sentiment": "negative"
+  },
+  {
+    "query_id": "q13",
+    "query": "Review tích cực trong ngành hàng Fashion khen điều gì?",
+    "category": "Fashion",
+    "sentiment": "positive"
+  },
+  {
+    "query_id": "q14",
+    "query": "Review trung tính trong HealthBeauty mô tả trải nghiệm như thế nào?",
+    "category": "HealthBeauty",
+    "sentiment": "neutral"
+  },
+  {
+    "query_id": "q15",
+    "query": "Khách hàng nhận xét gì về mẫu mã, size hoặc màu sắc?",
+    "sentiment": null
+  }
+]

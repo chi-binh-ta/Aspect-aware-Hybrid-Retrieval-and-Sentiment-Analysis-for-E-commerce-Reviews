@@ -1,0 +1,270 @@
+{
+  "selection_rule": "best model selected by validation macro-F1 only",
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "majority_class": "positive",
+  "best_model_by_valid_macro_f1": "linear_svm",
+  "best_model_candidate_id": "linear_svm_021",
+  "best_model_params": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 1,
+    "C": 1.0,
+    "class_weight": null
+  },
+  "metrics": [
+    {
+      "model_name": "majority_class",
+      "split": "valid",
+      "accuracy": 0.4289405684754522,
+      "macro_precision": 0.1429801894918174,
+      "macro_recall": 0.3333333333333333,
+      "macro_f1": 0.20012055455093428,
+      "weighted_f1": 0.2575194732981015,
+      "selected_by": "",
+      "params": "{\"majority_class\": \"positive\", \"strategy\": \"most_frequent\"}",
+      "negative_precision": 0.0,
+      "negative_recall": 0.0,
+      "negative_f1": 0.0,
+      "negative_support": 311,
+      "neutral_precision": 0.0,
+      "neutral_recall": 0.0,
+      "neutral_f1": 0.0,
+      "neutral_support": 131,
+      "positive_precision": 0.4289405684754522,
+      "positive_recall": 1.0,
+      "positive_f1": 0.6003616636528029,
+      "positive_support": 332
+    },
+    {
+      "model_name": "majority_class",
+      "split": "test",
+      "accuracy": 0.4296774193548387,
+      "macro_precision": 0.1432258064516129,
+      "macro_recall": 0.3333333333333333,
+      "macro_f1": 0.2003610108303249,
+      "weighted_f1": 0.25827180621870266,
+      "selected_by": "",
+      "params": "{\"majority_class\": \"positive\", \"strategy\": \"most_frequent\"}",
+      "negative_precision": 0.0,
+      "negative_recall": 0.0,
+      "negative_f1": 0.0,
+      "negative_support": 311,
+      "neutral_precision": 0.0,
+      "neutral_recall": 0.0,
+      "neutral_f1": 0.0,
+      "neutral_support": 131,
+      "positive_precision": 0.4296774193548387,
+      "positive_recall": 1.0,
+      "positive_f1": 0.6010830324909747,
+      "positive_support": 333
+    },
+    {
+      "model_name": "logistic_regression",
+      "split": "valid",
+      "accuracy": 0.91343669250646,
+      "macro_precision": 0.902469317744537,
+      "macro_recall": 0.8926588019193437,
+      "macro_f1": 0.8972251660559699,
+      "weighted_f1": 0.9130528601504152,
+      "selected_by": "valid_macro_f1",
+      "params": "{\"C\": 2.0, \"class_weight\": \"balanced\", \"min_df\": 1, \"ngram_range\": [1, 2]}",
+      "negative_precision": 0.9,
+      "negative_recall": 0.9260450160771704,
+      "negative_f1": 0.9128367670364501,
+      "negative_support": 311,
+      "neutral_precision": 0.8617886178861789,
+      "neutral_recall": 0.8091603053435115,
+      "neutral_f1": 0.8346456692913385,
+      "neutral_support": 131,
+      "positive_precision": 0.945619335347432,
+      "positive_recall": 0.9427710843373494,
+      "positive_f1": 0.9441930618401206,
+      "positive_support": 332
+    },
+    {
+      "model_name": "logistic_regression",
+      "split": "test",
+      "accuracy": 0.9174193548387096,
+      "macro_precision": 0.8959561149847998,
+      "macro_recall": 0.8933401382040346,
+      "macro_f1": 0.8940276252080223,
+      "weighted_f1": 0.917602173773641,
+      "selected_by": "valid_macro_f1",
+      "params": "{\"C\": 2.0, \"class_weight\": \"balanced\", \"min_df\": 1, \"ngram_range\": [1, 2]}",
+      "negative_precision": 0.8975903614457831,
+      "negative_recall": 0.9581993569131833,
+      "negative_f1": 0.926905132192846,
+      "negative_support": 311,
+      "neutral_precision": 0.8062015503875969,
+      "neutral_recall": 0.7938931297709924,
+      "neutral_f1": 0.8,
+      "neutral_support": 131,
+      "positive_precision": 0.9840764331210191,
+      "positive_recall": 0.9279279279279279,
+      "positive_f1": 0.955177743431221,
+      "positive_support": 333
+    },
+    {
+      "model_name": "linear_svm",
+      "split": "valid",
+      "accuracy": 0.9250645994832042,
+      "macro_precision": 0.9214098121790429,
+      "macro_recall": 0.8943991522901701,
+      "macro_f1": 0.9058160003041088,
+      "weighted_f1": 0.9237736207482394,
+      "selected_by": "valid_macro_f1",
+      "params": "{\"C\": 1.0, \"class_weight\": null, \"min_df\": 1, \"ngram_range\": [1, 2]}",
+      "negative_precision": 0.9046153846153846,
+      "negative_recall": 0.9453376205787781,
+      "negative_f1": 0.9245283018867925,
+      "negative_support": 311,
+      "neutral_precision": 0.9099099099099099,
+      "neutral_recall": 0.7709923664122137,
+      "neutral_f1": 0.8347107438016529,
+      "neutral_support": 131,
+      "positive_precision": 0.9497041420118343,
+      "positive_recall": 0.9668674698795181,
+      "positive_f1": 0.9582089552238806,
+      "positive_support": 332
+    },
+    {
+      "model_name": "linear_svm",
+      "split": "test",
+      "accuracy": 0.9329032258064516,
+      "macro_precision": 0.9242138822658634,
+      "macro_recall": 0.8996028993329009,
+      "macro_f1": 0.9098090499897985,
+      "weighted_f1": 0.9314917579493712,
+      "selected_by": "valid_macro_f1",
+      "params": "{\"C\": 1.0, \"class_weight\": null, \"min_df\": 1, \"ngram_range\": [1, 2]}",
+      "negative_precision": 0.9101796407185628,
+      "negative_recall": 0.977491961414791,
+      "negative_f1": 0.9426356589147287,
+      "negative_support": 311,
+      "neutral_precision": 0.8928571428571429,
+      "neutral_recall": 0.7633587786259542,
+      "neutral_f1": 0.823045267489712,
+      "neutral_support": 131,
+      "positive_precision": 0.9696048632218845,
+      "positive_recall": 0.9579579579579579,
+      "positive_f1": 0.9637462235649547,
+      "positive_support": 333
+    }
+  ],
+  "confusion_matrices": {
+    "majority_class": {
+      "valid": [
+        [
+          0,
+          0,
+          311
+        ],
+        [
+          0,
+          0,
+          131
+        ],
+        [
+          0,
+          0,
+          332
+        ]
+      ],
+      "test": [
+        [
+          0,
+          0,
+          311
+        ],
+        [
+          0,
+          0,
+          131
+        ],
+        [
+          0,
+          0,
+          333
+        ]
+      ]
+    },
+    "logistic_regression": {
+      "valid": [
+        [
+          288,
+          10,
+          13
+        ],
+        [
+          20,
+          106,
+          5
+        ],
+        [
+          12,
+          7,
+          313
+        ]
+      ],
+      "test": [
+        [
+          298,
+          12,
+          1
+        ],
+        [
+          23,
+          104,
+          4
+        ],
+        [
+          11,
+          13,
+          309
+        ]
+      ]
+    },
+    "linear_svm": {
+      "valid": [
+        [
+          294,
+          7,
+          10
+        ],
+        [
+          23,
+          101,
+          7
+        ],
+        [
+          8,
+          3,
+          321
+        ]
+      ],
+      "test": [
+        [
+          304,
+          5,
+          2
+        ],
+        [
+          23,
+          100,
+          8
+        ],
+        [
+          7,
+          7,
+          319
+        ]
+      ]
+    }
+  }
+}

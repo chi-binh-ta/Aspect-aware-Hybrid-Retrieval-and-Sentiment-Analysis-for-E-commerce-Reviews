@@ -1,0 +1,46 @@
+﻿query_id,query,k,precision_at_k,num_labeled,num_relevant,status
+q01,Khách hàng phàn nàn gì về chất lượng sản phẩm?,3,0.0,3,0.0,computed
+q01,Khách hàng phàn nàn gì về chất lượng sản phẩm?,5,0.0,5,0.0,computed
+q01,Khách hàng phàn nàn gì về chất lượng sản phẩm?,10,0.0,10,0.0,computed
+q02,Có những lỗi hỏng hoặc vấn đề độ bền nào được nhắc đến?,3,0.3333333333333333,3,1.0,computed
+q02,Có những lỗi hỏng hoặc vấn đề độ bền nào được nhắc đến?,5,0.6,5,3.0,computed
+q02,Có những lỗi hỏng hoặc vấn đề độ bền nào được nhắc đến?,10,0.5,10,5.0,computed
+q03,Khách hàng gặp vấn đề gì về giao hàng hoặc vận chuyển?,3,0.3333333333333333,3,1.0,computed
+q03,Khách hàng gặp vấn đề gì về giao hàng hoặc vận chuyển?,5,0.4,5,2.0,computed
+q03,Khách hàng gặp vấn đề gì về giao hàng hoặc vận chuyển?,10,0.3,10,3.0,computed
+q04,Review nào nói giao hàng nhanh hoặc chậm?,3,0.6666666666666666,3,2.0,computed
+q04,Review nào nói giao hàng nhanh hoặc chậm?,5,0.8,5,4.0,computed
+q04,Review nào nói giao hàng nhanh hoặc chậm?,10,0.7,10,7.0,computed
+q05,"Khách hàng phàn nàn gì về đóng gói, hộp hoặc bao bì?",3,0.0,3,0.0,computed
+q05,"Khách hàng phàn nàn gì về đóng gói, hộp hoặc bao bì?",5,0.0,5,0.0,computed
+q05,"Khách hàng phàn nàn gì về đóng gói, hộp hoặc bao bì?",10,0.3,10,3.0,computed
+q06,Đóng gói sản phẩm có chắc chắn và đẹp không?,3,1.0,3,3.0,computed
+q06,Đóng gói sản phẩm có chắc chắn và đẹp không?,5,1.0,5,5.0,computed
+q06,Đóng gói sản phẩm có chắc chắn và đẹp không?,10,1.0,10,10.0,computed
+q07,Khách hàng đánh giá giá cả và độ đáng tiền như thế nào?,3,0.6666666666666666,3,2.0,computed
+q07,Khách hàng đánh giá giá cả và độ đáng tiền như thế nào?,5,0.8,5,4.0,computed
+q07,Khách hàng đánh giá giá cả và độ đáng tiền như thế nào?,10,0.5,10,5.0,computed
+q08,Có review nào chê sản phẩm đắt hoặc không đáng tiền?,3,0.3333333333333333,3,1.0,computed
+q08,Có review nào chê sản phẩm đắt hoặc không đáng tiền?,5,0.2,5,1.0,computed
+q08,Có review nào chê sản phẩm đắt hoặc không đáng tiền?,10,0.2,10,2.0,computed
+q09,Khách hàng nói gì về dịch vụ shop và tư vấn?,3,0.0,3,0.0,computed
+q09,Khách hàng nói gì về dịch vụ shop và tư vấn?,5,0.2,5,1.0,computed
+q09,Khách hàng nói gì về dịch vụ shop và tư vấn?,10,0.4,10,4.0,computed
+q10,Các điểm mạnh của sản phẩm được khách hàng khen là gì?,3,0.6666666666666666,3,2.0,computed
+q10,Các điểm mạnh của sản phẩm được khách hàng khen là gì?,5,0.8,5,4.0,computed
+q10,Các điểm mạnh của sản phẩm được khách hàng khen là gì?,10,0.8,10,8.0,computed
+q11,Các điểm yếu của sản phẩm được nhắc đến là gì?,3,0.0,3,0.0,computed
+q11,Các điểm yếu của sản phẩm được nhắc đến là gì?,5,0.4,5,2.0,computed
+q11,Các điểm yếu của sản phẩm được nhắc đến là gì?,10,0.2,10,2.0,computed
+q12,Review tiêu cực trong ngành hàng Electronic nói gì?,3,0.3333333333333333,3,1.0,computed
+q12,Review tiêu cực trong ngành hàng Electronic nói gì?,5,0.4,5,2.0,computed
+q12,Review tiêu cực trong ngành hàng Electronic nói gì?,10,0.2,10,2.0,computed
+q13,Review tích cực trong ngành hàng Fashion khen điều gì?,3,0.6666666666666666,3,2.0,computed
+q13,Review tích cực trong ngành hàng Fashion khen điều gì?,5,0.8,5,4.0,computed
+q13,Review tích cực trong ngành hàng Fashion khen điều gì?,10,0.9,10,9.0,computed
+q14,Review trung tính trong HealthBeauty mô tả trải nghiệm như thế nào?,3,0.6666666666666666,3,2.0,computed
+q14,Review trung tính trong HealthBeauty mô tả trải nghiệm như thế nào?,5,0.6,5,3.0,computed
+q14,Review trung tính trong HealthBeauty mô tả trải nghiệm như thế nào?,10,0.5,10,5.0,computed
+q15,"Khách hàng nhận xét gì về mẫu mã, size hoặc màu sắc?",3,0.6666666666666666,3,2.0,computed
+q15,"Khách hàng nhận xét gì về mẫu mã, size hoặc màu sắc?",5,0.6,5,3.0,computed
+q15,"Khách hàng nhận xét gì về mẫu mã, size hoặc màu sắc?",10,0.8,10,8.0,computed

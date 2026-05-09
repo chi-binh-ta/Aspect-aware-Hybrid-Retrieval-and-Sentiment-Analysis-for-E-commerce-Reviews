@@ -1,0 +1,21 @@
+{
+  "total_reviews": 5162,
+  "sentiment_column_used": "sentiment_label",
+  "sentiment_distribution": {
+    "positive": 2217,
+    "negative": 2074,
+    "neutral": 871
+  },
+  "rating_distribution": {
+    "1": 1079,
+    "2": 995,
+    "3": 871,
+    "4": 794,
+    "5": 1423
+  },
+  "negative_count": 2074,
+  "positive_count": 2217,
+  "neutral_count": 871,
+  "source_file": "C:\\Users\\hi\\rag_final_workspace\\ecommerce-sentiment-rag\\data\\processed\\sentiment_reviews.csv",
+  "generated_from_module3_zip": true
+}

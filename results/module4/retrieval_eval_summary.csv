@@ -1,0 +1,46 @@
+﻿query_id,query,k,num_results,avg_score,sentiment_counts,category_filter,sentiment_filter
+q01,Khách hàng phàn nàn gì về chất lượng sản phẩm?,3,3,0.8361649513244629,"{""negative"": 3}",,negative
+q01,Khách hàng phàn nàn gì về chất lượng sản phẩm?,5,5,0.8345398902893066,"{""negative"": 5}",,negative
+q01,Khách hàng phàn nàn gì về chất lượng sản phẩm?,10,10,0.8326050043106079,"{""negative"": 10}",,negative
+q02,Có những lỗi hỏng hoặc vấn đề độ bền nào được nhắc đến?,3,3,0.8217286467552185,"{""negative"": 3}",,negative
+q02,Có những lỗi hỏng hoặc vấn đề độ bền nào được nhắc đến?,5,5,0.8204901814460754,"{""negative"": 5}",,negative
+q02,Có những lỗi hỏng hoặc vấn đề độ bền nào được nhắc đến?,10,10,0.8176034688949585,"{""negative"": 10}",,negative
+q03,Khách hàng gặp vấn đề gì về giao hàng hoặc vận chuyển?,3,3,0.8317870497703552,"{""negative"": 3}",,negative
+q03,Khách hàng gặp vấn đề gì về giao hàng hoặc vận chuyển?,5,5,0.8299447894096375,"{""negative"": 5}",,negative
+q03,Khách hàng gặp vấn đề gì về giao hàng hoặc vận chuyển?,10,10,0.8265498876571655,"{""negative"": 10}",,negative
+q04,Review nào nói giao hàng nhanh hoặc chậm?,3,3,0.8488752245903015,"{""positive"": 2, ""neutral"": 1}",,
+q04,Review nào nói giao hàng nhanh hoặc chậm?,5,5,0.8481869697570801,"{""positive"": 4, ""neutral"": 1}",,
+q04,Review nào nói giao hàng nhanh hoặc chậm?,10,10,0.8470292091369629,"{""positive"": 7, ""neutral"": 2, ""negative"": 1}",,
+q05,"Khách hàng phàn nàn gì về đóng gói, hộp hoặc bao bì?",3,3,0.8305047154426575,"{""negative"": 3}",,negative
+q05,"Khách hàng phàn nàn gì về đóng gói, hộp hoặc bao bì?",5,5,0.8298056721687317,"{""negative"": 5}",,negative
+q05,"Khách hàng phàn nàn gì về đóng gói, hộp hoặc bao bì?",10,10,0.8285750150680542,"{""negative"": 10}",,negative
+q06,Đóng gói sản phẩm có chắc chắn và đẹp không?,3,3,0.8598887324333191,"{""positive"": 3}",,
+q06,Đóng gói sản phẩm có chắc chắn và đẹp không?,5,5,0.8595566749572754,"{""positive"": 5}",,
+q06,Đóng gói sản phẩm có chắc chắn và đẹp không?,10,10,0.8582779169082642,"{""positive"": 10}",,
+q07,Khách hàng đánh giá giá cả và độ đáng tiền như thế nào?,3,3,0.8327099680900574,"{""neutral"": 2, ""positive"": 1}",,
+q07,Khách hàng đánh giá giá cả và độ đáng tiền như thế nào?,5,5,0.8311454653739929,"{""neutral"": 3, ""positive"": 2}",,
+q07,Khách hàng đánh giá giá cả và độ đáng tiền như thế nào?,10,10,0.8292773962020874,"{""positive"": 5, ""neutral"": 3, ""negative"": 2}",,
+q08,Có review nào chê sản phẩm đắt hoặc không đáng tiền?,3,3,0.8531317114830017,"{""negative"": 3}",,negative
+q08,Có review nào chê sản phẩm đắt hoặc không đáng tiền?,5,5,0.8520795702934265,"{""negative"": 5}",,negative
+q08,Có review nào chê sản phẩm đắt hoặc không đáng tiền?,10,10,0.8504246473312378,"{""negative"": 10}",,negative
+q09,Khách hàng nói gì về dịch vụ shop và tư vấn?,3,3,0.8417434692382812,"{""negative"": 2, ""positive"": 1}",,
+q09,Khách hàng nói gì về dịch vụ shop và tư vấn?,5,5,0.8378242254257202,"{""negative"": 3, ""positive"": 2}",,
+q09,Khách hàng nói gì về dịch vụ shop và tư vấn?,10,10,0.8338216543197632,"{""negative"": 6, ""positive"": 4}",,
+q10,Các điểm mạnh của sản phẩm được khách hàng khen là gì?,3,3,0.8431835770606995,"{""positive"": 3}",,positive
+q10,Các điểm mạnh của sản phẩm được khách hàng khen là gì?,5,5,0.8420942425727844,"{""positive"": 5}",,positive
+q10,Các điểm mạnh của sản phẩm được khách hàng khen là gì?,10,10,0.8400840759277344,"{""positive"": 10}",,positive
+q11,Các điểm yếu của sản phẩm được nhắc đến là gì?,3,3,0.8260437846183777,"{""negative"": 3}",,negative
+q11,Các điểm yếu của sản phẩm được nhắc đến là gì?,5,5,0.8249408006668091,"{""negative"": 5}",,negative
+q11,Các điểm yếu của sản phẩm được nhắc đến là gì?,10,10,0.8231576681137085,"{""negative"": 10}",,negative
+q12,Review tiêu cực trong ngành hàng Electronic nói gì?,3,3,0.8453760147094727,"{""negative"": 3}",Electronic,negative
+q12,Review tiêu cực trong ngành hàng Electronic nói gì?,5,5,0.8416468501091003,"{""negative"": 5}",Electronic,negative
+q12,Review tiêu cực trong ngành hàng Electronic nói gì?,10,10,0.8377922773361206,"{""negative"": 10}",Electronic,negative
+q13,Review tích cực trong ngành hàng Fashion khen điều gì?,3,3,0.8513620495796204,"{""positive"": 3}",Fashion,positive
+q13,Review tích cực trong ngành hàng Fashion khen điều gì?,5,5,0.8486211895942688,"{""positive"": 5}",Fashion,positive
+q13,Review tích cực trong ngành hàng Fashion khen điều gì?,10,10,0.8455817103385925,"{""positive"": 10}",Fashion,positive
+q14,Review trung tính trong HealthBeauty mô tả trải nghiệm như thế nào?,3,3,0.8460760116577148,"{""neutral"": 3}",HealthBeauty,neutral
+q14,Review trung tính trong HealthBeauty mô tả trải nghiệm như thế nào?,5,5,0.8447801470756531,"{""neutral"": 5}",HealthBeauty,neutral
+q14,Review trung tính trong HealthBeauty mô tả trải nghiệm như thế nào?,10,10,0.8431172370910645,"{""neutral"": 10}",HealthBeauty,neutral
+q15,"Khách hàng nhận xét gì về mẫu mã, size hoặc màu sắc?",3,3,0.8620424270629883,"{""positive"": 2, ""negative"": 1}",,
+q15,"Khách hàng nhận xét gì về mẫu mã, size hoặc màu sắc?",5,5,0.8602922558784485,"{""positive"": 3, ""negative"": 2}",,
+q15,"Khách hàng nhận xét gì về mẫu mã, size hoặc màu sắc?",10,10,0.8578793406486511,"{""positive"": 6, ""negative"": 2, ""neutral"": 2}",,

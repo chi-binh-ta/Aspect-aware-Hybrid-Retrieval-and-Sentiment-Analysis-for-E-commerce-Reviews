@@ -1,0 +1,438 @@
+{
+  "query": "Khách phàn nàn gì về đóng gói?",
+  "target_aspect": "dong_goi",
+  "results": [
+    {
+      "doc_id": "rag_HomeLifestyle_12193854852",
+      "retrieval_text": "Danh mục: HomeLifestyle. Loại sản phẩm: DoDungNhaBep. Tên sản phẩm: Set 30 khay giấy bạc đựng thực phẩm dùng cho nồi chiên không dầu. Rating: 5. Nội dung đánh giá: Giao hàng nhanh , lưu ý shop đóng gói cẩn thận , bảo bì cứng , giao đủ số , nhưng móp méo nhiều, làm bà xả chê gì mà méo móp hết hứng !. Đánh giá chi tiết: product_quality: 5 seller_service: 5 delivery_service: 5.",
+      "comment": "Giao hàng nhanh , lưu ý shop đóng gói cẩn thận , bảo bì cứng , giao đủ số , nhưng móp méo nhiều, làm bà xả chê gì mà méo móp hết hứng !",
+      "category": "HomeLifestyle",
+      "product_name": "Set 30 khay giấy bạc đựng thực phẩm dùng cho nồi chiên không dầu",
+      "product_id": 20948561394,
+      "rating": 5,
+      "predicted_sentiment": "positive",
+      "sentiment_confidence": 0.4861398133290182,
+      "sentiment_margin": 0.3715533825517054,
+      "sentiment_source": "inferred:tfidf_linearsvm.joblib",
+      "text_length": 35,
+      "split": "train",
+      "comment_id": 12193854852,
+      "product_url": "https://shopee.vn/Set-30-khay-gi%E1%BA%A5y-b%E1%BA%A1c-%C4%91%E1%BB%B1ng-th%E1%BB%B1c-ph%E1%BA%A9m-d%C3%B9ng-cho-n%E1%BB%93i-chi%C3%AAn-kh%C3%B4ng-d%E1%BA%A7u-i.318939667.20948561394?sp_atk=880acc03-f61b-434d-bb57-497a9528aab3&xptdk=880acc03-f61b-434d-bb57-497a9528aab3",
+      "sub_category": "DoDungNhaBep",
+      "helpfulness_score": 3,
+      "detail_rating": "product_quality: 5 seller_service: 5 delivery_service: 5",
+      "key_aspects": 4,
+      "decision_making_advice": 2,
+      "image_helpfulness": 4,
+      "source_file": "RAG/HomeLifestyle-train.json",
+      "has_response": true,
+      "review_id": "rag_HomeLifestyle_12193854852",
+      "text": "Giao hàng nhanh , lưu ý shop đóng gói cẩn thận , bảo bì cứng , giao đủ số , nhưng móp méo nhiều, làm bà xả chê gì mà méo móp hết hứng !",
+      "bm25_rank": 12,
+      "dense_rank": null,
+      "rrf_score": 0.013888888888888888,
+      "source_flags": [
+        "bm25_expanded"
+      ],
+      "detected_aspects": [
+        "chat_luong",
+        "giao_hang",
+        "dong_goi",
+        "dich_vu_shop"
+      ],
+      "aspect_sentiments": {
+        "chat_luong": "neutral",
+        "giao_hang": "positive",
+        "dong_goi": "negative",
+        "dich_vu_shop": "positive"
+      },
+      "keyword_bonus": 1.0,
+      "complaint_intent_score": 1.5,
+      "reranker_score": -4.088534832000732,
+      "final_score": 2.001030484631495,
+      "rank_after_rerank": 1
+    },
+    {
+      "doc_id": "rag_HomeLifestyle_15767930293",
+      "retrieval_text": "Danh mục: HomeLifestyle. Loại sản phẩm: DoNoiThat. Tên sản phẩm: Kệ giá đỡ trưng bày hộp yến sào đĩa ảnh sách, kệ chân đế giá đỡ trưng bày huy hiệu đồng hồ, đồng xu thẻ. Rating: 3. Nội dung đánh giá: Đóng gói sơ sài nên bị vỡ và gãy 1chiếc 👉giá cả thì phải chăng Nói chung là shop đóng gói cẩn thận hơn chút là ok. Đánh giá chi tiết: product_quality: 3 seller_service: 2 delivery_service: 4 driver_service: 5.",
+      "comment": "Đóng gói sơ sài nên bị vỡ và gãy 1chiếc 👉giá cả thì phải chăng Nói chung là shop đóng gói cẩn thận hơn chút là ok",
+      "category": "HomeLifestyle",
+      "product_name": "Kệ giá đỡ trưng bày hộp yến sào đĩa ảnh sách, kệ chân đế giá đỡ trưng bày huy hiệu đồng hồ, đồng xu thẻ",
+      "product_id": 26052424702,
+      "rating": 3,
+      "predicted_sentiment": "positive",
+      "sentiment_confidence": 0.6016571664266366,
+      "sentiment_margin": 0.82779466976365,
+      "sentiment_source": "inferred:tfidf_linearsvm.joblib",
+      "text_length": 27,
+      "split": "train",
+      "comment_id": 15767930293,
+      "product_url": "https://shopee.vn/K%E1%BB%87-gi%C3%A1-%C4%91%E1%BB%A1-tr%C6%B0ng-b%C3%A0y-h%E1%BB%99p-y%E1%BA%BFn-s%C3%A0o-%C4%91%C4%A9a-%E1%BA%A3nh-s%C3%A1ch-k%E1%BB%87-ch%C3%A2n-%C4%91%E1%BA%BF-gi%C3%A1-%C4%91%E1%BB%A1-tr%C6%B0ng-b%C3%A0y-huy-hi%E1%BB%87u-%C4%91%E1%BB%93ng-h%E1%BB%93-%C4%91%E1%BB%93ng-xu-th%E1%BA%BB-i.40246675.26052424702?sp_atk=3a279495-7696-4a86-b708-f7259960876e&xptdk=3a279495-7696-4a86-b708-f7259960876e",
+      "sub_category": "DoNoiThat",
+      "helpfulness_score": 2,
+      "detail_rating": "product_quality: 3 seller_service: 2 delivery_service: 4 driver_service: 5",
+      "key_aspects": 3,
+      "decision_making_advice": 2,
+      "image_helpfulness": 2,
+      "source_file": "RAG/HomeLifestyle-train.json",
+      "has_response": true,
+      "review_id": "rag_HomeLifestyle_15767930293",
+      "text": "Đóng gói sơ sài nên bị vỡ và gãy 1chiếc 👉giá cả thì phải chăng Nói chung là shop đóng gói cẩn thận hơn chút là ok",
+      "bm25_rank": 41,
+      "dense_rank": 6,
+      "rrf_score": 0.025052505250525055,
+      "source_flags": [
+        "bm25_expanded",
+        "dense"
+      ],
+      "detected_aspects": [
+        "dong_goi",
+        "gia",
+        "dich_vu_shop"
+      ],
+      "aspect_sentiments": {
+        "dong_goi": "negative",
+        "gia": "neutral",
+        "dich_vu_shop": "neutral"
+      },
+      "keyword_bonus": 1.0,
+      "complaint_intent_score": 1.5,
+      "reranker_score": -6.705988883972168,
+      "final_score": 1.9743797847505462,
+      "rank_after_rerank": 2
+    },
+    {
+      "doc_id": "rag_HomeLifestyle_15922336091",
+      "retrieval_text": "Danh mục: HomeLifestyle. Loại sản phẩm: DoGiaDung. Tên sản phẩm: Cốc Xay Sinh Tố Mini Cầm Tay, Máy Xay Sinh Tố Sạc Pin Tích Điện Kèm Ống Hút. Rating: 5. Nội dung đánh giá: Giao đúng sản phẩm. Chất lượng ok. Đóng gói sơ sài nên hộp bị móp méo may là ko ảnh hưởng sản phẩm.. Đánh giá chi tiết: product_quality: 5 seller_service: 5 delivery_service: 5.",
+      "comment": "Giao đúng sản phẩm. Chất lượng ok. Đóng gói sơ sài nên hộp bị móp méo may là ko ảnh hưởng sản phẩm.",
+      "category": "HomeLifestyle",
+      "product_name": "Cốc Xay Sinh Tố Mini Cầm Tay, Máy Xay Sinh Tố Sạc Pin Tích Điện Kèm Ống Hút",
+      "product_id": 28605620971,
+      "rating": 5,
+      "predicted_sentiment": "negative",
+      "sentiment_confidence": 0.5607561326085064,
+      "sentiment_margin": 0.7676206594713624,
+      "sentiment_source": "inferred:tfidf_linearsvm.joblib",
+      "text_length": 23,
+      "split": "train",
+      "comment_id": 15922336091,
+      "product_url": "https://shopee.vn/C%E1%BB%91c-Xay-Sinh-T%E1%BB%91-Mini-C%E1%BA%A7m-Tay-M%C3%A1y-Xay-Sinh-T%E1%BB%91-S%E1%BA%A1c-Pin-T%C3%ADch-%C4%90i%E1%BB%87n-K%C3%A8m-%E1%BB%90ng-H%C3%BAt-i.715542898.28605620971?sp_atk=ee7bd6f9-ea06-491f-9692-acf147bd45be&xptdk=ee7bd6f9-ea06-491f-9692-acf147bd45be",
+      "sub_category": "DoGiaDung",
+      "helpfulness_score": 3,
+      "detail_rating": "product_quality: 5 seller_service: 5 delivery_service: 5",
+      "key_aspects": 2,
+      "decision_making_advice": 2,
+      "image_helpfulness": 4,
+      "source_file": "RAG/HomeLifestyle-train.json",
+      "has_response": true,
+      "review_id": "rag_HomeLifestyle_15922336091",
+      "text": "Giao đúng sản phẩm. Chất lượng ok. Đóng gói sơ sài nên hộp bị móp méo may là ko ảnh hưởng sản phẩm.",
+      "bm25_rank": 2,
+      "dense_rank": null,
+      "rrf_score": 0.016129032258064516,
+      "source_flags": [
+        "bm25_expanded"
+      ],
+      "detected_aspects": [
+        "chat_luong",
+        "giao_hang",
+        "dong_goi",
+        "mau_ma_size_mau"
+      ],
+      "aspect_sentiments": {
+        "chat_luong": "neutral",
+        "giao_hang": "neutral",
+        "dong_goi": "negative",
+        "mau_ma_size_mau": "neutral"
+      },
+      "keyword_bonus": 1.0,
+      "complaint_intent_score": 1.5,
+      "reranker_score": -5.844851970672607,
+      "final_score": 1.8961117162379204,
+      "rank_after_rerank": 3
+    },
+    {
+      "doc_id": "rag_HealthBeauty_16155056362",
+      "retrieval_text": "Danh mục: HealthBeauty. Loại sản phẩm: DungCuMassageTriLieu. Tên sản phẩm: máy massage cổ vai gáy 6D BẢN CAO CẤP CÓ ĐÈN HỒNG NGOẠI , khăn choàng massage cổ vai gáy. Rating: 5. Nội dung đánh giá: Giao hàng nhanh thử thì cũng thấy ok. Ns chung săn sale đc giá khá tốt. Có điều đóng gói sơ sài làm hộp móp méo. Nếu sp bên trong ảnh hưởng thì ko biết ntn. Cho shop 5 sao châm chước thôi nha.. Đánh giá chi tiết: product_quality: 5 seller_service: 5 delivery_service: 5.",
+      "comment": "Giao hàng nhanh thử thì cũng thấy ok. Ns chung săn sale đc giá khá tốt. Có điều đóng gói sơ sài làm hộp móp méo. Nếu sp bên trong ảnh hưởng thì ko biết ntn. Cho shop 5 sao châm chước thôi nha.",
+      "category": "HealthBeauty",
+      "product_name": "máy massage cổ vai gáy 6D BẢN CAO CẤP CÓ ĐÈN HỒNG NGOẠI , khăn choàng massage cổ vai gáy",
+      "product_id": 29102195213,
+      "rating": 5,
+      "predicted_sentiment": "positive",
+      "sentiment_confidence": 0.50182107023112,
+      "sentiment_margin": 0.5895376166657711,
+      "sentiment_source": "inferred:tfidf_linearsvm.joblib",
+      "text_length": 44,
+      "split": "train",
+      "comment_id": 16155056362,
+      "product_url": "https://shopee.vn/m%C3%A1y-massage-c%E1%BB%95-vai-g%C3%A1y-6D-B%E1%BA%A2N-CAO-C%E1%BA%A4P-C%C3%93-%C4%90%C3%88N-H%E1%BB%92NG-NGO%E1%BA%A0I-kh%C4%83n-cho%C3%A0ng-massage-c%E1%BB%95-vai-g%C3%A1y-i.479414281.29102195213?sp_atk=38e9ecb3-d44e-4ad8-9684-72f70d2087bf&xptdk=38e9ecb3-d44e-4ad8-9684-72f70d2087bf",
+      "sub_category": "DungCuMassageTriLieu",
+      "helpfulness_score": 4,
+      "detail_rating": "product_quality: 5 seller_service: 5 delivery_service: 5",
+      "key_aspects": 4,
+      "decision_making_advice": 3,
+      "image_helpfulness": 4,
+      "source_file": "RAG/HealthBeauty-train.json",
+      "has_response": true,
+      "review_id": "rag_HealthBeauty_16155056362",
+      "text": "Giao hàng nhanh thử thì cũng thấy ok. Ns chung săn sale đc giá khá tốt. Có điều đóng gói sơ sài làm hộp móp méo. Nếu sp bên trong ảnh hưởng thì ko biết ntn. Cho shop 5 sao châm chước thôi nha.",
+      "bm25_rank": 16,
+      "dense_rank": null,
+      "rrf_score": 0.013157894736842105,
+      "source_flags": [
+        "bm25_expanded"
+      ],
+      "detected_aspects": [
+        "chat_luong",
+        "giao_hang",
+        "dong_goi",
+        "gia",
+        "dich_vu_shop",
+        "mau_ma_size_mau"
+      ],
+      "aspect_sentiments": {
+        "chat_luong": "positive",
+        "giao_hang": "positive",
+        "dong_goi": "mixed",
+        "gia": "neutral",
+        "dich_vu_shop": "positive",
+        "mau_ma_size_mau": "neutral"
+      },
+      "keyword_bonus": 1.0,
+      "complaint_intent_score": 1.5,
+      "reranker_score": -5.567748546600342,
+      "final_score": 1.8692738166164253,
+      "rank_after_rerank": 5
+    },
+    {
+      "doc_id": "rag_HealthBeauty_13109873202",
+      "retrieval_text": "Danh mục: HealthBeauty. Loại sản phẩm: DungCuMassageTriLieu. Tên sản phẩm: Miếng Massage Xung Điện Cổ Vai Gáy, Bắp Tay, Lưng Bằng Sung Điện Giảm Đau Nhức Hiệu Qủa -Máy Mat xa Toàn Thân 10 Chế Độ. Rating: 5. Nội dung đánh giá: Tốt chuẩn y như qc nhưng bao bì hơi bị móp do ship nhưng vẫn cho shop 5 sao... Đánh giá chi tiết: product_quality: 5 seller_service: 5 delivery_service: 5.",
+      "comment": "Tốt chuẩn y như qc nhưng bao bì hơi bị móp do ship nhưng vẫn cho shop 5 sao..",
+      "category": "HealthBeauty",
+      "product_name": "Miếng Massage Xung Điện Cổ Vai Gáy, Bắp Tay, Lưng Bằng Sung Điện Giảm Đau Nhức Hiệu Qủa -Máy Mat xa Toàn Thân 10 Chế Độ",
+      "product_id": 20575067020,
+      "rating": 5,
+      "predicted_sentiment": "negative",
+      "sentiment_confidence": 0.4232888702464441,
+      "sentiment_margin": 0.2083064061323522,
+      "sentiment_source": "inferred:tfidf_linearsvm.joblib",
+      "text_length": 19,
+      "split": "test",
+      "comment_id": 13109873202,
+      "product_url": "https://shopee.vn/Mi%E1%BA%BFng-Massage-Xung-%C4%90i%E1%BB%87n-C%E1%BB%95-Vai-G%C3%A1y-B%E1%BA%AFp-Tay-L%C6%B0ng-B%E1%BA%B1ng-Sung-%C4%90i%E1%BB%87n-Gi%E1%BA%A3m-%C4%90au-Nh%E1%BB%A9c-Hi%E1%BB%87u-Q%E1%BB%A7a-M%C3%A1y-Mat-xa-To%C3%A0n-Th%C3%A2n-10-Ch%E1%BA%BF-%C4%90%E1%BB%99-i.53118009.20575067020?sp_atk=17a1b6fa-f08f-4210-a67c-48484f02dcc0&xptdk=17a1b6fa-f08f-4210-a67c-48484f02dcc0",
+      "sub_category": "DungCuMassageTriLieu",
+      "helpfulness_score": 4,
+      "detail_rating": "product_quality: 5 seller_service: 5 delivery_service: 5",
+      "key_aspects": 3,
+      "decision_making_advice": 3,
+      "image_helpfulness": 5,
+      "source_file": "RAG/HealthBeauty-test.json",
+      "has_response": true,
+      "review_id": "rag_HealthBeauty_13109873202",
+      "text": "Tốt chuẩn y như qc nhưng bao bì hơi bị móp do ship nhưng vẫn cho shop 5 sao..",
+      "bm25_rank": 11,
+      "dense_rank": null,
+      "rrf_score": 0.014084507042253521,
+      "source_flags": [
+        "bm25_expanded"
+      ],
+      "detected_aspects": [
+        "chat_luong",
+        "giao_hang",
+        "dong_goi",
+        "dich_vu_shop"
+      ],
+      "aspect_sentiments": {
+        "chat_luong": "positive",
+        "giao_hang": "neutral",
+        "dong_goi": "mixed",
+        "dich_vu_shop": "positive"
+      },
+      "keyword_bonus": 1.0,
+      "complaint_intent_score": 1.5,
+      "reranker_score": -6.057545185089111,
+      "final_score": 1.8450185233188643,
+      "rank_after_rerank": 6
+    }
+  ],
+  "aspect_summary": {
+    "chat_luong": {
+      "sentiment": "positive",
+      "evidence": [
+        {
+          "review_id": "rag_HomeLifestyle_12193854852",
+          "text": "Giao hàng nhanh , lưu ý shop đóng gói cẩn thận , bảo bì cứng , giao đủ số , nhưng móp méo nhiều, làm bà xả chê gì mà méo móp hết hứng !",
+          "sentiment": "neutral",
+          "rank": 1,
+          "score": 2.001030484631495
+        },
+        {
+          "review_id": "rag_HomeLifestyle_15922336091",
+          "text": "Giao đúng sản phẩm. Chất lượng ok. Đóng gói sơ sài nên hộp bị móp méo may là ko ảnh hưởng sản phẩm.",
+          "sentiment": "neutral",
+          "rank": 3,
+          "score": 1.8961117162379204
+        },
+        {
+          "review_id": "rag_HealthBeauty_16155056362",
+          "text": "Giao hàng nhanh thử thì cũng thấy ok. Ns chung săn sale đc giá khá tốt. Có điều đóng gói sơ sài làm hộp móp méo. Nếu sp bên trong ảnh hưởng thì ko biết ntn. Cho shop 5 sao châm chước thôi nha.",
+          "sentiment": "positive",
+          "rank": 5,
+          "score": 1.8692738166164253
+        },
+        {
+          "review_id": "rag_HealthBeauty_13109873202",
+          "text": "Tốt chuẩn y như qc nhưng bao bì hơi bị móp do ship nhưng vẫn cho shop 5 sao..",
+          "sentiment": "positive",
+          "rank": 6,
+          "score": 1.8450185233188643
+        }
+      ]
+    },
+    "dich_vu_shop": {
+      "sentiment": "positive",
+      "evidence": [
+        {
+          "review_id": "rag_HomeLifestyle_12193854852",
+          "text": "Giao hàng nhanh , lưu ý shop đóng gói cẩn thận , bảo bì cứng , giao đủ số , nhưng móp méo nhiều, làm bà xả chê gì mà méo móp hết hứng !",
+          "sentiment": "positive",
+          "rank": 1,
+          "score": 2.001030484631495
+        },
+        {
+          "review_id": "rag_HomeLifestyle_15767930293",
+          "text": "Đóng gói sơ sài nên bị vỡ và gãy 1chiếc 👉giá cả thì phải chăng Nói chung là shop đóng gói cẩn thận hơn chút là ok",
+          "sentiment": "neutral",
+          "rank": 2,
+          "score": 1.9743797847505462
+        },
+        {
+          "review_id": "rag_HealthBeauty_16155056362",
+          "text": "Giao hàng nhanh thử thì cũng thấy ok. Ns chung săn sale đc giá khá tốt. Có điều đóng gói sơ sài làm hộp móp méo. Nếu sp bên trong ảnh hưởng thì ko biết ntn. Cho shop 5 sao châm chước thôi nha.",
+          "sentiment": "positive",
+          "rank": 5,
+          "score": 1.8692738166164253
+        },
+        {
+          "review_id": "rag_HealthBeauty_13109873202",
+          "text": "Tốt chuẩn y như qc nhưng bao bì hơi bị móp do ship nhưng vẫn cho shop 5 sao..",
+          "sentiment": "positive",
+          "rank": 6,
+          "score": 1.8450185233188643
+        }
+      ]
+    },
+    "dong_goi": {
+      "sentiment": "mixed",
+      "evidence": [
+        {
+          "review_id": "rag_HomeLifestyle_12193854852",
+          "text": "Giao hàng nhanh , lưu ý shop đóng gói cẩn thận , bảo bì cứng , giao đủ số , nhưng móp méo nhiều, làm bà xả chê gì mà méo móp hết hứng !",
+          "sentiment": "negative",
+          "rank": 1,
+          "score": 2.001030484631495
+        },
+        {
+          "review_id": "rag_HomeLifestyle_15767930293",
+          "text": "Đóng gói sơ sài nên bị vỡ và gãy 1chiếc 👉giá cả thì phải chăng Nói chung là shop đóng gói cẩn thận hơn chút là ok",
+          "sentiment": "negative",
+          "rank": 2,
+          "score": 1.9743797847505462
+        },
+        {
+          "review_id": "rag_HomeLifestyle_15922336091",
+          "text": "Giao đúng sản phẩm. Chất lượng ok. Đóng gói sơ sài nên hộp bị móp méo may là ko ảnh hưởng sản phẩm.",
+          "sentiment": "negative",
+          "rank": 3,
+          "score": 1.8961117162379204
+        },
+        {
+          "review_id": "rag_HealthBeauty_16155056362",
+          "text": "Giao hàng nhanh thử thì cũng thấy ok. Ns chung săn sale đc giá khá tốt. Có điều đóng gói sơ sài làm hộp móp méo. Nếu sp bên trong ảnh hưởng thì ko biết ntn. Cho shop 5 sao châm chước thôi nha.",
+          "sentiment": "mixed",
+          "rank": 5,
+          "score": 1.8692738166164253
+        },
+        {
+          "review_id": "rag_HealthBeauty_13109873202",
+          "text": "Tốt chuẩn y như qc nhưng bao bì hơi bị móp do ship nhưng vẫn cho shop 5 sao..",
+          "sentiment": "mixed",
+          "rank": 6,
+          "score": 1.8450185233188643
+        }
+      ]
+    },
+    "gia": {
+      "sentiment": "neutral",
+      "evidence": [
+        {
+          "review_id": "rag_HomeLifestyle_15767930293",
+          "text": "Đóng gói sơ sài nên bị vỡ và gãy 1chiếc 👉giá cả thì phải chăng Nói chung là shop đóng gói cẩn thận hơn chút là ok",
+          "sentiment": "neutral",
+          "rank": 2,
+          "score": 1.9743797847505462
+        },
+        {
+          "review_id": "rag_HealthBeauty_16155056362",
+          "text": "Giao hàng nhanh thử thì cũng thấy ok. Ns chung săn sale đc giá khá tốt. Có điều đóng gói sơ sài làm hộp móp méo. Nếu sp bên trong ảnh hưởng thì ko biết ntn. Cho shop 5 sao châm chước thôi nha.",
+          "sentiment": "neutral",
+          "rank": 5,
+          "score": 1.8692738166164253
+        }
+      ]
+    },
+    "giao_hang": {
+      "sentiment": "positive",
+      "evidence": [
+        {
+          "review_id": "rag_HomeLifestyle_12193854852",
+          "text": "Giao hàng nhanh , lưu ý shop đóng gói cẩn thận , bảo bì cứng , giao đủ số , nhưng móp méo nhiều, làm bà xả chê gì mà méo móp hết hứng !",
+          "sentiment": "positive",
+          "rank": 1,
+          "score": 2.001030484631495
+        },
+        {
+          "review_id": "rag_HomeLifestyle_15922336091",
+          "text": "Giao đúng sản phẩm. Chất lượng ok. Đóng gói sơ sài nên hộp bị móp méo may là ko ảnh hưởng sản phẩm.",
+          "sentiment": "neutral",
+          "rank": 3,
+          "score": 1.8961117162379204
+        },
+        {
+          "review_id": "rag_HealthBeauty_16155056362",
+          "text": "Giao hàng nhanh thử thì cũng thấy ok. Ns chung săn sale đc giá khá tốt. Có điều đóng gói sơ sài làm hộp móp méo. Nếu sp bên trong ảnh hưởng thì ko biết ntn. Cho shop 5 sao châm chước thôi nha.",
+          "sentiment": "positive",
+          "rank": 5,
+          "score": 1.8692738166164253
+        },
+        {
+          "review_id": "rag_HealthBeauty_13109873202",
+          "text": "Tốt chuẩn y như qc nhưng bao bì hơi bị móp do ship nhưng vẫn cho shop 5 sao..",
+          "sentiment": "neutral",
+          "rank": 6,
+          "score": 1.8450185233188643
+        }
+      ]
+    },
+    "mau_ma_size_mau": {
+      "sentiment": "neutral",
+      "evidence": [
+        {
+          "review_id": "rag_HomeLifestyle_15922336091",
+          "text": "Giao đúng sản phẩm. Chất lượng ok. Đóng gói sơ sài nên hộp bị móp méo may là ko ảnh hưởng sản phẩm.",
+          "sentiment": "neutral",
+          "rank": 3,
+          "score": 1.8961117162379204
+        },
+        {
+          "review_id": "rag_HealthBeauty_16155056362",
+          "text": "Giao hàng nhanh thử thì cũng thấy ok. Ns chung săn sale đc giá khá tốt. Có điều đóng gói sơ sài làm hộp móp méo. Nếu sp bên trong ảnh hưởng thì ko biết ntn. Cho shop 5 sao châm chước thôi nha.",
+          "sentiment": "neutral",
+          "rank": 5,
+          "score": 1.8692738166164253
+        }
+      ]
+    }
+  }
+}

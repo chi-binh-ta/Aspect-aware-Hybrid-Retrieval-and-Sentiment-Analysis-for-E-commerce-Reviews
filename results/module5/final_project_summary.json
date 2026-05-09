@@ -1,0 +1,16 @@
+{
+  "module2_best_model": "linear_svm",
+  "module2_best_macro_f1": 0.9098090499897984,
+  "module2_best_valid_macro_f1": 0.9058160003041088,
+  "module3_total_reviews": 5162,
+  "module3_sentiment_distribution": {
+    "positive": 2217,
+    "negative": 2074,
+    "neutral": 871
+  },
+  "module4_num_eval_queries": 15,
+  "module4_rag_query": "Khách hàng phàn nàn gì về giao sai hàng, giao chậm hoặc đóng gói bị móp?",
+  "module4_strong_negative_count": 5,
+  "module4_noise_filtered_count": 0,
+  "missing_optional_files": []
+}

@@ -1,0 +1,14 @@
+{
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "index_type": "IndexFlatIP",
+  "similarity": "cosine_via_normalized_inner_product",
+  "e5_passage_prefix": "passage: ",
+  "e5_query_prefix": "query: ",
+  "embedding_dim": 384,
+  "num_documents": 45259,
+  "metadata_path": "/content/ecommerce-sentiment-rag/models/module4/review_metadata.parquet",
+  "index_path": "/content/ecommerce-sentiment-rag/models/module4/review_faiss.index",
+  "input_path": "/content/ecommerce-sentiment-rag/data/processed/rag_corpus_module4.csv",
+  "sample_size": 0,
+  "seed": 42
+}

@@ -1,0 +1,58 @@
+{
+  "sentiment_raw_rows": 5971,
+  "sentiment_after_cleaning_rows": 5971,
+  "sentiment_after_dedup_rows": 5162,
+  "sentiment_removed_conflict_duplicates": 46,
+  "sentiment_3class_distribution": {
+    "positive": 2217,
+    "negative": 2074,
+    "neutral": 871
+  },
+  "sentiment_5class_distribution": {
+    "rating_1": 1079,
+    "rating_2": 995,
+    "rating_3": 871,
+    "rating_4": 794,
+    "rating_5": 1423
+  },
+  "sentiment_split_distribution": {
+    "test": {
+      "negative": 311,
+      "neutral": 131,
+      "positive": 333
+    },
+    "train": {
+      "negative": 1452,
+      "neutral": 609,
+      "positive": 1552
+    },
+    "valid": {
+      "negative": 311,
+      "neutral": 131,
+      "positive": 332
+    }
+  },
+  "sentiment_avg_text_length": 13.129600929872142,
+  "rag_total_documents": 45259,
+  "rag_category_distribution": {
+    "HealthBeauty": 13989,
+    "Fashion": 10923,
+    "Electronic": 10349,
+    "HomeLifestyle": 9998
+  },
+  "rag_split_distribution": {
+    "dev": 4445,
+    "test": 9054,
+    "train": 31760
+  },
+  "rag_rating_distribution": {
+    "1": 357,
+    "2": 140,
+    "3": 413,
+    "4": 1321,
+    "5": 43028
+  },
+  "rag_avg_text_length": 28.676285379703483,
+  "rag_num_empty_comments_removed": 0,
+  "rag_num_duplicates_removed": 551
+}

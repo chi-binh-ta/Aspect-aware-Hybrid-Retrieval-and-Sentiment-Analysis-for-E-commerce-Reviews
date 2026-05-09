@@ -1,0 +1,1550 @@
+﻿review_id,text,true_label,predicted_label,correct,split,model_name
+sent_000008,"Nhân viên giao hàng nhiệt tình, hàng đc giao nguyên vẹn, giấy hướng dẫn đơn giản và dễ hiểu, theo mình thấy thì ko có khó khăn j trong vc lắp ráp ngoài việc khối lượng hơi nặng so vs các bạn nữ",positive,positive,True,valid,linear_svm
+sent_000027,"Mình đã nhận được sản phẩm, mình thấy với mức giá này là quá rẻ mà chất lượng thì tốt nên mình đặt hẳn 2 cái luôn, có điều cái đầu tiên thì giao nhanh còn cái còn lại đợi lâu nên hơi sốt ruột, mãi nay mới về đủ, sản phẩm nhỏ gọn ko quá to cũng ko quá nhỏ với kích thước này mình chưng sách là quá ok, vừa hay 3 cái kệ nhà mình đã đầy ko còn chỗ chứa hyhy mua được thêm 2 cái kệ vừa rẻ vừa đẹp thích lắm luôn, mua đi các bạn ko hối hận đâu",positive,positive,True,valid,linear_svm
+sent_000038,Lần đầu đặt mua shipper k gọi giao nhưng lại báo mình k nhận trong khi mình chờ mòn mông cả gần tuần,negative,negative,True,valid,linear_svm
+sent_000041,"Lắp ráp không khó, tuy nhiên hướng dẫn cần chi tiết hơn, các bước, nên đánh số các miếng để người lắp dễ hơn",neutral,neutral,True,valid,linear_svm
+sent_000046,Sản phẩm hợp giá thành và tốt,positive,positive,True,valid,linear_svm
+sent_000054,Thật sự hơi bị thất vọng về lần mua hàng này,negative,negative,True,valid,linear_svm
+sent_000061,"giá mua là 538k lúc sale, giá cả hợp túi tiền, hàng đẹp, mình dư đc 1 đinh ốc, có vài lỗi nhỏ nhưng chấp nhận được như bóng tróc góc, mẻ góc",positive,positive,True,valid,linear_svm
+sent_000063,Đặt hàng 2-3h nhận nhưng 5h sau mới nhận được hàng trong khi trả tiền nhiều hơn mục đích nhận đơn sớm,negative,negative,True,valid,linear_svm
+sent_000075,"tiki giao hàng thần tốc, mới vừa đặt tối hôm qua mà sáng nay đã giao 🤣 hết hồn luôn",positive,positive,True,valid,linear_svm
+sent_000076,"Kệ giống hình, đẹp, nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",neutral,negative,False,valid,linear_svm
+sent_000079,"Mình nhận được kệ khi mở ra thì có rất nhiều tấm ván bị mẻ góc, nham nhở, chỉ dán cạnh bị bung",negative,negative,True,valid,linear_svm
+sent_000089,"Mình đặt hàng sau 3 4 ngày nhận được, giao hàng bằng ninjavan",neutral,neutral,True,valid,linear_svm
+sent_000092,"Không có gì để chê luôn, không 1 vết xước, kệ cứng cáp, dễ lắp (mình nghĩ con gái làm dễ dàng lun)",positive,positive,True,valid,linear_svm
+sent_000098,"sản phẩm rất chắc chắn, đẹp và nặng",positive,positive,True,valid,linear_svm
+sent_000102,Cảm ơn Tiki và nhà cung cấp! Tiki giao hàng rất nhanh ạ,positive,positive,True,valid,linear_svm
+sent_000108,"Do ốc vít của sản phẩm kèm theo hơi nhỏ, vặn ko được chắc, cảm giác kệ không được vững, Nên thay bằng vít to hơn",negative,negative,True,valid,linear_svm
+sent_000109,"Mình lắp rất chuẩn nhưng khi dựng lên thì kệ không chắc chắn, rất dễ ngã",negative,positive,False,valid,linear_svm
+sent_000111,"Sản phẩm đẹp, lắp ghép rất dễ dàng",positive,positive,True,valid,linear_svm
+sent_000118,"Lụi cụi 1 mình ghép cũg cả tiếg, lần đầu ngồi ghép kệ cũg thú vị",neutral,neutral,True,valid,linear_svm
+sent_000123,"Hướng dẫn sơ xài, làm xoắn não cũng là một điểm cộng, do mình khoái trò lắp ráp",negative,neutral,False,valid,linear_svm
+sent_000125,"sản phẩm kệ được thiết kế các ô to nhỏ xen kẽ theo kiểu zich zac, vậy mà các lỗ khoan vít lại khoan đối xứng nhau ở hai thanh cạnh, chẳng hiểu thợ làm ăn như nào, ko biết có đổi lại được không và nếu đổi được thì có phải mất phí ship lần nữa ko",negative,negative,True,valid,linear_svm
+sent_000127,"Ván đẹp, các chi tiết rất đều đặn, dễ lắp ráp nhưng đừng vặn vít quá sát vì là ván gỗ ép",positive,positive,True,valid,linear_svm
+sent_000130,rất không hài lòng về sản phẩm,negative,positive,False,valid,linear_svm
+sent_000145,"Vận chuyển nhanh chóng, bọc cẩn thận, không bị va đập",positive,positive,True,valid,linear_svm
+sent_000146,"Kệ giá tốt lại đẹp lắm nha, ráp cũng dễ mình tốn khoảng 30p, các lỗ khoan sẵn bắt vít ngay khớp luôn",positive,positive,True,valid,linear_svm
+sent_000147,"Hàng đẹp, đúng như hình, giao hàng nhanh, nhưng kệ hơi nhỏ, nv giao hàng lịch sự , thân thiện , cảm ơn Tiki",positive,positive,True,valid,linear_svm
+sent_000173,"Kệ cũng dễ lắp ráp, cứ bắt ốc vào và xoay thôi",positive,positive,True,valid,linear_svm
+sent_000176,"Hàng khá ổn, đẹp",positive,positive,True,valid,linear_svm
+sent_000190,"Các miếng gỗ có kích thước không đều và không khớp với nhau, nên khi lắp vào vào vẫn bị hụt, cố siết vít vào thì kệ nhìn bị méo",negative,negative,True,valid,linear_svm
+sent_000191,"sản phẩm đẹp ,rất tốt,gỗ cầm chắc nịch,nặng phải mấy chục cân,nói chung rất là chim ưng",positive,positive,True,valid,linear_svm
+sent_000196,hàng như hình,neutral,negative,False,valid,linear_svm
+sent_000225,Mình cũng mua một bộ nhưng bên Tiki giao nhầm hàng và từ đó đến này đã gần 2 tuần nhưng tiki không thu hồi được và liên tục xin lỗi khách hàng,negative,negative,True,valid,linear_svm
+sent_000240,"Thiết kế đơn giản, đẹp mắt và tiện dụng",positive,positive,True,valid,linear_svm
+sent_000246,"Kệ đẹp hơn mong đợi, nên mua nha moi người! 👍",positive,positive,True,valid,linear_svm
+sent_000249,"lắp xong thì dư 6 lỗ không có khớp để tra đinh vào, và dư 1 bịch đinh không biết lắp vào đâu",negative,negative,True,valid,linear_svm
+sent_000251,"Tiki giao hàng nhanh hơn dự kiến, giao vào ngày Chủ Nhật luôn",positive,positive,True,valid,linear_svm
+sent_000262,"Mình dùng máy vặn vít mới lắp đc cái kệ này, vặn bằng tay bị phồng hết cả tay =",negative,negative,True,valid,linear_svm
+sent_000268,Hàng tốt,positive,positive,True,valid,linear_svm
+sent_000277,"Sp rất đẹp, rất ưng ý mà giá lại rẻ! Giao hàng đúng hẹn dù trời mưa to",positive,positive,True,valid,linear_svm
+sent_000286,"Mua được 2 tuần rồi nay mới lên review, kệ đẹp, chắc chắn, giá vừa với sản phẩm, dễ dàng lắp ráp, giao hàng nhanh, nói chung là ổn",positive,positive,True,valid,linear_svm
+sent_000290,Chất lượng ván gỗ tốt,positive,positive,True,valid,linear_svm
+sent_000307,Bao đẹp,positive,positive,True,valid,linear_svm
+sent_000313,"Sản phẩm đẹp, chắc chắn, giao hàng nhanh",positive,positive,True,valid,linear_svm
+sent_000314,Giá sách đẹp y hình,positive,positive,True,valid,linear_svm
+sent_000316,Sản phẩm rất hài lòng,positive,positive,True,valid,linear_svm
+sent_000321,"Kệ đẹp, chắc chắn nhưng không đánh số mẫu gỗ và bản chỉ dẫn lắp đặt quá sơ sài dẫn đến lắp kệ rất khó",neutral,neutral,True,valid,linear_svm
+sent_000330,"Lắp đặt dễ dàng, chất lượng ổn với giá hợp lý",positive,positive,True,valid,linear_svm
+sent_000332,"Hàng đóng gói cẩn thận, lắp đặt khoảng 45 phút với nam và 1 tiếng 30 phút với nữ do ván khá nặng và chắc",positive,positive,True,valid,linear_svm
+sent_000349,Giao hàng thần tốc,positive,negative,False,valid,linear_svm
+sent_000354,"Gọn nhẹ, dễ lắp, sao nhập",positive,positive,True,valid,linear_svm
+sent_000358,Gỗ chắc chắn,positive,positive,True,valid,linear_svm
+sent_000359,"Hàng đẹp , chắc chắn, đóng gói tốt nhưng vẫn có cạnh kệ bị bong chóc so với tầm tiền bỏ ra cũng rất xứng đáng",positive,positive,True,valid,linear_svm
+sent_000361,"Kệ chắc chắn , đẹp , dễ lắp ráp mình phụ nữ mà lắp mất tầm 30 là ok",positive,positive,True,valid,linear_svm
+sent_000379,Chất liệu mẫu mã ok hết có cái tốn thời gian ngồi ráp quá,positive,positive,True,valid,linear_svm
+sent_000383,Khá tốt,positive,positive,True,valid,linear_svm
+sent_000385,"Mình rất ưng ý kệ sách này, dễ dáng lắp ghép, chỉ cần cái tua vít là đc rồi, chứa đc khá nhiều sách :) rẻ đẹp, giá quá ok",positive,positive,True,valid,linear_svm
+sent_000400,"giá rẻ, tuy bằng ván ép nhưng rất chắc và nặng, ko khác gì gỗ, mặt gỗ chống xước rất tốt",positive,positive,True,valid,linear_svm
+sent_000407,Kệ đẹp và chắc lắm ạ,positive,positive,True,valid,linear_svm
+sent_000409,"Hàng chất lượng, ráp dễ dàng",positive,positive,True,valid,linear_svm
+sent_000416,"Bị lỗi góc nhưng nói chung ráp vào xài ok, giá vậy là ổn rồi",neutral,neutral,True,valid,linear_svm
+sent_000429,Cảm ơn tiki rất nhiều hàng rất rất ok đã đẹp lại còn giá cả phải chăng sẽ ủng hộ nhiều nhiều💕💕💕,positive,positive,True,valid,linear_svm
+sent_000450,"Giá sách đẹp và chắc chắn, vừa lắp xomg con gái đã chiếm chỗ xếp đồ chơi lên :)",positive,positive,True,valid,linear_svm
+sent_000461,Bạn Shipper rất nhiệt tình nếu có chấm sao cho shipper thì cho bạn 5*,positive,positive,True,valid,linear_svm
+sent_000472,"kệ đơn giản và đẹp, khá chắc chắn",positive,positive,True,valid,linear_svm
+sent_000473,Kệ đẹp và chắc chắn,positive,positive,True,valid,linear_svm
+sent_000478,"kệ đẹp, giao hàng sớm hơn dự kiến, giá thành quá ok so voi sản phẩm khác",positive,positive,True,valid,linear_svm
+sent_000492,Gỗ ép nhưng nhìn cũng đẹp và hợp với giá tiền! Có hướng dẫn cách lắp ráp cụ thể,positive,positive,True,valid,linear_svm
+sent_000503,"đóng gói cẩn thận, giao hàng đúng hẹn, sản phẩm ok với giá",positive,positive,True,valid,linear_svm
+sent_000507,"khá chắc chắn, gỗ đẹp, giao nhanh, dùng tí iq để lắp chứ hơi rối",positive,positive,True,valid,linear_svm
+sent_000514,tủ đẹp nhưng bị mẻ một góc hơi thất vọng nhưng cho 4sao vì giao hàng nhanh and shipper dth,positive,positive,True,valid,linear_svm
+sent_000515,"thiết kế đẹp, nhưng ngăn nhỏ không để được sách ngang là hơi bất tiện",neutral,neutral,True,valid,linear_svm
+sent_000519,"Đẹp, đóng gói kỹ, chỉ là hướng dẫn kèm theo không chi tiết lắm nên khi ráp hơi lâu",positive,positive,True,valid,linear_svm
+sent_000523,màu vân gỗ đẹp,positive,positive,True,valid,linear_svm
+sent_000533,"kệ sách rất đẹp, chịu khó ráp thì giá mềm hơn khi mua ngoài thị trường và cửa hàng ráp sẵn",positive,positive,True,valid,linear_svm
+sent_000541,"Có vài tấm thiếu lỗ khoan, nhưng bù lại giao hàng nhanh và đẹp, cho 5 sao nhé!!",positive,positive,True,valid,linear_svm
+sent_000555,Mình nhận được kệ sớm hơn dự kiến 2 ngày,positive,positive,True,valid,linear_svm
+sent_000566,"Kệ đẹp, chắc chắn",positive,positive,True,valid,linear_svm
+sent_000577,"Hình thức, mẫu mã đẹp",positive,positive,True,valid,linear_svm
+sent_000579,"Kê siêu đẹp luôn,giá còn rẻ so với nhiều chỗ,có dịp sẽ ủng hộ tiki tiếp",positive,positive,True,valid,linear_svm
+sent_000584,"Giá cả phải chăng, kệ đẹp, chắc chắn, mình mua đợt sale nhưng màu nâu gỗ thì lại hết hàng hơi tiếc",positive,positive,True,valid,linear_svm
+sent_000589,Chất lượng sản phẩm tốt giao hàng ok chỉ có điều hơi trầy nhẹ 1 góc thôi,positive,positive,True,valid,linear_svm
+sent_000613,"Mình giao về tỉnh nhưng nhận hàng khá nhanh, bạn giao hàng hỗ trợ tốt",positive,positive,True,valid,linear_svm
+sent_000614,"sản phẩm đẹp, chất lượng",positive,positive,True,valid,linear_svm
+sent_000621,"Mua với giá hơn 500k thấy hợp lý, dễ lắp ráp, các chi tiết đều chuẩn, ván ép ko hề lỗi chênh/méo",positive,positive,True,valid,linear_svm
+sent_000634,"đẹp láp ráp dễ,chắc chắn rất đáng đồng tiền! anh giao hàng dễ thươg",positive,positive,True,valid,linear_svm
+sent_000637,mặc dù không để được nhiều sách lắm nhưng nói chung mình thấy được,neutral,positive,False,valid,linear_svm
+sent_000640,"kệ sách rất đẹp và chắc chắn, dễ lắp ráp, con gái cũng lắp đc",positive,positive,True,valid,linear_svm
+sent_000646,"Hàng đẹp mọi người nên mua nha, giá thấy cũng hợp lí nữa :D",positive,positive,True,valid,linear_svm
+sent_000651,Hàng dễ lắp đặt,positive,positive,True,valid,linear_svm
+sent_000661,Hàng rất đẹp (tuy thiếu 1 ốc vít) nhưng vẫn chuẩn đẹp như giới thiệu,positive,positive,True,valid,linear_svm
+sent_000664,Dể lắp ráp Mình là con gái vẫn có thể lắp được,positive,positive,True,valid,linear_svm
+sent_000678,Kệ dày dặn chắc chắn,positive,positive,True,valid,linear_svm
+sent_000689,thất vọng,negative,negative,True,valid,linear_svm
+sent_000700,"Kệ hợp giá tiền, chắc chắn, và hợp nhãn",positive,positive,True,valid,linear_svm
+sent_000702,"Kệ này mình rất thích, là con gái nhưng mình vẫn tự đóng tủ đc",positive,positive,True,valid,linear_svm
+sent_000707,"Sản phẩm tốt, mẫu đẹp",positive,positive,True,valid,linear_svm
+sent_000708,Đóng gói cẩn thận,positive,positive,True,valid,linear_svm
+sent_000709,Chất lượng phù hợp với giá bán,positive,neutral,False,valid,linear_svm
+sent_000710,"ổn, đúng như hình",positive,neutral,False,valid,linear_svm
+sent_000713,Dễ lắp đặt sản phẩm giống hình hướng dẫn lắp đặt chi tiết hơn nói chung là vui lòng,positive,positive,True,valid,linear_svm
+sent_000724,"kệ xinh, lắp đặt dễ nhưng các ngăn nối không khít nhau lắm",positive,positive,True,valid,linear_svm
+sent_000726,"Rất đẹp, dễ lắp ráp",positive,positive,True,valid,linear_svm
+sent_000735,Kệ sạch đẹp và chắc chắn,positive,positive,True,valid,linear_svm
+sent_000741,hàng phù hợp với giá,positive,neutral,False,valid,linear_svm
+sent_000759,"Mình đã mua 2 giá, để đựng vải ở cửa hàng, giá đẹp, dễ lắp, rất ưng",positive,positive,True,valid,linear_svm
+sent_000777,"gỗ nặng và chắc chắn, mình phải mất hơn 1h để lắp ráp nhưng vui vì kệ đẹp",positive,positive,True,valid,linear_svm
+sent_000788,Tạm được,neutral,neutral,True,valid,linear_svm
+sent_000789,Đã mua và rất hài lòng,positive,positive,True,valid,linear_svm
+sent_000802,"Gỗ ép nhưng rất chắc chắn, màu gỗ sồi cũng rất đẹp",positive,positive,True,valid,linear_svm
+sent_000809,hàng đẹp chất lượng thấy ok rẻ hơn so với giá tiền nên mua,positive,positive,True,valid,linear_svm
+sent_000818,"đúng như mô tả, có điều hơi bị xước tí nhưng ko sao",negative,neutral,False,valid,linear_svm
+sent_000819,"Lắp ráp đơn giản tầm 30p là xong, kệ đẹp như hình, chất lượng tốt",positive,positive,True,valid,linear_svm
+sent_000822,"Giao hàng nhanh, đóng gói cẩn thận, lắp xong chắc chắn, đẹp, cực kỳ hài lòng",positive,positive,True,valid,linear_svm
+sent_000825,Chất lượng sản phẩm hơn mong đợi,positive,positive,True,valid,linear_svm
+sent_000836,"đep, chắc chắn",positive,positive,True,valid,linear_svm
+sent_000848,kích thước vừa và không quá lớn,neutral,negative,False,valid,linear_svm
+sent_000861,Thực sự là một sản phẩm đáng mua,positive,positive,True,valid,linear_svm
+sent_000871,"Nhìn chung hài lòng, giao hàng nhanh, kệ ráp nhanh, đẹp",positive,positive,True,valid,linear_svm
+sent_000880,"rất hợp lý về mọi mặt,nên có nhiều SP thành toán qua thẻ",positive,positive,True,valid,linear_svm
+sent_000891,Sản phẩm oke lắm nha,positive,positive,True,valid,linear_svm
+sent_000901,"Hàng đẹp, mua đợt giảm giá nên là rất là ưng í",positive,positive,True,valid,linear_svm
+sent_000904,"Sản phẩm đẹp trong tầm giá, shop nhiệt tình gửi cả thư cảm ơn khách!",positive,positive,True,valid,linear_svm
+sent_000907,Ok tốt,positive,positive,True,valid,linear_svm
+sent_000916,"Độ hoàn thiện khá ổn, tiếc là còn có một vài tấm bị dư khi lắp",neutral,neutral,True,valid,linear_svm
+sent_000918,Tốt,positive,positive,True,valid,linear_svm
+sent_000935,ke sach đẹp hợp tui tiền,positive,positive,True,valid,linear_svm
+sent_000942,"Chi tiết ko sắc xảo, lỗ khoan lệch nhiều nên lắp vào lồi lõm, ko đẹp",negative,positive,False,valid,linear_svm
+sent_000957,"Giá sách đẹp, chiều rộng to tí nữa sẽ đỡ chòng chành hơn",neutral,positive,False,valid,linear_svm
+sent_000958,"kệ gỗ rất đẹp, rất hài lòng, cảm ơn shop nhiều",positive,positive,True,valid,linear_svm
+sent_000960,"Kệ sách đẹp, chắc chắn",positive,positive,True,valid,linear_svm
+sent_000965,đẹp hơn mong đợi,positive,positive,True,valid,linear_svm
+sent_000970,Rất ưng ý,positive,positive,True,valid,linear_svm
+sent_000975,"Vừa túi tiền, đẹp, chắc chắn, rất hài lòng, cảm ơn tiki nhiều",positive,positive,True,valid,linear_svm
+sent_000976,"Tủ dễ ráp, đẹp",positive,positive,True,valid,linear_svm
+sent_000988,Giá sách ok tuy nhiên còn nhiều đầu nhọn dễ bị đau tay khi va chạm,negative,positive,False,valid,linear_svm
+sent_001006,chat luong san pham tuong thich voi gia tien,neutral,positive,False,valid,linear_svm
+sent_001015,"Kieu mau dep, co sach huong dan lap rap can ke, chi tiec la 1 vai mieng bi tray",positive,positive,True,valid,linear_svm
+sent_001016,"giao trước ngày , đóng gói kĩ , dễ lắp , tủ rất đẹp",positive,positive,True,valid,linear_svm
+sent_001033,"Lắp ráp dễ, chắc chắn và đẹp, sẽ tiếp tục ủng hộ tiki",positive,positive,True,valid,linear_svm
+sent_001037,"Kệ đẹp, hướng dẫn lắp ghép rõ ràng, vận chuyển nhanh",positive,positive,True,valid,linear_svm
+sent_001042,"sp tốt, nhưng đừng ko thực sự vững, nguy hiểm cho trẻ",negative,neutral,False,valid,linear_svm
+sent_001044,"Rất hài lòng , rất xứng đáng với giá tiền",positive,positive,True,valid,linear_svm
+sent_001046,"Đẹp, chất lượng, giá rẻ",positive,positive,True,valid,linear_svm
+sent_001048,Sp ok so với mức giá tiki giao hàng khá nhanh,positive,positive,True,valid,linear_svm
+sent_001054,"Kệ đẹp, giống hình mẫu, ráp xong rất hài lòng",positive,positive,True,valid,linear_svm
+sent_001083,"kệ rất đẹp, rất đáng tiền, tuy nhiên giao hàng hơi lâu",positive,positive,True,valid,linear_svm
+sent_001086,Giá gỗ đẹp,positive,positive,True,valid,linear_svm
+sent_001101,"Giao hàng nhanh, nhưng hàng nặng nên dễ trầy xước",neutral,neutral,True,valid,linear_svm
+sent_001105,"Hàng ok, bé nhà mình rất thích, để hết đồ chơi lên lun",positive,positive,True,valid,linear_svm
+sent_001111,"Hàng làm đẹp, giá cả rất tốt",positive,positive,True,valid,linear_svm
+sent_001117,Sản phẩm rất đẹp và tiện lợi khi sử dụng,positive,positive,True,valid,linear_svm
+sent_001118,"Chắc chắn, dễ lắp ráp, phù hợp với giá tiền",positive,positive,True,valid,linear_svm
+sent_001123,"Sản phẩm đẹp, tốt, giá cả hợp lý, giao hàng nhanh",positive,positive,True,valid,linear_svm
+sent_001132,"Sản phẩm tốt, đẹp, mọi người nên mua nhé",positive,positive,True,valid,linear_svm
+sent_001143,Hài lòng với sp,positive,positive,True,valid,linear_svm
+sent_001147,Đẹp như hình,positive,positive,True,valid,linear_svm
+sent_001150,Hàng chắc,positive,positive,True,valid,linear_svm
+sent_001162,"Chất lượng sản phẩm tốt, hài lòng!",positive,positive,True,valid,linear_svm
+sent_001166,sản phẩm tốt nhất với giá cả hợp lý,positive,positive,True,valid,linear_svm
+sent_001172,Mất công lắp ráp một xíu nhưng lắp xong rất thích,positive,positive,True,valid,linear_svm
+sent_001174,"kệ gỗ đẹp, dễ lắp đặt và đúng mẫu",positive,positive,True,valid,linear_svm
+sent_001187,Rất hài lòng về sản phẩm đã giao,positive,positive,True,valid,linear_svm
+sent_001193,sản phẩm dẹp chất lượng,positive,positive,True,valid,linear_svm
+sent_001197,hai muoie lăm ký tự nói chung là hài lòng,positive,positive,True,valid,linear_svm
+sent_001200,"rất hài lòng , giống hình mô tả",positive,positive,True,valid,linear_svm
+sent_001206,"Sản phẩm y hình, đẹp rất hài lòng",positive,positive,True,valid,linear_svm
+sent_001216,Giá sách đẹp chắc chắn,positive,positive,True,valid,linear_svm
+sent_001224,Màu đẹp và chắc chẮn,positive,positive,True,valid,linear_svm
+sent_001227,"Sản phẩm dễ lắp ráp, tiện dụng",positive,positive,True,valid,linear_svm
+sent_001228,tốt trong tầm giá,positive,positive,True,valid,linear_svm
+sent_001232,"Sản phẩm đẹp, chất lượng lắm!",positive,positive,True,valid,linear_svm
+sent_001235,Sản phẩm Rất tốt giao hàng nhanh,positive,positive,True,valid,linear_svm
+sent_001239,"Okie, hàng chính hãng, xài tốt :)",positive,positive,True,valid,linear_svm
+sent_001245,"Hàng tốt, ok",positive,positive,True,valid,linear_svm
+sent_001252,Hàng y như hình,neutral,negative,False,valid,linear_svm
+sent_001257,Chắc chắn và tiện dụng!,positive,positive,True,valid,linear_svm
+sent_001262,Sản phẩm chuẩn,positive,positive,True,valid,linear_svm
+sent_001265,"Hàng đẹp, chất lượng tốt",positive,positive,True,valid,linear_svm
+sent_001269,"Tuyệt vời, chắc chắn, đẹp",positive,positive,True,valid,linear_svm
+sent_001280,ke sach đẹp,positive,positive,True,valid,linear_svm
+sent_001281,Cực hài lòng!,positive,positive,True,valid,linear_svm
+sent_001285,tôi rất thích sản phẩm này,positive,positive,True,valid,linear_svm
+sent_001292,Ok lắm shop,positive,positive,True,valid,linear_svm
+sent_001298,rất tốt,positive,positive,True,valid,linear_svm
+sent_001299,"ok, dùng tốt",positive,positive,True,valid,linear_svm
+sent_001315,"Vừa đặt hàng hôm qua, sáng nay nhận được luôn",positive,positive,True,valid,linear_svm
+sent_001317,"Vỏ bình (chắc bằng thép, không phải bằng nhựa) sơn đẹp",positive,positive,True,valid,linear_svm
+sent_001342,"Tốt,bình dung tích lớn uống rất đã",positive,positive,True,valid,linear_svm
+sent_001345,tốt nói chung rất hài lòng,positive,positive,True,valid,linear_svm
+sent_001349,Tốt đúng như quảng cáo,positive,positive,True,valid,linear_svm
+sent_001355,Tôi đặt thêm bình màu vàng ! Dự đinh tận 16-19/7 giao ! Vậy sao T ko nhìn thấy đơn hàng 279,negative,negative,True,valid,linear_svm
+sent_001360,"Tiki now thì khỏi phải chê rồi ,giao cực nhanh !Còn về bình thì giữ nhiệt tốt (cả nóng và lạnh) Mình dùng nước đá từ sáng đến trưa vẫn còn lạnh",positive,positive,True,valid,linear_svm
+sent_001365,"Tiki giao hàng nhanh, đóng gói kỹ lưỡng",positive,positive,True,valid,linear_svm
+sent_001368,"Tiki giao hàng nhanh, bình rất đẹp, màu đẹp, chất liệu cầm vào rất chắc, ko bị trơn, nhìn gọn chứ ko bự như mình nghĩ, giữ đá rất lâu, mình mang đi làm cả ngày đá cũng tan có 1 tí xíu thôi, gần như còn nguyên, ưng lắm",positive,positive,True,valid,linear_svm
+sent_001371,Tiki giao hàng có ngày sản xuất cũ quá (tháng 1/2018),negative,negative,True,valid,linear_svm
+sent_001375,"tiki đóng gói cẩn thận, bình đẹp và giữ nhiệt được lâu nữa ?",positive,positive,True,valid,linear_svm
+sent_001381,"sử dụng rất ok! cả gia đình mình 4 người đều sử dụng, giữ đá hơn 12 tiếng",positive,positive,True,valid,linear_svm
+sent_001396,"Sơn dễ trầy nha mọi người, nên đi kèm theo túi đựng",negative,neutral,False,valid,linear_svm
+sent_001406,"sản phẩm tốt, sử dụng ko bị bám mùi",positive,negative,False,valid,linear_svm
+sent_001419,Sản phẩm tốt và dùng nóng lạnh cả ngày được,positive,positive,True,valid,linear_svm
+sent_001422,Sản phẩm tốt như lời đồn!,positive,positive,True,valid,linear_svm
+sent_001431,"Sản phẩm rất tốt, đã mua 1 bình màu vàng, xài rất ok, đây là cái thứ 2",positive,positive,True,valid,linear_svm
+sent_001438,Sản phẩm rất chất lượng với số tiền bỏ ra,positive,positive,True,valid,linear_svm
+sent_001441,Sản phẩm như quảng cáo,neutral,neutral,True,valid,linear_svm
+sent_001446,"Sản phẩm này không gì để chê, có tìm mãi ra thì chỉ có vài điểm là nhét đá vào mệt mỏi, rửa cũng k hề dễ; còn giữ lạnh hay giữ nhiệt lâu khỏi bàn, bỏ cà phê sữa vào là xác định mùa mít mới tan đá để uống nha!",positive,positive,True,valid,linear_svm
+sent_001464,"Sản phẩm giống hình, giữ nóng khá tốt",positive,positive,True,valid,linear_svm
+sent_001468,Sản phẩm đúng như kỳ vọng,positive,positive,True,valid,linear_svm
+sent_001482,Sản phẩm đẹp như mô tả,positive,positive,True,valid,linear_svm
+sent_001488,Sản phẩm đc đóng gói kỹ lưỡng,positive,positive,True,valid,linear_svm
+sent_001490,Sản phẩm dùng tốt và giữ lạnh tốt,positive,positive,True,valid,linear_svm
+sent_001503,"Sản phẩm cầm chắc tay, sơn nhám nên không lo trầy",positive,positive,True,valid,linear_svm
+sent_001526,Rất tốt ạ,positive,positive,True,valid,linear_svm
+sent_001530,Rất hài lòng với sản phẩm và phương pháp giao hàng nhanh chóng của TIKI,positive,positive,True,valid,linear_svm
+sent_001531,"Rất hài lòng về sp, chưa bao giờ thất vọng hàng của Lock and Lock",positive,positive,True,valid,linear_svm
+sent_001538,"rất hài hòng về sản phẩm, chất lượng, mua ngay đợt giảm giá nên quá tuyệt vời",positive,positive,True,valid,linear_svm
+sent_001542,rat tot,positive,positive,True,valid,linear_svm
+sent_001544,Quyết định mua SP này sau khi xem nhận xét và đúng là nó tốt thật,positive,negative,False,valid,linear_svm
+sent_001552,"Ok, đáng để mua",positive,positive,True,valid,linear_svm
+sent_001553,Ok xài tốt,positive,positive,True,valid,linear_svm
+sent_001555,Ok lắm ạ,positive,positive,True,valid,linear_svm
+sent_001556,ok hàng chất lượng,positive,positive,True,valid,linear_svm
+sent_001565,ngon lành,positive,positive,True,valid,linear_svm
+sent_001568,"Ngon , mà hơi khó vệ sinh",neutral,negative,False,valid,linear_svm
+sent_001571,Nói thương hiệu Hàn Quốc mà thực ra là của Trung Quốc,neutral,negative,False,valid,linear_svm
+sent_001578,"Mua tặng quà sinh nhật cho bạn, được feedback là đẹp tốt",positive,positive,True,valid,linear_svm
+sent_001582,Mua đúng đợt sale nên giá ok,positive,positive,True,valid,linear_svm
+sent_001588,"Mới nhận hàng, xem review nhiều nhưng nghĩ bình bự vậy, được cái bình nhám cầm chắc tay, đựng nước dùng cả ngày và đi đâu xa khá tiện",positive,positive,True,valid,linear_svm
+sent_001591,"Mình thực sự hài lòng về sản phẩm này của Tiki, bình giữ nhiệt đẹp dung tích lớn và giữ nhiệt lâu, đặc biệt là mua trong dịp khuyến mãi nên rất lời , ngoài ra Tiki còn giao hàng rất nhanh mình đánh giá 5 sao nhé",positive,positive,True,valid,linear_svm
+sent_001601,Mình mua nó sau khi xem nhận xét và đúng là nó tốt thật,positive,negative,False,valid,linear_svm
+sent_001614,"Mình đặt mua lúc 9h, 11h hàng tới liền (tikinow)",positive,positive,True,valid,linear_svm
+sent_001620,"Mình dùng nước nóng giữ nhiệt được từ sáng đến tối, ko biết dùng lạnh thì ntn",positive,positive,True,valid,linear_svm
+sent_001624,mieng binh hoi nho ti,negative,negative,True,valid,linear_svm
+sent_001626,"Mẫu mã đẹp, giữ lạnh tốt",positive,positive,True,valid,linear_svm
+sent_001636,"Màu đẹp, bắt mắt, vỏ nhám rất dễ cầm, giữ nhiệt ok",positive,positive,True,valid,linear_svm
+sent_001643,"Hơn cả mong đợi, chưa test thử giữ nhiệt đang bao lâu , sẽ test và feedback",positive,positive,True,valid,linear_svm
+sent_001658,"Hàng rất đẹp , đóng gói cẩn thân",positive,positive,True,valid,linear_svm
+sent_001677,"Hàng đẹp, dung tích hợp lý, chất liệu khá tốt, k bị toả nhiệt ra ngoài! Màu sắc đẹp 👌",positive,positive,True,valid,linear_svm
+sent_001678,"Hàng đẹp, chưa thử giữ nhiệt nhưng giữ đá lạnh rất tốt để từ sáng đến tối vẫn còn khoảng 70-80%",positive,positive,True,valid,linear_svm
+sent_001679,"Hàng đẹp, chắc chắn, gói kĩ",positive,positive,True,valid,linear_svm
+sent_001686,Hàng đẹp giao hàng nhanh chóng,positive,positive,True,valid,linear_svm
+sent_001689,"Hàng đẹp giá rẻ, coop bán giảm giá mà 350k trong khi mình mua ở đây 299k",positive,positive,True,valid,linear_svm
+sent_001693,Hàng đẹp chất giao hàng nhanh,positive,positive,True,valid,linear_svm
+sent_001696,Hàng đá rất ok,positive,positive,True,valid,linear_svm
+sent_001707,"Hàng của Lock & Lock thì không có gì để chê, giữ nhiệt tuyệt vời",positive,positive,True,valid,linear_svm
+sent_001721,giữ nhiệt tốt tầm 8 tiếng,positive,positive,True,valid,linear_svm
+sent_001722,Giữ nhiệt tốt nhưng vỏ bình mau trầy sướt,neutral,positive,False,valid,linear_svm
+sent_001732,"Giữ nhiệt rất lâu nha các bạn, mình đựng nước sôi từ tối hôm trước tới tối hôm sau chưa xài mở ra nước sôi yh chang v luôn",positive,positive,True,valid,linear_svm
+sent_001733,"Giữ nhiệt nóng lạnh đều ok, bình nhìn rất bắt mắt, rất thích",positive,positive,True,valid,linear_svm
+sent_001734,"Giữ nhiệt lâu, sản phẩm tốt, tiện lợi, mẫu mã đẹp và kho bị tróc sơn như những mẫu khác",positive,positive,True,valid,linear_svm
+sent_001735,Giữ nhiệt được 6-8h,neutral,positive,False,valid,linear_svm
+sent_001744,Giữ lạnh cực tốt chắc đc 24 tiếng luôn ý,positive,positive,True,valid,linear_svm
+sent_001747,Giữ đá được cả ngày từ sáng đến tối cơ,positive,positive,True,valid,linear_svm
+sent_001748,Giữ dc nhiệt 24 h mà chỉ tan một it,positive,positive,True,valid,linear_svm
+sent_001749,Giữ dc nóng lạnh lâu,positive,positive,True,valid,linear_svm
+sent_001753,"giao nhanh, đóng gói chắc chắn, sp đẹp, giá tốt",positive,positive,True,valid,linear_svm
+sent_001754,Giao nhanh! Màu sắc đẹp bắt mắt! Đóng thùng gọn đẹp! Bề ngoài khá ổn! Chưa sử dụng nên chưa biết chất lượng như thế nào! Tạm cho 4*,positive,positive,True,valid,linear_svm
+sent_001755,Giao hành nhanh,positive,positive,True,valid,linear_svm
+sent_001757,Giáo hàng sớm hơn dự kiến 3 ngày,positive,positive,True,valid,linear_svm
+sent_001759,Giao hàng siêu nhanh,positive,positive,True,valid,linear_svm
+sent_001770,"Giao hàng nhanh, đong gói đẹp, rất ưng ý sản phẩm",positive,positive,True,valid,linear_svm
+sent_001780,"Giao hàng nhanh, bình đẹp, m đã ktra cho nước sôi vào sau 12h nước vẫn nóng bỏng",positive,positive,True,valid,linear_svm
+sent_001791,"giao hàng ko nhanh lắm, bình xịn, cầm rất đầm tay, màu cam đẹp, giữ nóng và lạnh rất tốt, rất hài lòng",positive,positive,True,valid,linear_svm
+sent_001792,"Giao hàng hơi lâu, mở ra bên trong toàn nước, ko hiểu sao lại có nước bên trong, hộp và bên ngoài hơi bị bẩn, chất lượng thì ok",negative,negative,True,valid,linear_svm
+sent_001798,Thật sự là quá tệ! Giao nhầm hàng còn k nghe được 1 bên liên hệ shop thì shop k rep địa chỉ,negative,negative,True,valid,linear_svm
+sent_001802,Mua trắng gửi đen?? Nt ko rep,negative,negative,True,valid,linear_svm
+sent_001804,Đồ dỏm cắm vào laptop không đc lỏng lẻo,negative,negative,True,valid,linear_svm
+sent_001832,Sản phẩm ko tốt tí nào,negative,negative,True,valid,linear_svm
+sent_001842,làm ăn như thế này thì🙄 Chắc tại mk k đọc rõ phản hồi của những khách trước nên thôi chịu,negative,negative,True,valid,linear_svm
+sent_001845,Chất lượng âm thanh quá tệ,negative,negative,True,valid,linear_svm
+sent_001847,Nhận được hàng nhưng thật sự không hài lòng tí nào,negative,negative,True,valid,linear_svm
+sent_001850,"1 chữ thội ""TỆ """,negative,negative,True,valid,linear_svm
+sent_001861,Hàng kém chất lượng,negative,negative,True,valid,linear_svm
+sent_001862,Quá buồn cho 1 shop mall,negative,negative,True,valid,linear_svm
+sent_001870,Tai nghe như cc,negative,negative,True,valid,linear_svm
+sent_001874,"tai nghe vừa cắm vào máy đã hỏng :< Sẽ không quay lại, mình mua 3 cái, nghe 3 lần hỏng cả 3",negative,negative,True,valid,linear_svm
+sent_001897,"1 bên không nghe được, 1 bên bị rè",negative,negative,True,valid,linear_svm
+sent_001898,Thái độ phục vụ của shop rất kém,negative,negative,True,valid,linear_svm
+sent_001902,Tai nge chỉ nge được một bên chán,negative,negative,True,valid,linear_svm
+sent_001907,Tai nghe như cc tai trẩu ms nghe đc đúng là của rẻ là của ôi,negative,negative,True,valid,linear_svm
+sent_001908,Lần đầu mua trên shoppe mà thấy thất vọng như thế mà có 29k nên cũng chẳng trông mong gì,negative,negative,True,valid,linear_svm
+sent_001913,Vận chuyển thfi quá lâu,negative,negative,True,valid,linear_svm
+sent_001924,chánnnnnnnnnnnnn nnnnnnn,negative,negative,True,valid,linear_svm
+sent_001933,K nên mua,negative,negative,True,valid,linear_svm
+sent_001938,Hang dỏm ko nên mua,negative,negative,True,valid,linear_svm
+sent_001940,Đây đứt 18k thì chỉ thế thôi 😂,negative,negative,True,valid,linear_svm
+sent_001946,Đeo cứ bị giật điện,negative,negative,True,valid,linear_svm
+sent_001960,"Giao thiếu hàng, ib hơn 1 ngày mặc dù shop ol nhưng vẫn không phản hồi",negative,negative,True,valid,linear_svm
+sent_001962,Như cái đầu buồi bố,negative,negative,True,valid,linear_svm
+sent_001985,Em nghĩ tốt nhất mọi người ko nên mua nghe hay lỗi và ko đc trong cho lắm nhưng thôi tiền nào của nấy,negative,negative,True,valid,linear_svm
+sent_001990,không nhận đc hàng ship ko gọi mà lại đã nhận đc hàng,negative,negative,True,valid,linear_svm
+sent_002001,"Tệ hại, tệ hại của tệ hại",negative,negative,True,valid,linear_svm
+sent_002014,"Tai nghe bị mát điện, r dám đeo luôn",negative,negative,True,valid,linear_svm
+sent_002024,"Nghe không ổn, tiền nào của nấy",negative,neutral,False,valid,linear_svm
+sent_002036,Tai nghe xịn nghe cứ bị dè dè lúc thì không có tiếng ai thích mua về vứt thì mua,negative,negative,True,valid,linear_svm
+sent_002037,"Tai nghe không nghe được , coi như là mô hình :)",negative,negative,True,valid,linear_svm
+sent_002044,Giao hàng rất chậm,negative,negative,True,valid,linear_svm
+sent_002045,Mua về đã hỏng,negative,negative,True,valid,linear_svm
+sent_002051,Đóng gói chất lượng kém,negative,negative,True,valid,linear_svm
+sent_002052,"Mình đặt 6 cái nhưng giao thiếu tận 3 cái, không hiểu shop làm ăn kiểu gì",negative,negative,True,valid,linear_svm
+sent_002057,Nhưng chất lượng sản phẩm thì quá quá quá quá tệ,negative,negative,True,valid,linear_svm
+sent_002086,Ko đúng với màu trên hình nên thêm thông về việc ko có mic còn về tai nghe thì ổn,negative,negative,True,valid,linear_svm
+sent_002104,@@ tai nghe đã hỏng mất 1 bên tai nên hơi buồn,negative,negative,True,valid,linear_svm
+sent_002108,Tai nghe chỉ nghe đc 1 bên,negative,negative,True,valid,linear_svm
+sent_002114,mình khuyên thật các bạn rằng là ấy đừng ham rẻ nhé các bạn :>>>,negative,negative,True,valid,linear_svm
+sent_002117,Tai nghe bị hỏng dây khi nhận đc,negative,negative,True,valid,linear_svm
+sent_002118,Tai nghe thì mới được 2 ngày đã tịt đ nghe thấy gì nữa,negative,negative,True,valid,linear_svm
+sent_002129,Giao hàng mưòi mấy ngày mới nhận đv,negative,negative,True,valid,linear_svm
+sent_002134,"Mua cái này 21k, xong quay qua quay lại cũng cung shop này luôn giá còn hơn 10k nhưng họ chia ra",negative,negative,True,valid,linear_svm
+sent_002137,Hàng quốc tế mà cứ đi giao cho J&t tồi tệ nhất việt nam,negative,negative,True,valid,linear_svm
+sent_002154,Mua 2 cái bị hư 1 cái không biết làm sao để đổi,negative,negative,True,valid,linear_svm
+sent_002156,"Tai nghe bị hư một bên, yêu cầu trả hàng lại ạ",negative,negative,True,valid,linear_svm
+sent_002160,Mua về test tai nghe thì 1 bên ko nghe đc còn vận chuyển hàng thì ổn rồi nhưng ship hơi chậm,negative,negative,True,valid,linear_svm
+sent_002162,Giao hàng thì quá hạn,negative,negative,True,valid,linear_svm
+sent_002182,Tai nghe không sử dụng được,negative,negative,True,valid,linear_svm
+sent_002191,Mình mua lần 1 tai nghe HƯ 1 bên,negative,negative,True,valid,linear_svm
+sent_002204,Tai nghe bị hỏng 1 bên k nghe dc,negative,negative,True,valid,linear_svm
+sent_002207,Không nghe được,negative,negative,True,valid,linear_svm
+sent_002209,Sản phẩm gói cẩn thận nhưng vận chuyển quá lâu,negative,negative,True,valid,linear_svm
+sent_002214,Tai nghe nhỏ,negative,negative,True,valid,linear_svm
+sent_002222,Kém sản phẩm,negative,negative,True,valid,linear_svm
+sent_002225,Shiper làm rơi k nhận dc hàng,negative,negative,True,valid,linear_svm
+sent_002249,Tai nghe không có mic,negative,negative,True,valid,linear_svm
+sent_002251,Đặt 2c 2 màu khác nhau mà shop giao 1 loại 2 màu y như nhau,negative,negative,True,valid,linear_svm
+sent_002253,Giao nhầm màu đặt trắng giao đen,negative,negative,True,valid,linear_svm
+sent_002257,Nên hơi tệ,negative,negative,True,valid,linear_svm
+sent_002270,Không kết nối đc mong shop tư vấn,negative,negative,True,valid,linear_svm
+sent_002293,"Cửa hàng đã thay nhầm dây màu trắng với dây tai nghe màu đen, nhưng một bên bị đứt, giống như cái lọ",negative,negative,True,valid,linear_svm
+sent_002299,Luôn luôn nhút nhát 😥,negative,positive,False,valid,linear_svm
+sent_002302,"Mình đặt 2c nhưng giao 1c, bên ngoài hộp có ghi rõ 2c nhưng hộp chỉ có 1c => nên mình nghĩ đây là cố ý chứ không phải vô ý",negative,negative,True,valid,linear_svm
+sent_002305,"Tai nghe màu trắng, nhưng điều ngạc nhiên là màu xanh lam 🤦🏻‍♀️",negative,negative,True,valid,linear_svm
+sent_002306,"Bạn có biết hàng rẻ mà chất lượng cao sẽ không đắt, nhưng ít nhất nên giao hàng nguyên chiếc? kbh lần mua thứ hai!",negative,negative,True,valid,linear_svm
+sent_002307,"Mua màu trắng và phát ra màu xanh, một bên tai nghe bị hư, xin vui lòng tránh sử dụng lừa đảo này :)",negative,negative,True,valid,linear_svm
+sent_002313,"Nghe có vẻ nhỏ bé, trông thô kệch và mỏng manh, thua xa son phấn và hình ảnh! Cửa hàng nên chụp ảnh thật",negative,negative,True,valid,linear_svm
+sent_002323,Sản phẩm không tốt chút nào,negative,negative,True,valid,linear_svm
+sent_002343,"Sau khi mua hàng, mang đi test tai nghe giá này cũng rất rẻ nhưng chất lượng thì rất kém và thất vọng",negative,negative,True,valid,linear_svm
+sent_002344,"Tai nghe đã bị điếc một ngày, và tất cả đều bị điếc",negative,negative,True,valid,linear_svm
+sent_002345,"Hàng fake người ta không mua được, không mua được, không nghe được thì tước dây",negative,negative,True,valid,linear_svm
+sent_002347,Sản phẩm không được thanh toán tại đây theo yêu cầu,negative,negative,True,valid,linear_svm
+sent_002349,Tai nghe dở quá mà order báo 15/3 mà mãi đến 21/3 mới nhận hàng và nói là thành công,negative,negative,True,valid,linear_svm
+sent_002350,Tại sao bạn lại muốn bán những thứ xấu cho người khác?,negative,negative,True,valid,linear_svm
+sent_002359,Tại nghe đeo cho vui còn không hề hay tại nghe không có bass nghe toàn trebs,negative,negative,True,valid,linear_svm
+sent_002363,"Mua 1 cái Bluetooth , 3 cái có đây nhưng chỉ dùng đc 1 cái có dây",negative,negative,True,valid,linear_svm
+sent_002380,chán🐵🐵,negative,negative,True,valid,linear_svm
+sent_002382,Tiền nào của đấy,neutral,neutral,True,valid,linear_svm
+sent_002388,Tai nghe ko ra j cả,negative,negative,True,valid,linear_svm
+sent_002392,"TAi nghe , chỉ nghe được giọng nói thôi , nghe nhiều rè mà chói tai , bass thì hầu như kh có , tiếng rẻ , chất liệu oặt tà là vằn",negative,negative,True,valid,linear_svm
+sent_002411,"Chất lượng sản phẩm kém, nghe chán phèo",negative,negative,True,valid,linear_svm
+sent_002415,Chất lượng tốt nhưng bị bong sơn,neutral,neutral,True,valid,linear_svm
+sent_002417,"Tai nghe không rõ tiếng,Giao hàng lâu",negative,negative,True,valid,linear_svm
+sent_002426,Dùng k đc,negative,negative,True,valid,linear_svm
+sent_002428,Mọi người mua nên cẩn thận ⚠⚠⚠⚠,negative,positive,False,valid,linear_svm
+sent_002431,"Trong đó lại có 1 tai nghe bị lỗi, còn 4 tai nghe",negative,negative,True,valid,linear_svm
+sent_002434,"Chú ý tai nghe bị tình trạng bên to, bên nhỏ, âm lượng ko đều nhau",negative,negative,True,valid,linear_svm
+sent_002440,Bình bị bong quai xách tay cầm 1 bên,negative,negative,True,valid,linear_svm
+sent_002443,bị 1 chút lỗi nhỏ ở phần nắp,negative,negative,True,valid,linear_svm
+sent_002446,Mua lần 1 đồng hồ không chạy,negative,negative,True,valid,linear_svm
+sent_002451,Hàng bằng xốp nên hơi thất vọng mình chưa lắp nên k biết có chạy đc ko,negative,negative,True,valid,linear_svm
+sent_002458,Đặt mua màu vàng thì shop giao màu đen,negative,negative,True,valid,linear_svm
+sent_002463,"Mình kì vọng em này xịt ra nước đun sôi như kiểu bàn là hơi nhưng trên thực tế ko như vậy, cấu tạo cũng rất bình thường thôi, ko có gì ghê gớm",neutral,negative,False,valid,linear_svm
+sent_002469,Sản phẩm mình mua về miếng dán màu đen để dán miếng lau nhà bị bong ra mỗi khi lột miếng lau ra để giặt,negative,negative,True,valid,linear_svm
+sent_002470,Mình mới nhận hàng vừa mở ra thì thấy cái cần xịt nước bị hư không xịt đc,negative,negative,True,valid,linear_svm
+sent_002484,"Sản phẩm dùng ko đc, shop có thể cho em cách liên lạc để đổi trả dc k ạ?",negative,negative,True,valid,linear_svm
+sent_002491,Hàng lần này chậm quá 13 ngày mới nhận đc,negative,negative,True,valid,linear_svm
+sent_002494,Miếng giẻ rất dễ bong,negative,negative,True,valid,linear_svm
+sent_002499,"Bảo hành rất tào lao, vợ mình xài rất kỹ có mua cover tránh trầy xước vỏ sạc và lau chùi rất kỹ, khi trả bảo hành cho mình là 1 cái tai nghe cũ mèm dơ lấm lem đầy rái tai, tra thông tin Web apple thì ko ra ngày bảo hành chỉ có thông tin sp",negative,negative,True,valid,linear_svm
+sent_002501,"Trong 2 tháng sử dụng tai trái có vài lần bị trục trặc, nhưng mình khởi động lại thì lại nghe bình thường, đến nay thì tai nghe bên trái đã ko hoạt động nữa",negative,negative,True,valid,linear_svm
+sent_002507,Tôi nhận tai nghe bị không có âm thanh tai trái đã liên hệ với Tiki yêu cầu đổi trả/bảo hành ngay trong ngày và tổng đài Tiki hẹn tôi sẽ trả lời tôi trong 3 ngày,negative,negative,True,valid,linear_svm
+sent_002519,"Tai nghe thì chập chờn, cảm biến gia tốc lúc được lúc không, lấy tai nghe ra khỏi tai roi vẫn còn hát, thậm chí đeo lại vào tai cũng tự out fai dùng thao tác tay bấm vào điện thoại, tai nghe chập chờ, ai mua nên suy nghĩ vì giá cao mà trải nghiệm kém quá, đã gửi trả lại hàng ngày 16",negative,negative,True,valid,linear_svm
+sent_002525,Mối nối tai nghe bị cấn khá sắc gây đau tai khi đeo,negative,negative,True,valid,linear_svm
+sent_002542,"Mình vẫn bị khớp nối tai nghe không liền lạc, hoàn thiện kém quá dù hàng chính hãng",negative,negative,True,valid,linear_svm
+sent_002544,"Mình sử dụng tầm hơn 1 tháng thì tai trái có dấu hiệu không nhận đc âm thanh, chập chờn",negative,negative,True,valid,linear_svm
+sent_002556,Kết nối mình lâu lâu bị chập chờn tai nghe dính keo hoàn thiện mình thấy chưa thực sự tốt,negative,negative,True,valid,linear_svm
+sent_002565,Mình mới mua sản phẩm dùng được vài tiếng thì tai nghe bên phải không nhận,negative,negative,True,valid,linear_svm
+sent_002570,Vẫn bị đau tai lắm,negative,negative,True,valid,linear_svm
+sent_002589,Dễ bị cong nếu phơi nắng,negative,negative,True,valid,linear_svm
+sent_002592,"Vừa nhận hàng kiểm tra bị bể như thế này,yêu cầu Tiki hỗ trợ giải quyết",neutral,negative,False,valid,linear_svm
+sent_002604,Mua 2 cái thì 1 cái bị vỡ,negative,negative,True,valid,linear_svm
+sent_002605,Thảm dễ bám bẩn và khó vệ sinh,negative,negative,True,valid,linear_svm
+sent_002606,Giao hàng bị bể làm 4 miếng! Bó tay! Không biết dán hàng dễ vỡ trên thùng! Thất vọng!,negative,negative,True,valid,linear_svm
+sent_002612,"Giao hang bị nứt , thất vọng",negative,negative,True,valid,linear_svm
+sent_002628,Mình có mua thảm này cách đây 1 tuần lúc mở ra mìn k để ý lắm nhưng tự nhiên hôm nay mình vô tình thấy 1 vết rách trên thảm,negative,negative,True,valid,linear_svm
+sent_002633,Màu sắc và sản phẩm giống hình! Nhưng đường may thì quá tệ! Nhận hàng là đã bung đường chỉ may 1 ít! Giặt 1 lần thì bung chỉ tùm lum luôn! Mua 1 lúc 5 sản phẩm thì cả 5 sản phẩm đều ko hài lòng cho lắm!,negative,negative,True,valid,linear_svm
+sent_002634,chán luôn,negative,negative,True,valid,linear_svm
+sent_002635,giao toan hàng lỗi không sao vậy được,negative,negative,True,valid,linear_svm
+sent_002638,Tôi đặt thảm màu nâu vàng sao lại giao màu hồng??? Mấy lần trước rất ok nhưng lần này quá tệ!!! Thất vọng!!!,negative,negative,True,valid,linear_svm
+sent_002648,Đặt màu vàng mà lại giao màu tím ! thất vọng thiệt chứ ! Làm ơn lần sau giao đúng màu cho khách nhé ! Vì mỗi người thích mỗi màu khác nhau mà,negative,negative,True,valid,linear_svm
+sent_002652,Sản phẩm bị rách và thủng một số chỗ tuy không đáng kể nhưng mong tiki hỗ trợ đổi trả,negative,negative,True,valid,linear_svm
+sent_002657,Nhân viên giao hàng ăn nói rất chán,negative,negative,True,valid,linear_svm
+sent_002673,vì sản phẩm bị lỗi rách và sức chỉ mà không cho đổi hàng,negative,negative,True,valid,linear_svm
+sent_002674,"Hình ảnh chỉ mang tính chất minh hoạ , hàng mình nhận Không đẹp như hình chụp",negative,negative,True,valid,linear_svm
+sent_002678,Bình của mình bị móp 1 đáy,negative,negative,True,valid,linear_svm
+sent_002681,"Tạm được, thấy nhìn sơ sơ cũng tam được",neutral,negative,False,valid,linear_svm
+sent_002687,Có vẻ mau hết pin dùng vài ngày lại phải thay,negative,negative,True,valid,linear_svm
+sent_002689,"Đã mua hàng ở tiki rất nhiều lần, nhữn lần trước rất hài lòng tuy nhiên 2 lần gần nhất giao hàng cực kì chậm, gần 10 ngày (mình ở TP HCM)",negative,positive,False,valid,linear_svm
+sent_002695,- Sản phẩm đẹp tuy nhiên đặc điểm chung của loại tai nghe này là phần nắp hộp đựng thiết kế nhám cho nên sẽ bị dính bẩn sau 1 thời gian ngắn sử dụng trông mất thẩm mỹ khi mở nắp,neutral,neutral,True,valid,linear_svm
+sent_002697,"Dùng ổn, tuy nhiên kết nối Bluetooth cảm giác hơi chậm, ko nhạy lắm",negative,negative,True,valid,linear_svm
+sent_002700,Mình mua sản phẩm dùng đc 5 ngày sau đó sạc không thể sạc được! Gởi lại bảo hành hẹn hơn 2 tuần trả bảo hành,negative,negative,True,valid,linear_svm
+sent_002705,Phần cảm ứng tai nghe không được nhạy,negative,negative,True,valid,linear_svm
+sent_002709,Kết nối với MacBook thì hơi lag,negative,negative,True,valid,linear_svm
+sent_002710,Nắp sp bị lệch,negative,negative,True,valid,linear_svm
+sent_002711,Mức độ thấm hút vừa phải,neutral,negative,False,valid,linear_svm
+sent_002732,không dày dặn như dự tính vì có ng bạn mua y hệt mà dày hơn,negative,negative,True,valid,linear_svm
+sent_002753,"good, phù hợp cho gia đình đi chơi, bới sử dụng đồ nhựa , có lọc đề pha trà,",positive,positive,True,valid,linear_svm
+sent_002762,Đóng hộp chắc,positive,positive,True,valid,linear_svm
+sent_002768,Để đá hơn 24h vẫn chưa tan hết,positive,positive,True,valid,linear_svm
+sent_002781,"Đây là bình thứ 3 mình mua r, mua dùng và cho ng thân dùng luôn, chất lượng rất tốt, hình thức đẹp nữa",positive,positive,True,valid,linear_svm
+sent_002799,Dự kiến giao vào thứ 6 nhưng thứ 4 đã nhận được ? Thân bình nhám cầm đã tay kèm quai cầm tiện lợi,positive,positive,True,valid,linear_svm
+sent_002803,Dung tích bình lớn,positive,positive,True,valid,linear_svm
+sent_002806,Dùng rất tốt,positive,positive,True,valid,linear_svm
+sent_002808,Dùng rất tốt!,positive,positive,True,valid,linear_svm
+sent_002817,Chọn màu đỏ mà lại được gửi màu cam,negative,negative,True,valid,linear_svm
+sent_002827,Chất lượng sản phẩm tuyệt vời,positive,positive,True,valid,linear_svm
+sent_002829,Chất lượng sản phẩm tốt đáng mua,positive,positive,True,valid,linear_svm
+sent_002832,chất lượng sản phẩm ok,positive,positive,True,valid,linear_svm
+sent_002854,bình xinh,positive,positive,True,valid,linear_svm
+sent_002857,"Bình vỏ nhám,cầm chắc tay,dùng ok",positive,positive,True,valid,linear_svm
+sent_002859,"Bình thiết kế đơn giản dễ vệ sinh, giữ nhiệt lạnh khá tốt mình để qua đêm chỉ hao hụt 10% đá thôi, điểm cộng là mặc dù bình khá to nhưng có thiết kế đường mặt phẳng hai bên nên việc cầm 1 tay khá dễ dàng",positive,positive,True,valid,linear_svm
+sent_002864,"Bình tốt, ko bị mồ hôi, đã để 1 ngày vô tư",positive,negative,False,valid,linear_svm
+sent_002865,"Bình tốt, giữ nhiệt rất lâu",positive,positive,True,valid,linear_svm
+sent_002883,Bình to nhưng xấu mặc dù giữ được nhiệt nhưng màu green rất phù hợp với môi trường làm việc văn phòng và làm dịu mắt,positive,positive,True,valid,linear_svm
+sent_002899,"Binh sd rat OK, nong & lanh deu tot het",positive,positive,True,valid,linear_svm
+sent_002904,"Bình rất to, cứ như đem cái bình thủy đựng nước đi làm",positive,positive,True,valid,linear_svm
+sent_002910,"Bình rất đẹp, giao nhanh",positive,positive,True,valid,linear_svm
+sent_002912,"Bình rất đẹp, bên ngoài sơn sần sần cầm chắc tay, thích hàng lock lock là cao su không có mùi và giữ nhiết rất tốt từ sáng đến chiều vẫn còn đá lạnh",positive,positive,True,valid,linear_svm
+sent_002914,Bình rất đẹp xài OK,positive,positive,True,valid,linear_svm
+sent_002916,Binh rất đẹp nen mua các ban ạ ! TiKi ban hang rất uy tinh cho 5 sao,positive,positive,True,valid,linear_svm
+sent_002922,bình quá to,negative,positive,False,valid,linear_svm
+sent_002927,"Bình nhìn đẹp, rất chắc chắn",positive,positive,True,valid,linear_svm
+sent_002931,Bình nhẹ chắc chắn,positive,positive,True,valid,linear_svm
+sent_002935,"Bình nước màu đẹp, giá tốt và giữ nhiệt cũng tốt",positive,positive,True,valid,linear_svm
+sent_002936,"Bình nước đúng chính hãng, giao nhanh",positive,positive,True,valid,linear_svm
+sent_002938,"Bình nước đẹp, cực kỳ hài lòng",positive,positive,True,valid,linear_svm
+sent_002941,"Bình này mình đã mua cái thứ 2, xài rất ok, đá giữ được 2 ngày",positive,positive,True,valid,linear_svm
+sent_002946,"bình mình mua 3 tháng nay dùng rất, giữ nhiệt được khoảng 12h vẫn thấy ấm",positive,positive,True,valid,linear_svm
+sent_002951,"bình lớn và giữ nhiệt lâu, dùng cẩn thận do cũng dễ trầy sơn",positive,positive,True,valid,linear_svm
+sent_002954,"Bình Lock&Lock, màu đẹp sơn nhám cầm chắc tay, giữ nhiệt khá tốt",positive,positive,True,valid,linear_svm
+sent_002957,"Bình khá đẹp, to, dùng ổn chỉ có điều hơi nhám nên những người tay mồ hôi dùng sẽ cầm nắm khó, bị trơn trượt",positive,positive,True,valid,linear_svm
+sent_002961,"Bình hơi to, dùng cho nam phù hợp, đã test thử có giữ nhiệt và không chảy nước ra ngoài khi để bình nằm ngan hoặc nghiêng",positive,positive,True,valid,linear_svm
+sent_002968,"Bình giữ nhiệt tốt, thân bình hóp 2 bên nên dễ cầm",positive,positive,True,valid,linear_svm
+sent_002970,"Bình giữ nhiệt tốt, nhưng khi đựng nước nóng mở nắp ra mùi nhựa nhiều, chắc do nắp bằng nhựa nên chủ yếu mình dùng đựng nước lạnh và ấm",negative,neutral,False,valid,linear_svm
+sent_002975,"Bình giữ nhiệt tốt, đẹp",positive,positive,True,valid,linear_svm
+sent_002978,"Bình giữ nhiệt tốt lắm lun, dung tích lại đc nhiều",positive,positive,True,valid,linear_svm
+sent_002993,"Bình giữ nhiệt ổn so với mức giá (mìn mua đợt sale 259k)-(nếu full nước sôi thì khoảng 1 ngày rưỡi sẽ nguội hẳn); thể tích lớn nên có thể đựng canh, cháo hoặc đồ ăn thay cặp lồng; đựng full bình sẽ hơi nặng",positive,positive,True,valid,linear_svm
+sent_002997,Bình giữ nhiệt lock&lock rigatumbler 897ml giữ nhiệt cực tốt,positive,positive,True,valid,linear_svm
+sent_003008,Bình giữ nhiệt cực kỳ tốt nha các bạn,positive,positive,True,valid,linear_svm
+sent_003011,Bình giữ lanh tốt,positive,positive,True,valid,linear_svm
+sent_003016,Binh giu nhiet tot,positive,positive,True,valid,linear_svm
+sent_003027,"Bình đẹp, Tiki giao hàng nhanh, giữ nhiệt ok",positive,positive,True,valid,linear_svm
+sent_003029,"Bình đẹp, sang trọng, cực cool",positive,positive,True,valid,linear_svm
+sent_003042,"Bình đẹp, giữ nhiệt tốt, mua lúc khuyến mãi khá rẻ",positive,positive,True,valid,linear_svm
+sent_003046,"Bình đẹp, giữ nhiệt tốt, giá giảm nên rẻ",positive,positive,True,valid,linear_svm
+sent_003048,"Bình đẹp, giữ nhiệt tốt, có điều hơi nặng nhưng vẫn ok la ^^",positive,positive,True,valid,linear_svm
+sent_003054,"tủ lắp rắp cũng dễ, tuy nhiên hạn chế là thấy mấy con vít bên hông tủ gây mất thẩm mỹ, giao đúng hẹn, đúng màu, 619k cho 1 cái tủ",neutral,neutral,True,valid,linear_svm
+sent_003071,"Lụi cụi 1 mình ghép cũg cả tiếg, lần đầu ngồi ghép sản phẩm cũg thú vị",neutral,neutral,True,valid,linear_svm
+sent_003083,"chỉ giao hàng chậm quá thôi, sản phẩm đẹp, và chắc chắn,",neutral,neutral,True,valid,linear_svm
+sent_003095,"sp đẹp, có hơi trầy xước nhưng ở mặt chấp nhận được",neutral,neutral,True,valid,linear_svm
+sent_003096,"sp sách bình thường, ổn khi dùng để trang trí",neutral,neutral,True,valid,linear_svm
+sent_003109,"hàng dễ dàng lắp ráp, chất liệu ván ép nên cũng ko mong gì lâu dài được",neutral,neutral,True,valid,linear_svm
+sent_003119,hàng đẹp 4 sao vì giao hàng chậm,neutral,neutral,True,valid,linear_svm
+sent_003122,hàng như quảng cáo,neutral,negative,False,valid,linear_svm
+sent_003134,"sản phẩm khá lớn, đựng nước uống thoải mái lun, sơn nhám nên khá bám bẩn, ae nên lau chùi thường xuyên cho đẹp!",neutral,neutral,True,valid,linear_svm
+sent_003143,"sp nước xinh, hơi bự xíu thôi",neutral,neutral,True,valid,linear_svm
+sent_003148,sp giữ nhiệt tốt nhưng nắp nhựa dễ bể,neutral,neutral,True,valid,linear_svm
+sent_003155,bình dùng ổn,neutral,neutral,True,valid,linear_svm
+sent_003158,bình giữ nhiệt tốt nhưng quai bị lỗi rồi,neutral,neutral,True,valid,linear_svm
+sent_003160,"bình giống mô tả, chất lượng chưa test chưa rõ có ok như bình ko sale ko",neutral,neutral,True,valid,linear_svm
+sent_003167,sp sách khá tốt nhưng thái độ người giao hàng ko khá tốt,neutral,neutral,True,valid,linear_svm
+sent_003175,"sản phẩm giữ nhiệt khá tốt , tuy nhiên màu sơn dễ bị tróc khi ma sát",neutral,neutral,True,valid,linear_svm
+sent_003179,"Bị lỗi góc nhưng nói chung ráp vào xài ok, giá vậy là oke rồi",neutral,neutral,True,valid,linear_svm
+sent_003183,oke với giá tiền,neutral,neutral,True,valid,linear_svm
+sent_003186,hàng tạm oke,neutral,neutral,True,valid,linear_svm
+sent_003189,"Thấy cũng oke , không biết sau có hạn không",neutral,negative,False,valid,linear_svm
+sent_003191,oke,neutral,neutral,True,valid,linear_svm
+sent_003196,"Mình đặt hàng sau 3 4 ngày nhận được, giao bằng ninjavan",neutral,neutral,True,valid,linear_svm
+sent_003197,"giao đúng ngày, đóng gói kĩ, có hơi mẻ 1 ít chắc do quá trình vận chuyển, nói chung cũng không ảnh hưởng lắm, chất lượng để thời gian quyết định",neutral,neutral,True,valid,linear_svm
+sent_003198,Kệ sách tốt nhưng thái độ người giao ko tốt,neutral,neutral,True,valid,linear_svm
+sent_003200,giao nhanh nhưng hàng chưa thực sự khớp khi lắp rắp vẫn còn bị lệch,neutral,neutral,True,valid,linear_svm
+sent_003205,giao chậm 1 ngày kệ dễ lắp,neutral,neutral,True,valid,linear_svm
+sent_003206,Tiki giao đúng hẹn,neutral,positive,False,valid,linear_svm
+sent_003207,"Sản phẩm chất lượng giữ nhiệt rất tốt mình đánh giá 5 sao cho sản phẩm, nhưng dịch vụ giao bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin giao ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",neutral,neutral,True,valid,linear_svm
+sent_003217,"Tủ chắc chắn và đẹp nhưng không ghi thêm số mẫu gỗ, hướng dẫn lắp đặt nên thô và khó lắp đặt.",neutral,neutral,True,valid,linear_svm
+sent_003219,Chiếc tủ trông nhỏ hơn so với kích thước tưởng tượng dựa trên hình minh họa và giá được cho là phù hợp đã được giảm xuống,neutral,neutral,True,valid,linear_svm
+sent_003228,"Tủ được làm bằng gỗ ghép thanh, phù hợp với giá tiền",neutral,neutral,True,valid,linear_svm
+sent_003230,"Sản phẩm giống hình, rất đẹp, tuy nhiên ván ép hơi mềm và bị thủng 2 lỗ, không phù hợp nhưng giá cả chấp nhận được.",neutral,neutral,True,valid,linear_svm
+sent_003231,"Chúng tôi ở một mình, ghép toàn bộ mọi thứ lại với nhau, lần đầu tiên ngồi với những sản phẩm thú vị",neutral,neutral,True,valid,linear_svm
+sent_003236,Sản phẩm trông nhỏ hơn tưởng tượng như trong hình minh họa và giá đã được hạ xuống khi cho là phù hợp,neutral,neutral,True,valid,linear_svm
+sent_003272,Tai nghe cho có âm thanh haizzzzzzzzzzzzzzzzzzzzzzzzzzzz,negative,negative,True,valid,linear_svm
+sent_003273,"mới nghe 1 bữa thì rớt cái miếng dán nhìn giống lưới ra ngoài, tạm được lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll",negative,negative,True,valid,linear_svm
+sent_003277,Giao không nhận được hàng h ko thấy tai nghe đâu nhờ shippers gủi bảo vệ mak về tìm chả thấy đau lòng,negative,negative,True,valid,linear_svm
+sent_003278,Tai nghe tạm ổn dây chán quá😓 mik mua 2 bộ cái của mik dùng đc nhưng của đứa bạn ko vừa:((,negative,negative,True,valid,linear_svm
+sent_003282,Bên to bên nhỏ nha,neutral,negative,False,valid,linear_svm
+sent_003284,"vừa mua xong thì lại có deal, nghe ổn, hơi bé, dây hơn ngắn, nói chung là ổn",negative,negative,True,valid,linear_svm
+sent_003289,Hàng cũng oke -đóng gói đep,positive,positive,True,valid,linear_svm
+sent_003293,Nó bị rè 😢,negative,negative,True,valid,linear_svm
+sent_003298,Nghe chơi game không được đâu mn :)),negative,negative,True,valid,linear_svm
+sent_003303,Tai to tai nhỏ,neutral,negative,False,valid,linear_svm
+sent_003304,Tai nghe hơi chát chát tai,negative,negative,True,valid,linear_svm
+sent_003311,Không tăng giảm được âm lượng,negative,negative,True,valid,linear_svm
+sent_003318,Tai nghe lỗi,negative,negative,True,valid,linear_svm
+sent_003324,"Tai nghe ổn, nhưng rớt mất nút rồi",neutral,neutral,True,valid,linear_svm
+sent_003331,Meh tạm được,neutral,neutral,True,valid,linear_svm
+sent_003334,Chất lượng bình thường,neutral,neutral,True,valid,linear_svm
+sent_003335,Cắm vào laptop k chạy,negative,negative,True,valid,linear_svm
+sent_003342,"Hình thức nhìn oke nhg tai nghe thấy lúc to lúc nhỏ, kiểu mình phải điều chỉnh dây ý xog n cứ tậm tạch",negative,negative,True,valid,linear_svm
+sent_003343,"Tai nghe nghe hay, dây chắc chắn",positive,negative,False,valid,linear_svm
+sent_003346,tai nghe tàm tạm,neutral,negative,False,valid,linear_svm
+sent_003347,"Mức âm nhỏ nhất cũng quá to, nghe ban đêm để min âm lượng mà to muốn nổ não",negative,negative,True,valid,linear_svm
+sent_003350,"Tai nghe chất lượng bình thường, hơi trầm, nghe ko rõ",negative,negative,True,valid,linear_svm
+sent_003359,Ko chống ồn đc,negative,negative,True,valid,linear_svm
+sent_003378,"Nói chung là nghe chống cháy thì ok,",neutral,neutral,True,valid,linear_svm
+sent_003381,Hơi to hơn so với của iphone nên hơi đau tai,negative,negative,True,valid,linear_svm
+sent_003383,"Nghe ổn nhưng mùi hắc, dây vải chạm vào người hơi ngứa, giao hàng lâu nhưng với giá này chất lượng vậy là đương nhiên 👍🏻",negative,negative,True,valid,linear_svm
+sent_003385,Nghe hơi ù,negative,negative,True,valid,linear_svm
+sent_003390,Giao hàng quá lâu hàng bị trầy sướt nghe thì ổn nhưng cấm vào nghe nó rè rè sao đâu ấy chắc tui nghĩ ko đúng dòng máy của nó tui sài Oppo f11,negative,negative,True,valid,linear_svm
+sent_003412,Rẻ,positive,positive,True,valid,linear_svm
+sent_003425,Đúng với câu tiền nào của nấy,neutral,neutral,True,valid,linear_svm
+sent_003428,Dễ bẩn,negative,negative,True,valid,linear_svm
+sent_003431,Chất lượng phù hợp giá tiền,neutral,neutral,True,valid,linear_svm
+sent_003432,Cũng tốt nhưng mic lúc được lúc k nghe đc,neutral,neutral,True,valid,linear_svm
+sent_003433,Dùng Khá là oki lần sau sẽ mua Tiếp,positive,positive,True,valid,linear_svm
+sent_003435,"giao hàng sau tầm 1 tuần đặt như ghi trong mô tả, gói hàng ok, cơ mà trừ vì chất lượng maybe phù hợp vs giá tiền thôi ==, nghe rất chán , xoay chân tai nghe thì nhạc cx cứ dừng vs tiếp, khó chịu",negative,negative,True,valid,linear_svm
+sent_003438,Tiền nào của nấy đặt 2c thì 1c ko nghe được 1c nghe rè,negative,negative,True,valid,linear_svm
+sent_003456,Iphone dùng ko đc nha! Nó bị dè lắm ạ,negative,negative,True,valid,linear_svm
+sent_003457,"Âm thanh tạm được nhưng thiết kế tai nghe không phù hợp để cài vào tai,cài vào tai không được toàn rơi",negative,negative,True,valid,linear_svm
+sent_003461,Chất lượng ko như mong muốn nghe đc hai bài bỏ thùng rác,negative,negative,True,valid,linear_svm
+sent_003466,nghe k tốt lắm,negative,positive,False,valid,linear_svm
+sent_003473,"Chất lượng ko thực sự tốt, âm thanh không tự nhiên",negative,negative,True,valid,linear_svm
+sent_003481,"Sản phẩm bị lỗi ạ, kh đồng nhất",negative,negative,True,valid,linear_svm
+sent_003482,Nghe hơi dè :)),negative,negative,True,valid,linear_svm
+sent_003484,dùng mấy bữa là đứt phần dây quấn ở ngoài r,negative,negative,True,valid,linear_svm
+sent_003488,Đóng góp cần thận,positive,positive,True,valid,linear_svm
+sent_003489,nhưng cũng hợp lí với số tiền bỏ ra,neutral,neutral,True,valid,linear_svm
+sent_003501,noi chung tien nao cua nay,neutral,positive,False,valid,linear_svm
+sent_003502,Nhạc nghe ko hay 😕😕😕😕😕😕😕😕😕😕😕😕😕😕😕😕😕😕😕😕😕😕😕😕😕,negative,negative,True,valid,linear_svm
+sent_003511,nchung với giá đó như vậy là ok rồi,neutral,neutral,True,valid,linear_svm
+sent_003530,Vì giá rẻ nên chất lượng hơi kém,neutral,neutral,True,valid,linear_svm
+sent_003534,"Vì nghe nói nhưng cửa hàng nhắn tin liên tục nhưng không thấy hồi âm, thời gian giao hàng lâu",negative,negative,True,valid,linear_svm
+sent_003537,"Âm thanh tốt, cảm giác lỏng lẻo, biến mất khỏi một bên trong 1 tuần",negative,negative,True,valid,linear_svm
+sent_003540,Thời gian giao hàng dài,negative,negative,True,valid,linear_svm
+sent_003553,Lúc cắm tai nghe vào cứ coi YouTube là toàn bị bật google trong khi mình không bật rất khó chịu còn lại tốt hết,neutral,negative,False,valid,linear_svm
+sent_003561,Chán ghê shop ơi,negative,negative,True,valid,linear_svm
+sent_003568,Đổi hàng thì khó khăn ko đổi đc hàng,negative,negative,True,valid,linear_svm
+sent_003580,Khách Huỷ đơn không cho,negative,negative,True,valid,linear_svm
+sent_003581,Không dám mua lần 2 và cũng sẽ dặn người nhà k mua ở đây,negative,negative,True,valid,linear_svm
+sent_003584,"Luc thi giao sai mau, luc thi nhan hang tra lai cua khach nhung ỉm đi, vừa mất tiền hàng vừa mất tiền ship",negative,negative,True,valid,linear_svm
+sent_003591,Mng nên cân nhắc đi đặt,neutral,neutral,True,valid,linear_svm
+sent_003607,Sợ cái shop bán k có tâm,negative,negative,True,valid,linear_svm
+sent_003610,Thái độ ng bán thì như con luật,negative,negative,True,valid,linear_svm
+sent_003615,Bán hàng giả,negative,negative,True,valid,linear_svm
+sent_003622,Chất vải xấu giao ko đúng mẫu đặt thất vọng về shop,negative,negative,True,valid,linear_svm
+sent_003629,Đặt m8 mà giao m6,negative,negative,True,valid,linear_svm
+sent_003638,Giao hàng không đúng mẫu đã chọn,negative,negative,True,valid,linear_svm
+sent_003642,Giao k đúng mẫu,negative,neutral,False,valid,linear_svm
+sent_003663,không giống hình,negative,negative,True,valid,linear_svm
+sent_003684,Rách,negative,negative,True,valid,linear_svm
+sent_003688,Sản phẩm có giá cả tiền ship là 80k n shipper lại thu 90k,negative,negative,True,valid,linear_svm
+sent_003691,sản phẩm quá tệ,negative,negative,True,valid,linear_svm
+sent_003692,Sản phẩm quá tệ mới giao hàng và bỏ lên giường thì đã thấy rách như thế này,negative,negative,True,valid,linear_svm
+sent_003708,"Treo đầu dê bán thịt chó,chọn 1 màu giao màu khác",negative,negative,True,valid,linear_svm
+sent_003717,Nói chuyện phù phiếm,negative,negative,True,valid,linear_svm
+sent_003718,Tôi nên làm gì nếu kích thước sai bây giờ? Các shop khi mua hàng vui lòng để mắt và nhìn đúng,negative,negative,True,valid,linear_svm
+sent_003719,"Chăn ga gối đệm giá rẻ không đáng bao nhiêu, nhưng tìm người giải quyết vấn đề này thì quả là mệt mỏi",negative,negative,True,valid,linear_svm
+sent_003721,Tôi chán với cửa hàng này,negative,negative,True,valid,linear_svm
+sent_003732,Tôi gọi và cửa hàng bảo tôi bán hết hàng nghìn,negative,negative,True,valid,linear_svm
+sent_003734,"Giao hàng không đúng cách, vải dính, rất kém",negative,negative,True,valid,linear_svm
+sent_003736,Hình ảnh có mã không rõ ràng,negative,negative,True,valid,linear_svm
+sent_003767,Thái độ bán hàng như luật,negative,negative,True,valid,linear_svm
+sent_003780,Chọn một mẫu cho cái khác,negative,negative,True,valid,linear_svm
+sent_003798,Cung cấp mẫu K chính xác,negative,negative,True,valid,linear_svm
+sent_003806,Đặt hàng từ loại này sang loại khác,negative,negative,True,valid,linear_svm
+sent_003815,K đúng size đã mua,negative,negative,True,valid,linear_svm
+sent_003818,"Đã kí gửi khách k phàn nàn giao hàng 0đ, gần 1 tháng mới giao hàng",negative,negative,True,valid,linear_svm
+sent_003820,"Bộ màu không hợp, chất vải thô ráp, xù xì",negative,negative,True,valid,linear_svm
+sent_003832,Mua màu xám và nhận màu xanh :)),negative,negative,True,valid,linear_svm
+sent_003834,"Nói chung hầu như không có tiền nên sản phẩm không có vẻ loãng và nhớt, có thể dùng vài lần",negative,negative,True,valid,linear_svm
+sent_003838,"Chán quá, thất vọng quá, không đặt được 2 bộ 1m8 * 2m và gửi 2 bộ 1m6 nt không trả lời khách không tôn trọng",negative,negative,True,valid,linear_svm
+sent_003851,Không có cửa hàng ủy quyền nào cả 👌,negative,negative,True,valid,linear_svm
+sent_003853,"Cửa hàng trao đổi tin nhắn không trả lời, gọi điện không nghe máy",negative,negative,True,valid,linear_svm
+sent_003861,"Treo đầu dê bán thịt chó, nếu đổi trả do không cung cấp đúng mẫu sẽ ghi là giao đúng k hoàn tiền",negative,negative,True,valid,linear_svm
+sent_003866,"Màu ga gối nệm giống nhau theo kg vui lòng nhắn tin cho người bán kiểm tra, kg sẽ trả lời sau 3 ngày: ((",negative,negative,True,valid,linear_svm
+sent_003867,Vừa nhận được đồ dùng bida cũ nát,negative,negative,True,valid,linear_svm
+sent_003873,Quá chán quá thất vọng mua mua 2 bộ 1m8*2m gửi 2 bộ 1m6 nt ko trả lời thiếu tôn trọng khách hàng,negative,negative,True,valid,linear_svm
+sent_003885,mua 1 màu và trả về 1 kiểu,negative,negative,True,valid,linear_svm
+sent_003904,Dễ thương lắm nhưng hơi nhiều chỉ thừa,positive,negative,False,valid,linear_svm
+sent_003929,"Giao 2 vỏ gối mà 1 cái to,cái nhỏ",negative,negative,True,valid,linear_svm
+sent_003936,"Chất vải như nilong, thấm hút nước kém -》 bí, mua sale 22k thì vải vậy thôi chứ mua đúng giá thì",negative,negative,True,valid,linear_svm
+sent_003943,Gét nhất là giáo hàng k đúng chủng loại màu,negative,negative,True,valid,linear_svm
+sent_003948,Mình đặt 1 màu lại giao cho mình màu khác,negative,negative,True,valid,linear_svm
+sent_003952,hơi mỏng,negative,negative,True,valid,linear_svm
+sent_003960,"Sản phẩm tạm được, shop giao sai hàng so với order",negative,negative,True,valid,linear_svm
+sent_003963,"Vải hơi thô, k mềm",negative,negative,True,valid,linear_svm
+sent_003966,Màu không giống hình lắm,neutral,negative,False,valid,linear_svm
+sent_003970,Shop giao sai mẫu,negative,negative,True,valid,linear_svm
+sent_003994,Sản phẩm được !,neutral,neutral,True,valid,linear_svm
+sent_004005,Chất tạm được vì giá rẻ,neutral,neutral,True,valid,linear_svm
+sent_004011,Em đặt 2 mẫu m8 và 2 mẫu m6,neutral,neutral,True,valid,linear_svm
+sent_004016,Giao hàng nhanh sản phẩm ngon shop phục vụ tốt,positive,positive,True,valid,linear_svm
+sent_004021,Shop để ảnh vậy dễ hiều nhầm,negative,negative,True,valid,linear_svm
+sent_004023,Vỏ gối và ga khác màu nhau,negative,negative,True,valid,linear_svm
+sent_004025,nhận về giặt luôn mà ta nói nay lấy ra xài thì lốm đốm dơ giặt k có ra,negative,negative,True,valid,linear_svm
+sent_004026,Giao hàng lâu có nửa tháng mới nhận được,negative,negative,True,valid,linear_svm
+sent_004057,Chất lượng phù hợp với chi phí mua hàng,neutral,neutral,True,valid,linear_svm
+sent_004059,"Mặc dù một số kinh nghiệm, nhưng không phải là rất mềm",neutral,neutral,True,valid,linear_svm
+sent_004062,Những gì bạn đã trả,neutral,negative,False,valid,linear_svm
+sent_004068,gầy,neutral,negative,False,valid,linear_svm
+sent_004075,Đường chỉ thô và vải mỏng,negative,negative,True,valid,linear_svm
+sent_004079,Chất lượng và ga tốt nhưng size cửa hàng gửi không đúng 1m8 mà size cửa hàng gửi là 1m6,positive,positive,True,valid,linear_svm
+sent_004080,Giá mắc hơn 20k mặc dù chất lượng không tệ so với chất lượng mình mua ở cửa hàng khác,negative,negative,True,valid,linear_svm
+sent_004094,Tôi đặt một màu cho tôi một màu khác,negative,negative,True,valid,linear_svm
+sent_004095,Chất lượng phù hợp và đáng đồng tiền,neutral,neutral,True,valid,linear_svm
+sent_004096,"Đóng gói tốt, nhưng giao hàng ít",neutral,neutral,True,valid,linear_svm
+sent_004105,Dự án này khác với dự án trước,neutral,negative,False,valid,linear_svm
+sent_004113,Hủy hàng vẫn giao,negative,negative,True,valid,linear_svm
+sent_004128,"Chất lượng gas bình thường, màu sắc ổn, không bị điên nhưng xử lý phàn nàn hơi kém",negative,negative,True,valid,linear_svm
+sent_004137,Các sản phẩm là tất cả!,neutral,neutral,True,valid,linear_svm
+sent_004149,Đơn đã bị hủy nhưng không được hủy kịp thời,neutral,negative,False,valid,linear_svm
+sent_004150,"Lần thứ 2 thì màu sắc chất lượng tạm ổn nhưng có một điều là hơi cùn, không thẳng và hơi buồn",negative,negative,True,valid,linear_svm
+sent_004154,Không được cài vào bộ đệm nên k biết kích thước chính xác k,neutral,neutral,True,valid,linear_svm
+sent_004155,"Chất vải hơi nóng, hai gối có họa tiết khác nhau nhìn không đẹp",negative,negative,True,valid,linear_svm
+sent_004162,Studio chụp ảnh rất dễ hiểu nhầm,negative,negative,True,valid,linear_svm
+sent_004166,Giặt xong quần áo nói nếu lấy ra dùng thì không được,negative,negative,True,valid,linear_svm
+sent_004173,Tiền đó chưa có,neutral,negative,False,valid,linear_svm
+sent_004174,Nt 2 ngày sau chỉ tl,negative,negative,True,valid,linear_svm
+sent_004183,Cần 2 người để che các góc và giữ các góc,negative,positive,False,valid,linear_svm
+sent_004188,Giao sản phẩm chậm,negative,negative,True,valid,linear_svm
+sent_004190,Giao sản phẩm quá muộn,negative,negative,True,valid,linear_svm
+sent_004194,Giao sản phẩm nhanh,positive,positive,True,valid,linear_svm
+sent_004203,"sản phẩm ổn, chất hơi cứng",negative,negative,True,valid,linear_svm
+sent_004217,Chắc sản phẩm hạ giá nên vậy,neutral,neutral,True,valid,linear_svm
+sent_004222,Cửa sản phẩm đang hoạt động tốt,positive,positive,True,valid,linear_svm
+sent_004233,"Mình đọc kỹ mà thấy hơi buồn: ((((Màu xám cuối cùng chuyển sang màu xanh, cửa sản phẩm có bán thêm chăn như thế này không?) Dùng xong thấy vỏ gối bị hư, khóa lại",negative,negative,True,valid,linear_svm
+sent_004237,sản phẩm ok nhưng cửa sản phẩm không trả lời tin nhắn của khách,neutral,neutral,True,valid,linear_svm
+sent_004240,"sản phẩm tốt, chất liệu hơi cứng",negative,negative,True,valid,linear_svm
+sent_004242,Cửa sản phẩm cung cấp không đúng mẫu mã,negative,negative,True,valid,linear_svm
+sent_004244,"Như giá bình thường, sản phẩm chất lượng",neutral,neutral,True,valid,linear_svm
+sent_004252,Lỗi giao sản phẩm sản phẩm,negative,negative,True,valid,linear_svm
+sent_004255,Không có gì để nói về ý tưởng của cửa sản phẩm,negative,negative,True,valid,linear_svm
+sent_004257,Nhưng những gì tôi muốn không phải là một món sản phẩm sai,neutral,neutral,True,valid,linear_svm
+sent_004263,"Giao sp nhanh, chất lượng bình thường, đường may sơ sài, mua 5 cái quần thì shop gửi 1 cái bị ố vàng, lần sau shop nên chú ý kiểm tra trước khi giao sp cho khách",negative,negative,True,valid,linear_svm
+sent_004268,"Đặt mẫu 1,8m x2m mà gắn vào đêm 1,8m *2m ko vừa ga thì rất hôi sp đúng màu nhưng chỉ làm được dẻ lau rồi",negative,negative,True,valid,linear_svm
+sent_004269,"sp phù hợp với giá tiền, tuy nhiên shop hết sp tự ý đổi mẫu của mình mà không báo trước (shop có bảo là gọi điện thoại cho mình mà không liên lạc được, nhưng mà vẫn có thể nhắn tin qua shopee cho mình mà?) nên mình chỉ cho 3 sao thôi! Shop rút kinh nghiệm nhé",negative,negative,True,valid,linear_svm
+sent_004286,"sp không giống mẫu mình muốn, nhưng mình vẫn nhận, và bảo shop đổi cho mình mà shop không trả lời mình lun vl !",negative,negative,True,valid,linear_svm
+sent_004288,"Chăn màu hơi đậm hơn hình, phù hợp giá tiền nhưng giao sp quá lâu, dự kiến ngày 11 mà tận 13 mới nhận",negative,negative,True,valid,linear_svm
+sent_004291,Nhưng điều không như mình muốn đó là nhầm sp,neutral,neutral,True,valid,linear_svm
+sent_004293,Chắc sp hạ giá nên vậy,neutral,neutral,True,valid,linear_svm
+sent_004294,sp cũng đẹp ok,positive,positive,True,valid,linear_svm
+sent_004296,Tận ngoài hn hôg lẻ có 1 bộ sai e phải gửi ra gửi vào nên hi vọg shop rút kinh nghiệm cho những khách sp sau,neutral,neutral,True,valid,linear_svm
+sent_004300,"Nhận sp, sp như trong hình",neutral,neutral,True,valid,linear_svm
+sent_004307,Chất lượng và ga tốt nhưng size cửa sp gửi không đúng 1m8 mà size cửa sp gửi là 1m6,positive,positive,True,valid,linear_svm
+sent_004316,"sp tốt, chất liệu hơi cứng",negative,negative,True,valid,linear_svm
+sent_004318,Cửa sp cung cấp không đúng mẫu mã,negative,negative,True,valid,linear_svm
+sent_004321,Được đóng gói đúng quy cách và có thể giao sp nhanh chóng nhưng chất liệu này không thể thành cotton nên rất nóng,neutral,neutral,True,valid,linear_svm
+sent_004325,"Tốc độ giao sp chậm, màu k như hình",negative,negative,True,valid,linear_svm
+sent_004326,Chăn màu hơi đậm so với hình phù hợp với giá cả nhưng thời gian giao sp lâu quá,negative,negative,True,valid,linear_svm
+sent_004328,Lỗi giao sp sp,negative,negative,True,valid,linear_svm
+sent_004331,Không có gì để nói về ý tưởng của cửa sp,negative,negative,True,valid,linear_svm
+sent_004341,Đắt hơn 20k mặc dù chất y hệt thế so với bộ tôi mua ở 1 shop khác :)) và các mẫu cũng ít lựa chọn hơn nữa nếu k muốn nói toàn mẫu xấu,negative,negative,True,valid,linear_svm
+sent_004351,tôi muốn mua doremon lại gửi Micky's cho tôi :)),negative,negative,True,valid,linear_svm
+sent_004366,tủ đẹp 4 sao vì thời gian giao hàng chậm,neutral,neutral,True,valid,linear_svm
+sent_004375,hàng sách tốt nhưng thái độ người thời gian giao hàng ko tốt,neutral,neutral,True,valid,linear_svm
+sent_004379,"hàng chất lượng giữ nhiệt rất tốt mình đánh giá 5 sao cho hàng, nhưng dịch vụ thời gian giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin thời gian giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",neutral,neutral,True,valid,linear_svm
+sent_004382,sản phẩm sách khá tốt nhưng thái độ người thời gian giao hàng ko khá tốt,neutral,neutral,True,valid,linear_svm
+sent_004389,"Sản phẩm chất lượng giữ nhiệt rất tốt mình đánh giá 5 sao cho sản phẩm, nhưng dịch vụ thời gian giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin thời gian giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",neutral,neutral,True,valid,linear_svm
+sent_004394,"Việc lắp ráp sản phẩm cũng rất dễ dàng, tuy nhiên cần lưu ý những con vít bên hông sản phẩm, những con vít này sẽ làm mất mỹ quan và không được thời gian giao hàng không đúng thời gian, màu sắc phù hợp với 619k VNĐ 1 sản phẩm.",neutral,neutral,True,valid,linear_svm
+sent_004403,"thời gian giao hàng lâu, loa maximum mà nghe nhỏ quá",negative,negative,True,valid,linear_svm
+sent_004409,thời gian giao hàng nhanh,positive,positive,True,valid,linear_svm
+sent_004416,"thời gian giao hàng sau tầm 1 tuần đặt như ghi trong mô tả, gói hàng ok, cơ mà trừ vì chất lượng maybe phù hợp vs giá tiền thôi ==, nghe rất chán , xoay chân tai nghe thì nhạc cx cứ dừng vs tiếp, khó chịu",negative,negative,True,valid,linear_svm
+sent_004419,thời gian giao hàng lâu đến tận hai tuần mà tai nghe cũng ổn tàm tạm giá cả phù hợp với chất âm cho 3 sao,negative,negative,True,valid,linear_svm
+sent_004422,thời gian giao hàng hơi lâu,negative,negative,True,valid,linear_svm
+sent_004426,"Vì nghe nói nhưng cửa hàng nhắn tin liên tục nhưng không thấy hồi âm, thời gian thời gian giao hàng lâu",negative,negative,True,valid,linear_svm
+sent_004435,thời gian giao hàng sai,negative,negative,True,valid,linear_svm
+sent_004446,thời gian giao hàng không đúng đơn hàng m8 _2m mà m6_m8 thời gian giao hàng có ntin mà cửa hàng ko trả lời,negative,negative,True,valid,linear_svm
+sent_004448,thời gian giao hàng không đúng mẫu đơn đặt hàng?,negative,negative,True,valid,linear_svm
+sent_004452,Lỗi thời gian giao hàng mẫu,negative,negative,True,valid,linear_svm
+sent_004470,Chất lượng sản phẩm ổn vừa với giá tiền nhưng thời gian giao hàng hơi lâu và vải bị dóc chỉ sau 1 lần giặt,negative,negative,True,valid,linear_svm
+sent_004473,Đóng gói kỹ thời gian giao hàng nhanh chóng nhưng chất liệu không làm cotton nên rất nóng,neutral,neutral,True,valid,linear_svm
+sent_004480,"thời gian giao hàng nhanh, ok",positive,positive,True,valid,linear_svm
+sent_004506,sp sách tốt nhưng thái độ người tốc độ giao hàng ko tốt,neutral,neutral,True,valid,linear_svm
+sent_004508,"chỉ tốc độ giao hàng chậm quá thôi, sp đẹp, và chắc chắn,",neutral,neutral,True,valid,linear_svm
+sent_004509,sp đẹp 4 sao vì tốc độ giao hàng chậm,neutral,neutral,True,valid,linear_svm
+sent_004531,"Tốc độ tốc độ giao hàng quá chậm, sản phẩm đẹp, chắc chắn rằng",neutral,neutral,True,valid,linear_svm
+sent_004547,tốc độ giao hàng quá lâu hàng bị trầy sướt nghe thì ổn nhưng cấm vào nghe nó rè rè sao đâu ấy chắc tui nghĩ ko đúng dòng máy của nó tui sài Oppo f11,negative,negative,True,valid,linear_svm
+sent_004579,tốc độ giao hàng chậm,negative,negative,True,valid,linear_svm
+sent_004580,"tốc độ giao hàng không đúng cách, vải dính, rất kém",negative,negative,True,valid,linear_svm
+sent_004583,tốc độ giao hàng không có trên mô hình đã chọn,negative,negative,True,valid,linear_svm
+sent_004587,tốc độ giao hàng không đúng,negative,negative,True,valid,linear_svm
+sent_004595,Cửa hàng không kiểm tra hàng hóa trước khi tốc độ giao hàng cho khách,negative,negative,True,valid,linear_svm
+sent_004606,Chất lượng sản phẩm ổn vừa với giá tiền nhưng tốc độ giao hàng hơi lâu và vải bị dóc chỉ sau 1 lần giặt,negative,negative,True,valid,linear_svm
+sent_004615,"tốc độ giao hàng nhanh, ok",positive,positive,True,valid,linear_svm
+sent_004619,"Tất cả hàng đã được giao, thời gian này tốc độ tốc độ giao hàng là khá nhanh",positive,positive,True,valid,linear_svm
+sent_004623,"tốc độ giao hàng nhanh chóng, sản phẩm ngon tại cửa hàng, khuyến mãi dịch vụ tốt",positive,positive,True,valid,linear_svm
+sent_004625,"tốc độ giao hàng nhanh chóng, chất liệu ổn, nhưng mẫu đơn đặt hàng bị sai",positive,positive,True,valid,linear_svm
+sent_004639,"sản phẩm tốt , nhưng hàng bị lỗi sơn , shop đổi lại giúp tôi nhé , tôi đã làm mất vỏ hộp ! Thankssssss",neutral,neutral,True,valid,linear_svm
+sent_004645,"hàng giữ nhiệt khá tốt , tuy nhiên ngoại hình có 1 vết (giống vết sơn) không thể gỡ ra -> tuy không ảnh hưởng đến chức năng của bình nhưng hàng không hoàn thiện khá tốt ngoại hình nên tôi chỉ cho 4 sao",neutral,neutral,True,valid,linear_svm
+sent_004646,"hàng chất lượng giữ nhiệt rất khá tốt tôi đánh giá 5 sao cho hàng, nhưng dịch vụ thời gian giao hàng bên tiki thật sự tôi không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin thời gian giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",neutral,neutral,True,valid,linear_svm
+sent_004655,"Chúng tôi ở một tôi, ghép toàn bộ mọi thứ lại với nhau, lần đầu tiên ngồi với những sản phẩm thú vị",neutral,neutral,True,valid,linear_svm
+sent_004657,"Hàng sale nên tôi cũng không mong đợi nhiều, nhưng mà mới xài 1 tuần rồi im luôn không nghe được gì cũng hơi chán",negative,negative,True,valid,linear_svm
+sent_004662,Mặc dù vẫn nghe được 2 bên nhưng shop làm vậy tôi cảm thấy hơi buồn dẫu cũng là flash sale nhưng ít ra có lương tâm một tí,negative,negative,True,valid,linear_svm
+sent_004665,"Thời gian thời gian giao hàng lâu quá, hàng có trầy xước, các bạn có thể nghe qua nhưng không phải, chắc mẫu máy của nó bị lỗi, tôi đang dùng Oppo f11",negative,negative,True,valid,linear_svm
+sent_004676,"Cạn lời, nt thì ko trả lời nệm 1m8,2m mà mặc vô như này tôi bó tay haizzzz",negative,negative,True,valid,linear_svm
+sent_004691,"tôi mua 1 kiểu, ship cho tôi 1 kiểu rồi giờ ib shop để giải quyết thì toàn tin nhắn auto thế này",negative,negative,True,valid,linear_svm
+sent_004699,Giá mắc hơn 20k mặc dù chất lượng không tệ so với chất lượng tôi mua ở cửa hàng khác,negative,negative,True,valid,linear_svm
+sent_004707,"tôi đọc kỹ mà thấy hơi buồn: ((((Màu xám cuối cùng chuyển sang màu xanh, cửa sp có bán thêm chăn như thế này không?) Dùng xong thấy vỏ gối bị hư, khóa lại",negative,negative,True,valid,linear_svm
+sent_004709,"Chúng mình ở một mình, ghép toàn bộ mọi thứ lại với nhau, thật vui khi lần đầu tiên được ngồi cùng nhau",neutral,neutral,True,valid,linear_svm
+sent_004722,Tiệm in màu khác với bộ đồ của mình: ((,negative,negative,True,valid,linear_svm
+sent_004724,mình đã mua hàng một cái và gửi nó cho mình,negative,negative,True,valid,linear_svm
+sent_004725,"mình không biết tất cả các mẫu 10 hoặc ntn, nhưng cửa hàng cung cấp cho mình mẫu khác mà không cần hỏi",neutral,neutral,True,valid,linear_svm
+sent_004739,Ảnh màu sản phẩm là sọc trắng nhưng lại giao cả sản phẩm và gối đen ghi,negative,negative,True,valid,linear_svm
+sent_004742,sản phẩm giường chất nhiều nilon nhưg phù hợp vs giá tiền bỏ ra,neutral,neutral,True,valid,linear_svm
+sent_004751,"Nhưng chỉ có 1,6 trong nhà sản phẩm",neutral,neutral,True,valid,linear_svm
+sent_004757,"Canh sale gia re ak, ma meo hieu sao sản phẩm giuong hoi vai dai luon ak moi nguoi, chan cha buon noi, dem di tay roi nsản phẩmm nc xa phoi nang cac the loai",negative,negative,True,valid,linear_svm
+sent_004759,"Vải mỏng, giặt nước thứ 2 bị tưa vải nsản phẩmy đường may",negative,negative,True,valid,linear_svm
+sent_004764,sản phẩm giống ảnh chất lượng khá ok tuy nhiên nặng mùi giặt nhiều lần mới hết được,neutral,neutral,True,valid,linear_svm
+sent_004767,"sản phẩm chất bình thường, màu cũng ok ko bị dại nhưng xử lý khiếu nại hơi kém",negative,negative,True,valid,linear_svm
+sent_004780,"Đặt mẫu 1,8m x2m mà gắn vào đêm 1,8m *2m ko vừa sản phẩm thì rất hôi sản phẩm đúng màu nhưng chỉ làm được dẻ lau rồi",negative,negative,True,valid,linear_svm
+sent_004782,Chất lượng và sản phẩm tốt nhưng size cửa sp gửi không đúng 1m8 mà size cửa sp gửi là 1m6,positive,positive,True,valid,linear_svm
+sent_004790,"sản phẩm giống hình, trông đẹp , nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,negative,True,valid,linear_svm
+sent_004799,"sp trông đẹp , nhưng ráp hơi lâu và mỏi tay, do phải vặn ốc nhiều quá",neutral,neutral,True,valid,linear_svm
+sent_004803,"hàng trông đẹp , chắc chắn nhưng không đánh số mẫu gỗ và bản chỉ dẫn lắp đặt quá sơ sài dẫn đến lắp hàng rất khó",neutral,neutral,True,valid,linear_svm
+sent_004807,hàng trông đẹp 4 sao vì giao hàng chậm,neutral,neutral,True,valid,linear_svm
+sent_004810,"sản phẩm trông đẹp , mẫu mã như hình nhưng ko giữ nhiệt được lâu",neutral,neutral,True,valid,linear_svm
+sent_004811,"sản phẩm trông đẹp , giữ nhiệt tốt tuy nhiên hơi khó rửa, cần có búi rửa ly riêng và hơi nặng :)",neutral,neutral,True,valid,linear_svm
+sent_004813,"sp khá lớn, đựng nước uống thoải mái lun, sơn nhám nên khá bám bẩn, ae nên lau chùi thường xuyên cho trông đẹp !",neutral,neutral,True,valid,linear_svm
+sent_004825,"Sản phẩm nhìn trông đẹp nhưng ván ép hơi mềm và bị thủng hai lỗ, không phù hợp, nhưng giá cả như nhau và chấp nhận được.",neutral,neutral,True,valid,linear_svm
+sent_004826,"Sản phẩm trông đẹp , chắc chắn nhưng không có mẫu gỗ đánh số, hướng dẫn lắp đặt quá thô nên rất khó lắp đặt sản phẩm",neutral,neutral,True,valid,linear_svm
+sent_004832,"Shop đóng gói trông đẹp và cẩn thận, chất lượng âm thanh cũng tạm được",positive,positive,True,valid,linear_svm
+sent_004837,Tai nghe cũng rất gọn nhưng âm thanh còn nghe chưa chuẩn lắm tai nghe cũng rất trông đẹp,positive,positive,True,valid,linear_svm
+sent_004851,"Mẫu mã trông đẹp , vải hơi mỏng",neutral,negative,False,valid,linear_svm
+sent_004855,"Giao hàng nhanh chóng, đúng mẫu, đúng loại, hình ảnh trông đẹp",positive,positive,True,valid,linear_svm
+sent_004856,Bản vẽ trông đẹp,negative,negative,True,valid,linear_svm
+sent_004865,"Giao sp nhanh chóng, đúng mẫu, đúng loại, hình ảnh trông đẹp",positive,positive,True,valid,linear_svm
+sent_004869,"tôi rất hài lòng về sp này, tuy là thiếu 1 con ốc nhưng nhà tôi vẫn có ốc để thay thế",positive,positive,True,valid,linear_svm
+sent_004878,"Mua về tự lắp rất thú vị, tuy nhiên hạn chế lắp sai, vì lắp sai khoảng 2 lần thì con vít không vặn chặt vào được khiến giá sách bị rung rinh, nhưng cực kì hài lòng với giá sách vì giá cả trên tiki lúc tôi mua là rẻ gần 1 nửa so với cửa hàng khi mua ngoài",positive,positive,True,valid,linear_svm
+sent_004882,Kệ đẹp chỉ có đièu tôi cố gắng mà ko siết chắc đc,positive,positive,True,valid,linear_svm
+sent_004898,tôi to đựng được nhiều nước,positive,positive,True,valid,linear_svm
+sent_004902,"tôi dùng nước nóng giữ nhiệt được từ sáng đến tối, ko biết dùng lạnh thì ntn",positive,positive,True,valid,linear_svm
+sent_004903,"Màu và kiểu dáng đẹp, tôi mới giữ nóng thôi chưa giữ lạnh, thấy cũng tạm, k thể được như bình thuỷ được",positive,positive,True,valid,linear_svm
+sent_004904,Hài lòng sp nầy tôi sử dụng roi tot,positive,positive,True,valid,linear_svm
+sent_004910,"nhận được sp lúc nào cũng sớm hơn ngày giao hàng dự tính, cảm ơn tiki",positive,positive,True,valid,linear_svm
+sent_004913,💮cũng được^^ (chỉ hơi buồn vì cái chỗ lắp vít nó không vừa nên bị cộm lên làm lúc đầu dựng tủ lên không thăng bằng đc nên phải lấy giấy chèn lại) còn lại thì ok hết 😊 với sp 535k thì hết chỗ chê rồi/ ngoại trừ cái trên/,positive,negative,False,valid,linear_svm
+sent_004918,"sp ok, đẹp chắc chắn, mình con gái tự lắp dễ dàng",positive,positive,True,valid,linear_svm
+sent_004937,"kệ nhìn chắc chắn, tuy nhiên giá rẻ nên sp theo giá cả, có khả năng sử dụng được 1 năm",positive,positive,True,valid,linear_svm
+sent_004941,"sp đúng mô tả, đẹp, không biết chất lượng thế nào, dùng được vừa giá tiền",positive,positive,True,valid,linear_svm
+sent_004954,sp chuẩn,positive,positive,True,valid,linear_svm
+sent_004957,"sử dụng sp ok, hài lòng",positive,positive,True,valid,linear_svm
+sent_004960,sp tốt đúng màu đúng mẫu,positive,positive,True,valid,linear_svm
+sent_004961,"sp giữ nhiệt tốt, thích",positive,positive,True,valid,linear_svm
+sent_004965,sp đóng gói cẩn thận,positive,positive,True,valid,linear_svm
+sent_004969,sp đẹp như hình quảng cáo,positive,positive,True,valid,linear_svm
+sent_004972,sp đc đóng gói kỹ lưỡng,positive,positive,True,valid,linear_svm
+sent_004989,"Hàng nhìn đẹp , đúng như hình, giao hàng nhanh, nhưng kệ hơi nhỏ, nv giao hàng lịch sự , thân thiện , cảm ơn Tiki",positive,positive,True,valid,linear_svm
+sent_004991,"kệ nhìn đẹp , dễ lắp ráp, mua về nhìn sơ đồ và các thanh gỗ là ráp dễ dàng, tuy thiếu 1 cái định vít nhưng không ảnh hưởng gì, vẫn cho 5 sao, sẽ tiếp tục ủng hộ shop và tiki",positive,positive,True,valid,linear_svm
+sent_004992,"Hàng khá ổn, nhìn đẹp",positive,positive,True,valid,linear_svm
+sent_004999,"Kệ rất nhìn đẹp , lúc đầu dùng tô vít vặn mỏi tay, sau dùng máy khoan nhanh và còn chỉnh cho các thanh ghép vào nhau chuẩn hơn",positive,positive,True,valid,linear_svm
+sent_005001,Giá sách nhìn đẹp,positive,positive,True,valid,linear_svm
+sent_005011,"Giá sách rất nhìn đẹp , có 1 vài lỗi nhỏ nhưng vẫn chấp nhận được",positive,positive,True,valid,linear_svm
+sent_005048,"nhìn đẹp , hoàn thiện tốt nhưng lắp khá tốn thời gian và bị móp mấy chỗ do ship",positive,positive,True,valid,linear_svm
+sent_005049,"Kệ sách nhìn đẹp , chắc chắn, giá hợp lý mỗi tội vặn vít để lắp thì tê tay",positive,positive,True,valid,linear_svm
+sent_005063,"nhìn đẹp , đúng như mô tả",positive,positive,True,valid,linear_svm
+sent_005072,"Sản phẩm nhìn đẹp , hài lòng",positive,positive,True,valid,linear_svm
+sent_005075,"Mình mua màu cam, màu khá nhìn đẹp , bình dùng ổn",positive,positive,True,valid,linear_svm
+sent_005083,nhìn đẹp lòi mà giữ lạnh được một buổi sáng thui ko được cả ngày,positive,positive,True,valid,linear_svm
+sent_005095,"Bình nhìn đẹp , nhìn như hình, bình to tay nữ sẽ khó cầm nếu không phải sơn nhám và có 2 đường vát trên thân, miệng bình hơi nhỏ so với tưởng tượng của mình, phải bỏ đá viên chứ đập đá cục tủ lạnh sẽ khó bỏ lọt, phần đế có bịt cao su nên để xuống êm và không bị trơn trượt, nói chung là hài lòng",positive,positive,True,valid,linear_svm
+sent_005104,Hài lòng với việc thời gian giao hàng của Tiki,positive,positive,True,valid,linear_svm
+sent_005106,"Mình nhận dc sản phẩm thứ 7 tuần trước, muộn hơn 5 ngày nhưng rất hài lòng với chất lượng sản phẩm,giá tiền và bạn thời gian giao hàng, nói chung sẽ tiếp tục ủng hộ tiki",positive,positive,True,valid,linear_svm
+sent_005111,Tiki thời gian giao hàng đúng hẹn,positive,positive,True,valid,linear_svm
+sent_005115,"Sản phẩm đẹp, chắc, dễ lắp ráp, vừa túi tiền nhưng thời gian thời gian giao hàng chậm hơn dự kiến",positive,positive,True,valid,linear_svm
+sent_005125,Sản phẩm đệp thời gian giao hàng nhanh,positive,positive,True,valid,linear_svm
+sent_005133,khá thấy hài lòng về sản phẩm,positive,positive,True,valid,linear_svm
+sent_005138,Hướng dẫn hơi ít nhưng ghép xong thì mình vô cùng thấy hài lòng với kệ sách của mình :)),positive,positive,True,valid,linear_svm
+sent_005142,Cảm thấy thấy hài lòng khi mua,positive,positive,True,valid,linear_svm
+sent_005154,Khá thấy hài lòng với bình,positive,positive,True,valid,linear_svm
+sent_005158,thấy hài lòng về sản phẩm được nhận,positive,positive,True,valid,linear_svm
+sent_005161,"Bình tốt, xài như ý, chỉ 1 điểm trừ laq2 phần đáy bình bi6 móp nhẹ, nên kg có cảm giác thấy hài lòng trọn vẹn",positive,positive,True,valid,linear_svm
+sent_000001,Mình mua giá sách dự kiến giao thứ 6 nhưng hôm nay thứ 4 đã giao rồi,positive,positive,True,test,linear_svm
+sent_000007,Chất liệu chắc chắn,positive,positive,True,test,linear_svm
+sent_000020,nhìn chung thì chất lượng hơn cả giá tiền bỏ ra,positive,positive,True,test,linear_svm
+sent_000023,"Kệ sau khi lắp ráp thì cực kỳ cứng cáp, đẹp",positive,positive,True,test,linear_svm
+sent_000024,"sản phẩm tầm 500k, tốt trong tầm giá",positive,positive,True,test,linear_svm
+sent_000032,Hì hục mất 8h ngày chủ nhật để tính sao ráp 3 bộ vào một và đi đèn cho kệ,neutral,neutral,True,test,linear_svm
+sent_000044,Mk mua hàng trên tiki đã lâu đây là lần đầu tiên tiki khiến mk k hài lòng,neutral,positive,False,test,linear_svm
+sent_000045,"Mình đặt hàng từ hôm thứ 3, trưa nay đã được ship tới rồi",positive,positive,True,test,linear_svm
+sent_000078,"Hàng giao đúng mẫu, đúng màu, đóng gói chắc chắn, đủ ốc vít",positive,positive,True,test,linear_svm
+sent_000086,"Gỗ kém chất lượng , Ôt vít xiết nặng tay là bị tuột bulông ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",negative,negative,True,test,linear_svm
+sent_000087,"Hàng tốt, gỗ MDF cứng chất lượng",positive,positive,True,test,linear_svm
+sent_000095,"Do tầm giá này cũng không đòi hỏi được gì nhiều nhưng sản phẩm này sẽ tốt hơn nếu thiết kế phần vặn ốc tiện hơn, đảm bảo các bạn là vặn hết số ốc đó vô thì tay nổi chuột luôn đó :D",negative,neutral,False,test,linear_svm
+sent_000101,"Mình mua 1 kệ màu vân gỗ sồi, màu rất ưng, sáng mà ko sợ dơ",positive,positive,True,test,linear_svm
+sent_000103,tủ đẹp giống như mô tả,positive,positive,True,test,linear_svm
+sent_000110,"Tiki giao nhanh hơn dự kiến, kệ đẹp, ổn và khá dễ lắp ráp",positive,positive,True,test,linear_svm
+sent_000121,Sản phẩm thực tế không giống ảnh,negative,negative,True,test,linear_svm
+sent_000138,"Tạm ổn, gỗ cắt hơi lệch, lắp xong giá sách bị cong mất 2 thanh ở trên cùng và dưới cùng, bản hướng dẫn và các tấm ván gỗ cần đánh số thứ tự, chiều lắp để thuận tiện lắp ráp và sử dụng",negative,neutral,False,test,linear_svm
+sent_000154,"Sản phẩm được gói chắc chắn, cũng khá là dễ lắp ráp nữa",positive,positive,True,test,linear_svm
+sent_000162,"Sản phẩm giao hàng sớm hơn dự định, đóng gói đẹp, chắc chắn, dễ lắp ráp, màu sắc đẹp, vô cùng hài lòng",positive,positive,True,test,linear_svm
+sent_000171,"mình sợ vận chuyển sẽ dễ bị hỏng sp,,nhưng mình may mắn là nó perfect ,,,ko bể, mẻ,,,và đầy đủ ốc vít,,,mình tự lắp bằng vít tay,,,hơi mỏi tay chút nhưng kệ lên rất đẹp",positive,positive,True,test,linear_svm
+sent_000174,"kệ siêu xinh, siêu chắc chắn và siêu nặng",positive,positive,True,test,linear_svm
+sent_000175,"Hàng đẹp, phù hợp với giá tiền",positive,positive,True,test,linear_svm
+sent_000182,"với giá chưa đến 600k thì chất lượng vậy là ổn rồi, dễ lắp ráp",positive,positive,True,test,linear_svm
+sent_000194,"Hàng đóng gói chắc chắn, nhân viên giao hàng vui vẻ, nhiệt tình",positive,positive,True,test,linear_svm
+sent_000201,"kệ rất đẹp, tiki đóng hàng cẩn thận",positive,positive,True,test,linear_svm
+sent_000203,"Mua về đem ra hì hục lắp, mà ai ngờ bên bán khoan lỗ sai vị trí làm lắp mãi không được, tốn cả buổi tối, đề nghị tiki giải quyết cho mình, đã gọi điện cho bộ phận chăm sóc khách hàng của tiki rồi",negative,negative,True,test,linear_svm
+sent_000211,"Kệ sách dày đẹp, giao đủ gỗ và đinh ốc",positive,positive,True,test,linear_svm
+sent_000213,"Thật sự hài lòng về sản phẩm, lắp ráp cực nhanh cực đơn giản",positive,positive,True,test,linear_svm
+sent_000216,"kệ dễ dàng lắp ráp, chất liệu ván ép nên cũng ko mong gì lâu dài được",neutral,neutral,True,test,linear_svm
+sent_000218,mình đặt màu vân gỗ sồi nhưng lại giao cho mình màu trắng mà kg hỏi ý kiến của mình,negative,negative,True,test,linear_svm
+sent_000224,"Nhìn đơn sơ vậy thôi mà nặng 20kg, mất gần 1h đồng hồ để ráp, khá ưng ý, với số tiền chỉ hơn 500k thì quá rẻ và tốt",positive,positive,True,test,linear_svm
+sent_000226,"sản phẩm rất tốt ạ, bền chắc chắn, cứng cáp, rất đáng giá tiền",positive,positive,True,test,linear_svm
+sent_000228,Giá đẹp,positive,positive,True,test,linear_svm
+sent_000235,chưa ráp nhưng kiểm tra hàng rẩt ưng ý,positive,negative,False,test,linear_svm
+sent_000261,"Gỗ rất chắc chắn, đẹp, màu sơn đẹp, lắp ráp cũng khá dễ dàng",positive,positive,True,test,linear_svm
+sent_000270,"kệ sách rất đẹp, giá cũng rẻ, có tờ hướng dẫn lắp ráp nên rất dễ, đợt hàng lần này mình rất vừa ý",positive,positive,True,test,linear_svm
+sent_000276,"Hàng tốt như giới thiệu, giao hàng ô tô đảm bảo, tuy nhiên thời gian giao hàng hơi lâu so với hẹn",positive,positive,True,test,linear_svm
+sent_000294,"Lần đầu tiên mua sản phẩm Tiki mà thất vọng vì giao lỗi 2 thanh đứng (lỗ ko khoan so le nên ko bắt ốc được, phải khoan lỗ mới)",negative,negative,True,test,linear_svm
+sent_000303,"Giá cả ko biết có rẻ ko, nhưng giao đủ đồ để lắp",positive,neutral,False,test,linear_svm
+sent_000328,"Kệ đẹp, giá hợp lý",positive,positive,True,test,linear_svm
+sent_000343,"Kệ rất dễ lắp ráp, mình đã từng mua một cái, giờ mua thêm cái nữa",positive,positive,True,test,linear_svm
+sent_000344,Khá hài lòng về giá và sản phẩm,positive,positive,True,test,linear_svm
+sent_000360,"Tủ chắc chắc, đẹp",positive,positive,True,test,linear_svm
+sent_000364,"tiki giao hàng đúng hẹn, ván gỗ tốt, lỗ khoan ốc vít không bị lệch",positive,positive,True,test,linear_svm
+sent_000370,"Kệ sách đẹp, chất lượng! Thấy nhiều người phàn nàn về dịch vụ của Tiki nhưng mình thấy hài lòng và tiếp tục ủng hộ Tiki",positive,positive,True,test,linear_svm
+sent_000375,"Miễn phí giao hàng, mình đăng kí mua hai tu mà mất gần 200k tiền phí giao hàng công kềnh",negative,negative,True,test,linear_svm
+sent_000376,Sản phẩm có mẫu mã đẹp,positive,positive,True,test,linear_svm
+sent_000388,"Kệ đúng kích thước, dễ lắp đặt, chắc chắn, đựng được nhiều sách",positive,positive,True,test,linear_svm
+sent_000395,"Hàng khá là chắc chắn, khá ổn với mức giá",positive,positive,True,test,linear_svm
+sent_000427,"Cảm ơn shop, sản phẩm thật về chất lượng, mẫu mã đẹp",positive,positive,True,test,linear_svm
+sent_000435,"đóng gói đẹp, chắc chắn",positive,positive,True,test,linear_svm
+sent_000442,"Dùng được, dễ lắp ráp, tuy nhiên khá nặng khi vận chuyển, phải đi làm giờ hành chính thì rất khó khăn vì không giao về nhà được",positive,negative,False,test,linear_svm
+sent_000449,"sản phẩm khá đẹp, tương đối rẻ so với mức giá này, shop đóng gói rất rất cẩn thận, giao hàng nhiệt tình và đúng hẹn!!!!!",positive,positive,True,test,linear_svm
+sent_000453,ok ngon,positive,positive,True,test,linear_svm
+sent_000455,"Mua 3 cái rồi, lúc nào cũng ok cả, vận chuyển cẩn thận dù hàng nặng",positive,positive,True,test,linear_svm
+sent_000459,thích ơi là thích,positive,positive,True,test,linear_svm
+sent_000477,"Rất hài lòng về sản phẩm, gỗ chắc chắn nhìn đẹp giá cả hợp lý",positive,positive,True,test,linear_svm
+sent_000480,"Giá cả hợ lý,shipper thân thiện,hàng gói cẩn thận,rất đảng mua ^^ sẽ tiếp tục ủng hộ Tiki",positive,positive,True,test,linear_svm
+sent_000481,Mua về tuy không đẹp như trên hình nhưng suy nghĩ cho cùng thì với giá như vậy chất lượng của sản phẩm đủ dùng,neutral,negative,False,test,linear_svm
+sent_000485,"Giao hàng nhanh, hàng chất lượng! Loay hoay vài tiếng cũng xong sản phẩm này 🥰",positive,positive,True,test,linear_svm
+sent_000502,"Kệ dễ lắp ráp, đẹp, chắc chắn, giá rẻ hơn các nhà cung cấp khác",positive,positive,True,test,linear_svm
+sent_000521,"Gỗ tốt, đẹp",positive,positive,True,test,linear_svm
+sent_000524,"sản phẩm chắc chắn, đẹp dễ lắp ráp",positive,positive,True,test,linear_svm
+sent_000529,"Hàng đẹp, lắp ráp đơn giản",positive,positive,True,test,linear_svm
+sent_000531,"hàng cực xinh ạ, vân gỗ rất đẹp",positive,positive,True,test,linear_svm
+sent_000549,"Chất lượng sản phẩm tuyệt vời, thời gian giao hàng nhanh, phụ kiện đầy đủ",positive,positive,True,test,linear_svm
+sent_000551,"Gói hàng kỹ, giao hàng tận tình",positive,positive,True,test,linear_svm
+sent_000552,"Giá sách chắc chắn, đẹp",positive,positive,True,test,linear_svm
+sent_000562,"Giá sách ok, có hướng dẫn lắp ráp kệ kèm theo dễ dàng",positive,positive,True,test,linear_svm
+sent_000563,"kệ rất đẹp, chắc chắn, shop đóng gói hàng cẩn thận, giáo hàng nhanh",positive,positive,True,test,linear_svm
+sent_000570,"Tủ đẹp, có hướng dẫn lắp ráp, nhưng không có ốc vít kèm theo",positive,positive,True,test,linear_svm
+sent_000572,kệ sách rất ưng ý,positive,positive,True,test,linear_svm
+sent_000575,"Mua thử 1 cái và thấy khá tốt, nên sẽ mua thêm",positive,positive,True,test,linear_svm
+sent_000576,Chất lượng so với giá ok! Đóng gói rất gọn gàng cẩn thận!,positive,positive,True,test,linear_svm
+sent_000581,"Hàng đúng mô tả, giao nhanh, đóng gói kỹ 2 lớp nilon 1 lớp carton và có bịt đầu nilon",positive,positive,True,test,linear_svm
+sent_000582,"Kệ sách đẹp, khá chắc chắn và giá cả quá hợp lý, tôi rất ưng ý về SP này, cảm ơn tiki nhiều!",positive,positive,True,test,linear_svm
+sent_000591,"chất lượng tuyệt vời, màu đẹp và cảm giác rất chắc chắn",positive,positive,True,test,linear_svm
+sent_000595,"Kệ gỗ đẹp như hình, tiki giao hàng nhanh, đẹp hơn mong đợi",positive,positive,True,test,linear_svm
+sent_000604,Tiki giao hàng nhanh hơn dự kiến,positive,positive,True,test,linear_svm
+sent_000617,hài lòng với sản phẩm này,positive,positive,True,test,linear_svm
+sent_000619,"M đặt có 1 hôm đã giao hàng ngay, kệ lắp khá đơn giản, m là phụ nữ nên mất 1 tiếng để hoàn thành",positive,positive,True,test,linear_svm
+sent_000620,"Hơi khó lắp rắp vì sơ đồ không rõ ràng, nếu có thêm đánh số từng thanh gỗ thì sẽ lắp dễ hơn",negative,negative,True,test,linear_svm
+sent_000623,"hàng ok, bị rớt móp hết 2 góc nhỏ",neutral,negative,False,test,linear_svm
+sent_000624,"Lắp ráp khá dễ, gỗ chắc chắn, số lượng vít vừa đủ, không thừa không thiếu 1 con vít",positive,positive,True,test,linear_svm
+sent_000642,Rất hài lòng với sản phẩm của shop và Tiki,positive,positive,True,test,linear_svm
+sent_000648,Hàng đẹp nhưng hướng dẫn sử dụng quá đơn giản làm mất thời gian người dùng khi gắn kệ,neutral,positive,False,test,linear_svm
+sent_000653,Rất hài lòng với sp dao hàng nhanh hơn so với du kiến cảm ơn Tiki sẽ ủng hộ tiki dài dài Ad,positive,positive,True,test,linear_svm
+sent_000655,"Mới nhận hàng chiều nay, mở ra đã bị sứt mẻ",negative,negative,True,test,linear_svm
+sent_000671,"Giá rẻ, giao hàng nhanh, chất lượng quá tốt",positive,positive,True,test,linear_svm
+sent_000677,Vận chuyển hơi bị bể tí,negative,negative,True,test,linear_svm
+sent_000686,"Kệ sách khá đẹp và chắc chắn, lắp ráp trong khoảng 30 phút",positive,positive,True,test,linear_svm
+sent_000688,"Ngồi loay hoay mãi mới xong cái kệ, ưng ý cực kỳ, cảm ơn shop ^^",positive,positive,True,test,linear_svm
+sent_000696,Khá ổn nhưng thô quá nên cho miếng dán vào chỗ ăn đinh,neutral,neutral,True,test,linear_svm
+sent_000704,Sp chắc chắn mà rẻ,positive,positive,True,test,linear_svm
+sent_000727,Kệ lắp ráp cũng dễ dàng và chứa được nhiều sách đủ kích cỡ,positive,positive,True,test,linear_svm
+sent_000728,"Hang giao nhanh , dong goi can than , chat luong so ok",positive,positive,True,test,linear_svm
+sent_000731,"kệ đẹp, cứng cáp, lắp ráp dễ, quá được số với giá tiền",positive,positive,True,test,linear_svm
+sent_000737,Kệ sách màu trắng rất đẹp,positive,positive,True,test,linear_svm
+sent_000747,"Mới nhận được hàng, tiki giao hàng sơm hơn dự kiến",positive,positive,True,test,linear_svm
+sent_000749,đóng gói ok,positive,positive,True,test,linear_svm
+sent_000756,Cực kỳ hài lòng,positive,positive,True,test,linear_svm
+sent_000758,"vừa mới lắp xong, kệ dày dặn, chắc chắn, dễ lắp ráp",positive,positive,True,test,linear_svm
+sent_000763,Hàng như trong hình,neutral,negative,False,test,linear_svm
+sent_000767,Tôi đặt màu vân gỗ mà gởi màu trắng,negative,negative,True,test,linear_svm
+sent_000768,đẹp,positive,positive,True,test,linear_svm
+sent_000772,"hàng đẹp, năng, nhưng có mấy lo bắt vít bị lệch phải tự khoan lại",positive,positive,True,test,linear_svm
+sent_000779,"rất hài lòng, đẹp, giao hàng nhanh , giá hợp lý nữa",positive,positive,True,test,linear_svm
+sent_000795,Giá thiết kế để dọc nhưng để ngang cũng khá đẹp:),positive,positive,True,test,linear_svm
+sent_000800,"Sản phẩm đẹp, đóng gói chác chắn, giao hàng đúng hẹn, nhân viên nhiệt tình",positive,positive,True,test,linear_svm
+sent_000801,"kệ chắc chắn, lắp ráp dễ, giao hàng dễ thương",positive,positive,True,test,linear_svm
+sent_000827,Tủ cứng cáp,positive,positive,True,test,linear_svm
+sent_000829,Con gái cũng có thể dễ dàng lắp ráp sản phẩm này,positive,positive,True,test,linear_svm
+sent_000830,"Hàng tốt chất lượng tuyệt vời ông mặt trời, gia đình nào cũng nên có nhé",positive,positive,True,test,linear_svm
+sent_000835,"Giao hàng nhanh, gói hàng kỹ, sản phẩm đẹp",positive,positive,True,test,linear_svm
+sent_000840,Kệ đẹp,positive,positive,True,test,linear_svm
+sent_000842,"Đẹp, dễ lắp ráp, khá nặng, chắc chắn",positive,positive,True,test,linear_svm
+sent_000844,"Kệ sách đẹp, chắc chắn, giá hợp lý mỗi tội vặn vít để lắp thì tê tay",positive,positive,True,test,linear_svm
+sent_000851,Nhỏ gọn dễ lắp đặt cẩn thận vì rất dễ bị trầy nước sơn,positive,positive,True,test,linear_svm
+sent_000855,Tiki giao hàng nhanh,positive,positive,True,test,linear_svm
+sent_000867,"Kệ đẹp, nhưng ráp hơi lâu và mỏi tay, do phải vặn ốc nhiều quá",neutral,neutral,True,test,linear_svm
+sent_000872,"Sản phẩm cực đẹp, chác chắn, dễ đang lắp ráp!",positive,positive,True,test,linear_svm
+sent_000877,khá chắc chắn,positive,positive,True,test,linear_svm
+sent_000889,"Hàng đẹp, giá hợp lý, giao hàng siêu nhanh",positive,positive,True,test,linear_svm
+sent_000897,"Giao hàng nhanh, kệ chất lượng, nên đánh số thứ tự để dễ lắp ráp",positive,positive,True,test,linear_svm
+sent_000905,"Hàng làm đẹp, chất lượng tốt",positive,positive,True,test,linear_svm
+sent_000908,Ổn với giá tiền,neutral,neutral,True,test,linear_svm
+sent_000931,"Gỗ đẹp,lắp xong khá chắc chắn,giao hàng nhanh,hàng giống hình",positive,positive,True,test,linear_svm
+sent_000945,"Giá sách đẹp, chắc chắn",positive,positive,True,test,linear_svm
+sent_000946,"Kệ đẹp ,chắc chắn",positive,positive,True,test,linear_svm
+sent_000956,"Kệ đẹp, phù hợp không gian gia đình, giá OK",positive,positive,True,test,linear_svm
+sent_000967,Ship hàng nhanh,positive,positive,True,test,linear_svm
+sent_000986,oke nhưng là ván ép thôi ko phải gỗ,neutral,neutral,True,test,linear_svm
+sent_000987,Sản phẩm đẹp hơn mong đợi,positive,positive,True,test,linear_svm
+sent_001010,Sản phẩm rất chất lượng,positive,positive,True,test,linear_svm
+sent_001013,Da nhan san pham nhanh hon du kien,positive,positive,True,test,linear_svm
+sent_001030,"Kệ tốt, đẹp, lắp gháp dễ",positive,positive,True,test,linear_svm
+sent_001034,sản phẩm quá okiiii,positive,negative,False,test,linear_svm
+sent_001050,"đựng cũng được kha khá sách vở, đồ chơi",positive,positive,True,test,linear_svm
+sent_001055,"hàng tốt hơn mong đợi, deal quá hời",positive,positive,True,test,linear_svm
+sent_001056,"Kệ sách đẹp, dễ lắp ráp",positive,positive,True,test,linear_svm
+sent_001059,Quá là ưng ý,positive,positive,True,test,linear_svm
+sent_001061,Sản phẩm đúng theo mô tả,neutral,positive,False,test,linear_svm
+sent_001065,"Sản phẩm đẹp, chắc chắn, hữu ích",positive,positive,True,test,linear_svm
+sent_001066,"Hành tiki giao đúng thời gian, đúng mẫu, rất hài lòng",positive,positive,True,test,linear_svm
+sent_001067,OK với tầm giá,positive,positive,True,test,linear_svm
+sent_001068,"Hàng đẹp , chất lượng nhé mọi người 🎉🎉🎉",positive,positive,True,test,linear_svm
+sent_001085,"Sản phẩm tốt, khung chắc chắn, thời gian giao hàng nhanh",positive,positive,True,test,linear_svm
+sent_001088,Sản phẩm giống như ảnh,neutral,negative,False,test,linear_svm
+sent_001095,Lắp ráp dễ dàng :) cảm ơn tiki mẫu rất thik ạ,positive,positive,True,test,linear_svm
+sent_001100,"Gỗ đẹp, sản phẩm chắc chắn",positive,positive,True,test,linear_svm
+sent_001109,"Sản phẩm đẹp, đóng gói cẩn thận, rất ưng",positive,positive,True,test,linear_svm
+sent_001112,Sản phẩm đúng như hình đẹp đáng để mua,positive,positive,True,test,linear_svm
+sent_001114,"kệ đẹp, tiện ích,dễ lắp ráp",positive,positive,True,test,linear_svm
+sent_001116,"chỉ giao hàng chậm quá thôi, kệ đẹp, và chắc chắn,",neutral,neutral,True,test,linear_svm
+sent_001119,chất lượng tương ứng giá cả,neutral,positive,False,test,linear_svm
+sent_001120,giá rẻ cho một kệ gỗ như vậy,positive,positive,True,test,linear_svm
+sent_001135,chưa bao giờ thất vọng khi mua hàng trên tiki,positive,neutral,False,test,linear_svm
+sent_001138,"sản phản tốt, xứng đáng với giá tiền",positive,positive,True,test,linear_svm
+sent_001144,Chất lượng gỗ Ok nhưng Kick thước quá nhỏ,negative,positive,False,test,linear_svm
+sent_001145,"Đẹp, chắc chắn, dễ lắp ghép😘🥰",positive,positive,True,test,linear_svm
+sent_001148,giá sách đẹp vừa đúng ý mình,positive,positive,True,test,linear_svm
+sent_001155,kệ sách rất đẹp và chắc chắn,positive,positive,True,test,linear_svm
+sent_001156,"Giá đẹp, dễ lắp, chắc chắn",positive,positive,True,test,linear_svm
+sent_001157,"Giá sách đẹp, tiện ích, giá phải chăng",positive,positive,True,test,linear_svm
+sent_001164,"Giao hàng nhanh, giá cả phải chăng",positive,positive,True,test,linear_svm
+sent_001201,Oki chất lượng so với giá oki,positive,positive,True,test,linear_svm
+sent_001202,"sản phẩm tốt, rất ok, đáng để mua",positive,positive,True,test,linear_svm
+sent_001208,SP đẹp y hình cũng dễ lắp ráp,positive,positive,True,test,linear_svm
+sent_001210,Sản phẩm đẹp và giá cả phù hợp,positive,positive,True,test,linear_svm
+sent_001218,sp ok,positive,positive,True,test,linear_svm
+sent_001219,Kệ dễ lắp ráp,positive,positive,True,test,linear_svm
+sent_001225,thực sự rất hài lòng,positive,positive,True,test,linear_svm
+sent_001233,Hàng quá xịn,positive,negative,False,test,linear_svm
+sent_001237,"Giao hàng bị gẫy đầu, gỗ mỏng",negative,negative,True,test,linear_svm
+sent_001295,san pham đẹp,positive,positive,True,test,linear_svm
+sent_001314,"vừa nhận được bình chiều nay, cực kì thích",positive,positive,True,test,linear_svm
+sent_001318,"Về sản phẩm, sản phẩm của Lock&Lock thì có chất lượng khỏi chê: giữ nhiệt cả nóng và lạnh tốt trong thời gian dài, màu sắc bắt mắt, bền đẹp, bình to nhưng rất nhẹ, thiết kế có 2 đường vát 2 bên thân bình giúp dễ dàng cầm giữ, quai cầm trên nắp bình rất chắc chắn, đế có lót cao su giúp bình k bị xê dịch, đặt bình xuống không có tiếng ồn",positive,positive,True,test,linear_svm
+sent_001320,"Về ngoại hình thì hàng L&L khỏi chê rồi, vỏ bình nhám nên cầm khá chắc tay, giữ lạnh khá lâu, miệng bình rộng nên dễ thêm đá viên vào",positive,positive,True,test,linear_svm
+sent_001321,"Về cảm quan thì Bình đẹp, khá dày dặn và chắc chắn",positive,positive,True,test,linear_svm
+sent_001331,"Thích lắm, mua lúc km nữa nên ưng",positive,positive,True,test,linear_svm
+sent_001335,"Thấy cũng ổn , không biết sau có hạn không",neutral,negative,False,test,linear_svm
+sent_001338,That tuyet vi tranh thu mua dc deal gia tot,positive,positive,True,test,linear_svm
+sent_001363,"Tiki giao hàng rất nhanh, nhưng sản phẩm bị trầy xước nhiều như đã sử dụng rồi vậy",positive,neutral,False,test,linear_svm
+sent_001370,"Tiki giao hàng nhanh siêu tốc, sản phẩm rất đẹp, sẽ mua vài chiếc nữa cho gia đình sử dụng",positive,positive,True,test,linear_svm
+sent_001377,"Tạm thời thấy ok, cần dùng một thời gian mới đánh giá chính xác được",positive,neutral,False,test,linear_svm
+sent_001378,Sử dụng tốt bền,positive,positive,True,test,linear_svm
+sent_001379,"Sử dụng tikinow giao nhanh, shipper thân thiện nhanh nhạy",positive,positive,True,test,linear_svm
+sent_001382,"Sp tốt, m đã mua cho mình dùng và đặt thêm giúp bạn bè, anh chị em khoảng hơn chục cái mọi người đều ưng ý",positive,positive,True,test,linear_svm
+sent_001384,"SP tốt như mô tả, giữ nhiệt quá tốt",positive,positive,True,test,linear_svm
+sent_001391,"sp đẹp, giữ nhiệt tốt",positive,positive,True,test,linear_svm
+sent_001393,Sp dùng rất ok,positive,positive,True,test,linear_svm
+sent_001397,"So quá good, tiếc nhất là mình vừa mua trong siêu thị xong mới thấy o thì mua lần hai , ba bình roài",positive,positive,True,test,linear_svm
+sent_001402,Sản phẩm thì ok,positive,positive,True,test,linear_svm
+sent_001414,"Sản phẩm tốt, đẹp, chất lượng",positive,positive,True,test,linear_svm
+sent_001421,"Sản phẩm tốt trong tầm giá,giữ nóng lạnh điều tốt,cảm ơn Shop nhiều",positive,positive,True,test,linear_svm
+sent_001428,"sản phẩm rất tốt, nhưng lớp sơn dễ bị bong ra , rất tốt",positive,positive,True,test,linear_svm
+sent_001429,"Sản phẩm rất tốt, giữ nóng, lạnh lâu",positive,positive,True,test,linear_svm
+sent_001434,"Sản phẩm rất đẹp, ưng lắm",positive,positive,True,test,linear_svm
+sent_001455,"sản phẩm giữ nhiệt tốt, chắc chắn",positive,positive,True,test,linear_svm
+sent_001459,sản phẩm giữ nhiệt rất tốt,positive,positive,True,test,linear_svm
+sent_001461,"sản phẩm giống như hình, hất hài lòng về chất lượng",positive,positive,True,test,linear_svm
+sent_001473,"Sản phẩm đẹp, sử dụng tốt",positive,positive,True,test,linear_svm
+sent_001474,"Sản phẩm đẹp, màu vang cực đẹp",positive,positive,True,test,linear_svm
+sent_001475,"Sản phẩm đẹp, màu sắc bắt mắt, hy vọng sử dụng được bền",positive,positive,True,test,linear_svm
+sent_001476,"Sản phẩm đẹp, giữ nhiệt tốt!",positive,positive,True,test,linear_svm
+sent_001485,Sản phẩm đẹp dũng tích cao giá hợp lý tuỳ nhiên mùi nhựa có thoảng thoảng một chút và nêu cho những loại nước như nước chè sữa thì sẽ để lại mùi,positive,positive,True,test,linear_svm
+sent_001486,Sản phẩm đẹp chất lượng tốt,positive,positive,True,test,linear_svm
+sent_001499,"Sản phẩm chất lượng giữ nhiệt rất tốt mình đánh giá 5 sao cho sản phẩm, nhưng dịch vụ giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",neutral,neutral,True,test,linear_svm
+sent_001501,Sản phẩm chắc chắn,positive,positive,True,test,linear_svm
+sent_001510,San pham rat tot toi da mua rat nhieu cai roi,positive,positive,True,test,linear_svm
+sent_001516,"Rất ưng ý, giữ lạnh lâu",positive,positive,True,test,linear_svm
+sent_001536,"Rất hài lòng , hàng chất lượng",positive,positive,True,test,linear_svm
+sent_001549,Ổn,neutral,neutral,True,test,linear_svm
+sent_001557,Ok giao hàng nhanh sp vừa ý mình,positive,positive,True,test,linear_svm
+sent_001561,Nhận được hàng rồi khá là háo hức bóc ra thì bõ công chờ đợi,neutral,negative,False,test,linear_svm
+sent_001563,ngon!,positive,positive,True,test,linear_svm
+sent_001570,Nước nóng để từ 8h sáng hôm nay tới tận 8h sáng hôm sau mà vẫn còn nóng luôn,positive,positive,True,test,linear_svm
+sent_001574,"mười điểm, hàng xịn, mua đúng đợt giảm giá còn 1/2, giao hàng sớm 1 tuần so với dự kiến",positive,positive,True,test,linear_svm
+sent_001589,"mới nhận được hàng, nó đẹp hơn trong hình nữa, đã có 2 bình l&L kiểu củ, phân vân mua thêm cái nầy, và rất hài lòng, đẹp và chắc tay hơn nhiu",positive,positive,True,test,linear_svm
+sent_001590,"Mới đầu nhìn hình tưởng là bình trụ tròn thôi nhưng nhân hàng mới biết Lock n Lock thiết kế 2 rãnh chạy dọc 2 bên thân, thiết kế này giúp cầm rất chắc tay, vì dung tích bình này cũng khá to á",positive,positive,True,test,linear_svm
+sent_001598,Mình nghiện các loại bình giữ nhiệt của Lock & Lock hiii,positive,positive,True,test,linear_svm
+sent_001600,"Mình mua sản phẩm này hồi sale còn 304k, phải nói với giá sale này thì quá là may mắn, bình to, cầm chắc tay, quai xách cao su rất chắc",positive,positive,True,test,linear_svm
+sent_001605,mình mua dùng đc 5 tháng thấy có hiện tượng gỉ sét bên trong,negative,negative,True,test,linear_svm
+sent_001615,"Mình đặt mua bình này cho mẹ, bình rất đẹp và to, thích lắm!",positive,positive,True,test,linear_svm
+sent_001616,"Mình đặt mua bình màu vàng, hàng đẹp hơn trong hình luôn àh, giữ nhiệt lâu, rất thích :)",positive,positive,True,test,linear_svm
+sent_001625,Mẫu mã và màu sắt bắt mắt,positive,negative,False,test,linear_svm
+sent_001637,Màu đẹp nhưng sao vào icheck xuất xứ lại China,positive,positive,True,test,linear_svm
+sent_001645,"hơi to so với tưởng tượng, giữ nhiệt lâu, sử dụng tốt",positive,positive,True,test,linear_svm
+sent_001646,"Hơi bị trầy tí xíu, có thể lâu ngày trầy sơn",negative,negative,True,test,linear_svm
+sent_001651,hàng xài rất tốt ! nhưng cho mình hỏi cái gon của cái nắp dưới thì mua ở đâu Bên shop mình có bán không,positive,negative,False,test,linear_svm
+sent_001654,"hàng tốt, sử dụng rất thích",positive,positive,True,test,linear_svm
+sent_001660,hàng ổn,neutral,negative,False,test,linear_svm
+sent_001662,"hàng như hình, giống mô tả, giữ nhiệt tốt, chắc chắn đáng mua đấy ace",positive,positive,True,test,linear_svm
+sent_001663,"hàng hóa giao đúng, chất lượng",positive,neutral,False,test,linear_svm
+sent_001673,"Hàng đẹp, như hình, vỏ ngoài nhám cầm rất thích, giữ ấm tốt, giữ lạnh cực tốt",positive,positive,True,test,linear_svm
+sent_001676,"hàng đẹp, đóng gói cẩn thận",positive,positive,True,test,linear_svm
+sent_001680,"hàng đẹp, chắc chắn nhưng rất dễ bị tróc sơn",positive,positive,True,test,linear_svm
+sent_001681,Hàng đep ok! Cái này là cái thứ 2 rồi dùng thấy rất ok,positive,positive,True,test,linear_svm
+sent_001710,"Hài lòng, đóng gói cẩn thận,sản phẩm giống mô tả",positive,positive,True,test,linear_svm
+sent_001718,"Giữ nhiệt tốt, đựng được lượng nước phù hợp, quai xách tiện lợi, đế bọc cao su đặt xuống không ồn, màu sắc đẹp",positive,positive,True,test,linear_svm
+sent_001719,"giữ nhiệt tốt, để từ tối hôm trước đến sáng hôm sau vẫn giữ được độ ấm",positive,positive,True,test,linear_svm
+sent_001727,"Giữ nhiệt rất tốt, màu sắc đẹp, chắc chắn",positive,positive,True,test,linear_svm
+sent_001729,Giữ nhiệt rất tốt ! Xài tất tiện lợi,positive,positive,True,test,linear_svm
+sent_001730,Giữ nhiệt rất lâu rất đẹp,positive,positive,True,test,linear_svm
+sent_001736,giữ nhiệt cực kỳ tốt,positive,positive,True,test,linear_svm
+sent_001738,GIữ nhiệt cả nóng lẫn lạnh cực tốt,positive,positive,True,test,linear_svm
+sent_001741,giữ nóng cũng lâu mà giữ lạnh cũng lâu :v cực hài lòng,positive,positive,True,test,linear_svm
+sent_001742,"giữ lạnh tuyệt vời, bỏ nữa bình đá, từ 9h tối hôm trc đến 4h chiều hsau vẫn còn đá",positive,positive,True,test,linear_svm
+sent_001769,"Giao hàng nhanh, đóng gói thùng hàng bị móp, mở ra xài thi bình bị trầy như hình, hơi thất vọng :(, hy vọng ko ảnh hưởng chất lượng bình",negative,negative,True,test,linear_svm
+sent_001772,"Giao hàng nhanh, đóng gói chắc chắn , hàng lock n lock thì chất lượng kh phải bàn roi 🙆🏼‍♀️🙆🏼‍♀️🙆🏼‍♀️",positive,positive,True,test,linear_svm
+sent_001774,"Giao hàng nhanh, đóng gói cẩn thận, cái bình to hơn mình tưởng",positive,positive,True,test,linear_svm
+sent_001784,Giao hàng nhanh và đóng gói cẩn thận,positive,positive,True,test,linear_svm
+sent_001793,Giao hàng hơi lâu tí,negative,negative,True,test,linear_svm
+sent_001794,Giao hàng cực kỳ nhanh,positive,positive,True,test,linear_svm
+sent_001796,"Giao đug mẫu, kiểu dáng đẹp chắc chắn",positive,positive,True,test,linear_svm
+sent_001799,"Tai nghe để màu trắng,đơn hàng giao cũng để tai nghe màu trắng,mở ra dây màu trắng tai màu đen ko ăn nhập gì,đã vậy 1 loa nghe đc loa ko nghe đc,shop nhắm bán được thì bán chứ bán kiểu vậy thất đức lắm",negative,negative,True,test,linear_svm
+sent_001805,Shop làm ăn kì đặt trắng ra đen🙃 thái độ kém,negative,negative,True,test,linear_svm
+sent_001806,Ảnh màu trắng full nhưng gửi lại lỗi cho tai nghe chỗ ốp vào lại lại màu đen,negative,negative,True,test,linear_svm
+sent_001811,"Mua cái tai nghe mà giao cái này cho mình là sao , nhắn tin hỏi thì ko rep mặc dù đag onl , shop làm ăn gian dối , sẽ ko bao giờ mua hàng của shop lần nào nữa, , đúng là lừa đảo",negative,negative,True,test,linear_svm
+sent_001825,"Đặt màu trắng mà shop giao nhầm màu xanh ,thất vọng",negative,negative,True,test,linear_svm
+sent_001831,Tai nghe nghe đc mấy ngày thì bị hỏng giác tai nghe,negative,negative,True,test,linear_svm
+sent_001834,Cả 2 bị hư 1 bên tai :(,negative,negative,True,test,linear_svm
+sent_001835,Nghe được 3 ngày xong hư mẹ nó 2 bên tai nghe,negative,negative,True,test,linear_svm
+sent_001846,"Mua tai nghe nghe được nhưng gọi không được , mà mình đã bấm nhận hàng rồi, không đổi đc, chán thật",negative,negative,True,test,linear_svm
+sent_001851,Hàng mall mà nghe rồ ghê,negative,negative,True,test,linear_svm
+sent_001852,Cực kì tệ luôn,negative,negative,True,test,linear_svm
+sent_001864,Dùng 2 tuần là hỏng,negative,negative,True,test,linear_svm
+sent_001875,Sản phẩm khá đểu gì hoàn thiện kém,negative,negative,True,test,linear_svm
+sent_001886,"Vừa mua 3 chiếc, hiện chỉ có một chiếc còn dùng được, chất lượng nghe cũng rất kém",negative,negative,True,test,linear_svm
+sent_001890,Nghe như cc mng đừng mua,negative,negative,True,test,linear_svm
+sent_001891,Ship ăn chặn,negative,negative,True,test,linear_svm
+sent_001914,"Nút bấm thì bị liệt, nghe cũng không hay, âm bass kém",negative,negative,True,test,linear_svm
+sent_001928,Shop bảo đừng trả hàng rồi chữi mình là cái đồ KHÔNG CÓ NÃO 🙃,negative,negative,True,test,linear_svm
+sent_001929,Khuyên mọi người không nên mua ở shop này,negative,negative,True,test,linear_svm
+sent_001949,"Tai nghe mới lấy về đã bị hư một bên tai trái, không nghe được âm thanh, giao hàng thì lâu",negative,negative,True,test,linear_svm
+sent_001958,Chất lượng âm thanh rất kém,negative,negative,True,test,linear_svm
+sent_001965,"Chịu thật đấy , 1 bên tai nghe không có cái màu đen",negative,negative,True,test,linear_svm
+sent_001975,Đồ dỏm,negative,negative,True,test,linear_svm
+sent_001980,Mua 3 cái nhưng không xài được cái nào,negative,negative,True,test,linear_svm
+sent_001982,Sao đặt hơn tuần trời mà vẫn chưa có hàng về là sao ?,negative,negative,True,test,linear_svm
+sent_002023,Nghe không rõ âm thanh hay bị đau tai,negative,negative,True,test,linear_svm
+sent_002029,Tai nghe bị lỗi bị rè nghe k đc 😭chán shop,negative,negative,True,test,linear_svm
+sent_002032,Nhận được hàng không cho kiểm hàng nhận hàng xong chân tai nghe lại không khớp điện thoại,negative,negative,True,test,linear_svm
+sent_002041,Sản phẩm kém!,negative,negative,True,test,linear_svm
+sent_002042,Nghe chỉ được một bên các bạn đừng mua,negative,negative,True,test,linear_svm
+sent_002046,Ko nghe đc j hết,negative,negative,True,test,linear_svm
+sent_002047,Phần để cắm vào nghe thì bị lỗi nệm tai 😒,negative,negative,True,test,linear_svm
+sent_002048,Hàng si đa,negative,negative,True,test,linear_svm
+sent_002062,Sợ quá vứt luôn !!!,negative,negative,True,test,linear_svm
+sent_002063,Ít nhất cũng phải nghe được đây đéo cả nghe đc @@,negative,negative,True,test,linear_svm
+sent_002076,"1 cái nghe được 1 bên, cái kia không nghe thấy gì luôn",negative,negative,True,test,linear_svm
+sent_002082,"Tai nghe nghe đc có 1 bên thôi nt shop k thèm trả lời 🙃🙂thái độ shop cực kém k thèm rép tn ng mua dù nt 4,5 ngày rồi thái độ cực kỳ kém 😤, k ý kiến j khi mặt hàng bị lỗi hay sai sót quá chán 😒",negative,negative,True,test,linear_svm
+sent_002088,Tai chỉ nghe được 1 bên 😡,negative,negative,True,test,linear_svm
+sent_002097,"Sản phẩm dùng ok, nhưng dây sạc mua chung không xài được, quay video gửi mail cho shop 1 ngày mà không rep luôn",negative,negative,True,test,linear_svm
+sent_002100,"Sp bị lỗi tai nghe bên trái bị đổi thành bên phải, còn bên phải lại đổi thành bên trái, nếu đeo ngược lại thì thì no sẽ bị bít lỗ nghe rất nhỏ",negative,negative,True,test,linear_svm
+sent_002111,Mua 2 cái thì hỏng 1 cái,negative,negative,True,test,linear_svm
+sent_002115,Tai nghe như (j tự hiểu),negative,negative,True,test,linear_svm
+sent_002119,"Độ bền kém, dùng được mấy hôm đã đứt luôn cả 2 dây ở đoạn ngã 3 nút chỉnh",negative,negative,True,test,linear_svm
+sent_002121,Hư nút bấm và một bên tai nghe không nghe được,negative,negative,True,test,linear_svm
+sent_002132,Tốn tiền quá đi shop ơii,negative,negative,True,test,linear_svm
+sent_002133,"Giá bán lươn lẹo, không rõ ràng",negative,negative,True,test,linear_svm
+sent_002141,mua màu trắng nó về màu đen,negative,negative,True,test,linear_svm
+sent_002143,Đặt màu trắng nhưng shop giao màu đen,negative,negative,True,test,linear_svm
+sent_002147,Mình đặt màu trắng nhưng lại giao màu xanh,negative,negative,True,test,linear_svm
+sent_002153,Ship k đúng sản phẩm đăng bán,negative,negative,True,test,linear_svm
+sent_002157,Giờ nghe dc 1bên thi s shop,negative,negative,True,test,linear_svm
+sent_002165,Bị nhiễm từ,negative,negative,True,test,linear_svm
+sent_002166,Tai nghe 1 bên không nghe được,negative,negative,True,test,linear_svm
+sent_002169,Nghe dc có một bên,negative,negative,True,test,linear_svm
+sent_002185,Tôi xin lỗi nhưng tôi nhận được 1 chiếc tai nghe bị hỏng,negative,negative,True,test,linear_svm
+sent_002195,Ko nghe dc,negative,negative,True,test,linear_svm
+sent_002201,Giao hàng lâu,negative,negative,True,test,linear_svm
+sent_002208,Tai nghe ko thể nói chuyện đc,negative,negative,True,test,linear_svm
+sent_002210,"Đặt mua 4 cái, shop giao có 3 cái",negative,negative,True,test,linear_svm
+sent_002219,Kém,negative,negative,True,test,linear_svm
+sent_002231,Giao nhầm đồ,negative,negative,True,test,linear_svm
+sent_002237,một bên âm to một bên nhỏ,negative,negative,True,test,linear_svm
+sent_002245,tai nghe bị nhiễm điện,negative,negative,True,test,linear_svm
+sent_002261,Tai nghe dùng được 2 ngày thì bị hư thế này ạ,negative,negative,True,test,linear_svm
+sent_002268,"Âm thanh ko chân thực lắm, nó bị ồm ồm í",negative,negative,True,test,linear_svm
+sent_002272,Chất lượng âm thanh khi sử dụng ko hài lòng cho lắm,negative,negative,True,test,linear_svm
+sent_002277,Tiền ít không đánh giá chất lượng,neutral,neutral,True,test,linear_svm
+sent_002285,Hàng tạm ổn nghe k đc ấm lắm cố gắng phát triển nha sẽ ủng hộ shop ọ,neutral,neutral,True,test,linear_svm
+sent_002287,Tạm,neutral,neutral,True,test,linear_svm
+sent_002288,Nhưng thật sự thì ko biết cái kẹp dùng làm sao bên ngoài thì ok,neutral,negative,False,test,linear_svm
+sent_002289,Tiếc ghê 🤧,neutral,negative,False,test,linear_svm
+sent_002292,Màu sắc không chính xác tại thời điểm giao hàng,negative,negative,True,test,linear_svm
+sent_002295,Giao hàng sai mẫu mã :)) Mong ae xem xét,negative,negative,True,test,linear_svm
+sent_002300,Mình đặt 2sp nhưng cửa hàng giao 1sp mà tiền vẫn chi 2sp,negative,negative,True,test,linear_svm
+sent_002301,Mình mới nghe 1 lần mà nt shop ko trả lời,negative,negative,True,test,linear_svm
+sent_002308,"Màu giao hàng không chính xác, vui lòng đặt màu trắng thành màu xanh lam! Không hài lòng",negative,negative,True,test,linear_svm
+sent_002315,Sản phẩm bạn vừa mua bị lỗi âm thanh,negative,negative,True,test,linear_svm
+sent_002316,Màu trắng chuyển sang màu xanh lam! Chủ sở hữu không muốn đại diện,negative,negative,True,test,linear_svm
+sent_002318,"Nghe được hai ngày, một bên không nghe được, càng không",negative,negative,True,test,linear_svm
+sent_002319,Sẽ không tốt nếu bạn thử sử dụng một lần,negative,negative,True,test,linear_svm
+sent_002341,Tai nghe có thể sử dụng trong 1 ngày,negative,negative,True,test,linear_svm
+sent_002356,Tai nghe đéo có mic a e ạ,negative,negative,True,test,linear_svm
+sent_002358,tai bên phải bị giật,negative,negative,True,test,linear_svm
+sent_002362,"Hàng giao nhanh, nghe được nhưng bị lỗi",neutral,negative,False,test,linear_svm
+sent_002364,"Mình mua 2 cái, 1 cái thì nghe bị giật 1 chút điện, 1 cái thì 1 bên k nghe gì hết",negative,negative,True,test,linear_svm
+sent_002370,Hàng giống hình nhưng chất lượng quá kém,negative,negative,True,test,linear_svm
+sent_002389,Sản phẩm kém chất lượng,negative,negative,True,test,linear_svm
+sent_002403,Tiền nào của đấy chán thực sự,negative,neutral,False,test,linear_svm
+sent_002405,Tai nghe 1 bên hở điện ~~,negative,negative,True,test,linear_svm
+sent_002410,"Đúng là tiền nào của đó,đặt 5 cái thì chỉ 2cái nghe tạm đc,còn lại thì như vứt bỏ,tệ",negative,negative,True,test,linear_svm
+sent_002412,Sp bị hở điện,negative,negative,True,test,linear_svm
+sent_002414,tai nghe không mic mọi người nhé tránh nhầm lẫn mà phí thời gian đợi hàng,negative,negative,True,test,linear_svm
+sent_002422,Nghe khá rè,negative,negative,True,test,linear_svm
+sent_002433,chán quá,negative,negative,True,test,linear_svm
+sent_002436,như giá của nó vậy,neutral,neutral,True,test,linear_svm
+sent_002442,"bị lỗi phần miệng bình, tróc phần mạ",negative,negative,True,test,linear_svm
+sent_002456,Đồng hồ kèm theo không dùng được,negative,negative,True,test,linear_svm
+sent_002457,Đồng hồ chạy được 1 ngày xong không chạy nữa,negative,negative,True,test,linear_svm
+sent_002461,Bị gãy ngay kim phút,negative,negative,True,test,linear_svm
+sent_002464,Xịt hoài không ra nước,negative,negative,True,test,linear_svm
+sent_002466,Tiki có thể đổi hoặc giao đủ cho tôi phụ kiện ko? Không có nắp đậy thì tôi đổ nước vào đâu vậy,negative,negative,True,test,linear_svm
+sent_002473,"Đầu phun không hoạt động, các bộ phận tháo ra khó khăn",negative,negative,True,test,linear_svm
+sent_002490,Vòi xịt lỏng lúc xịt dc lúc Ko yêu cầu shop ktra lại,negative,negative,True,test,linear_svm
+sent_002496,Qa te,negative,negative,True,test,linear_svm
+sent_002503,"Chiều hôm 30/12 mình có đặt mua sản phẩm, thời gian giao hàng 2h ok nhưng sản phẩm giao tới tuy còn seal nhưng là đã đóng lại sau khi qua hải quan, bên trong hộp sạc cực kì bẩn, bẩn vào cả tai nghe, cũng vì vậy mà mình lau sơ và không biết bị trầy, cứ tưởng là vết bẩn",negative,negative,True,test,linear_svm
+sent_002505,Mình mua cách đây hai ngày và phát hiện ra lỗi bị hở khớp nối như nhiều người nhưng nghỉ là do lỗi chung,negative,negative,True,test,linear_svm
+sent_002510,Nghe nhạc thật sự dỡ tệ,negative,negative,True,test,linear_svm
+sent_002514,Mình mua sản phẩm từ tháng 8/2019 xài khá tốt tuy nhiên sạc chưa được chục lần thì cục sạc bị lỗi,neutral,negative,False,test,linear_svm
+sent_002523,"Sau khoảng 3 tháng sử dụng thì tai nghe bên trái hay bị lỗi, thường ngắt kết nối, bỏ vô hộp không sạc, bữa trức xài còn 37% bỏ vô hộp giờ tai bên phải 100% nhưng tai trái vẫn 37%",negative,negative,True,test,linear_svm
+sent_002526,hàng đặt hôm 19/5 sang 21 đã nhận apple watch kg vấn đề gì nhưng tai nghe thì hơi bở ngỡ mua 20/05 mà bảo hành lại để tháng 4,negative,negative,True,test,linear_svm
+sent_002532,"Tiki ơi, airpod không kết nối được với máy tính laptop",negative,negative,True,test,linear_svm
+sent_002535,tai nghe bị lỗi k ket nối được mặc dù la hàng chính hãng nhưng quá thất vọg vì mình mua để tặng rất buồn khi tiki k kiểm tra hàng kĩ trước khi giao cho khách,negative,negative,True,test,linear_svm
+sent_002538,"Dịch vụ bảo hành quá chán , tai nghe dùng được 6 tháng lỗi mang đi bảo hành gần tháng gọi điện hỏi vẫn chưa xong , tháng sau mới xong",negative,negative,True,test,linear_svm
+sent_002549,"Mua tai nghe bị lỗi sạc pin không đều, gọi điện hotline nói sẽ liên lạc lại, chờ mấy ngày vẫn không thấy gì",negative,negative,True,test,linear_svm
+sent_002550,Hộp sạc của sản phẩm không có đên led ở bên ngoài như hinh đăng tải gây nhầm lẫn,negative,negative,True,test,linear_svm
+sent_002551,"ko thể check ngày bảo hành , nhờ tiki hỗ trợ 1 lần nhưng chưa nhận được trả lời",negative,negative,True,test,linear_svm
+sent_002553,Mua 8 ngày chưa thấy tiki giao hàng,negative,negative,True,test,linear_svm
+sent_002569,Không nghe nhạc được 2 tai,negative,negative,True,test,linear_svm
+sent_002571,huhu thảm đá của mình mua shipper giao không biết sao mà bị bể hết cả hai tấm :( Mong tiki đổi trả mình sản phẩm mới với ah,negative,negative,True,test,linear_svm
+sent_002573,Mình đọc review cũng thấy dễ vỡ nhưng mà thật không may mình nằm trong số đó,neutral,negative,False,test,linear_svm
+sent_002574,"Nâng giá lên cho cao, rồi ghi giảm giá thật nhiều",neutral,positive,False,test,linear_svm
+sent_002578,"Chưa bao giờ mua hàng trên Tiki mà thất vọng như lần này! Hàng cong vênh, vỡ nứt",negative,neutral,False,test,linear_svm
+sent_002587,"Dẫm chân lên 2 lần là khô nhưng chân lại bị dính bột đá, vẫn phải lau lại bằng thảm để không làm bẩn nền nhà",negative,negative,True,test,linear_svm
+sent_002597,"Thảm đá thấm được ít nước, xài được cho 1 lần tắm trong 2h",negative,negative,True,test,linear_svm
+sent_002636,"Không hài lòng, shop lấy ảnh mô tả ở mạng về demo cho khách",negative,negative,True,test,linear_svm
+sent_002639,"Mặt sau của sp không giống như Tiki đăng bán,mà được may bằng vải rất mỏng (chất liệu y như các túi tự hủy )",negative,negative,True,test,linear_svm
+sent_002640,Mua 3 cai về rách het 2 cai,negative,negative,True,test,linear_svm
+sent_002651,hàng cũ rích như đồ sida,negative,negative,True,test,linear_svm
+sent_002662,Làm ăn bát nháo,negative,negative,True,test,linear_svm
+sent_002663,Không đạt tiêu chuẩn lần đầu tiền mua hàng thất vọng lắm,negative,negative,True,test,linear_svm
+sent_002677,"Mới mua giặt xong đã bung hêt đường chỉ, xài xong giặt lần nữa chắc hêt xài",negative,negative,True,test,linear_svm
+sent_002701,chất lượng hoàn thiện sản phẩm ko được đẹp,negative,negative,True,test,linear_svm
+sent_002704,Tikinow giờ mất 1 ngày mới giao đc,negative,negative,True,test,linear_svm
+sent_002706,Hàng thì tốt mà giao hàng như đùa! Shipper còn ko đến đc đúng địa chỉ để giao hàng,negative,negative,True,test,linear_svm
+sent_002707,"Tai của mình bị lỗi bên trái giờ k nghe đc tai trái, nhờ tiki hỗ trợ",negative,negative,True,test,linear_svm
+sent_002712,vận chuyển nhanh giao hàng thân thiện nhưng thảm bị vỡ có đổi đươc không ạ buồn quá,negative,negative,True,test,linear_svm
+sent_002718,"Rất tiếc là màu sắc khác rất nhiều so với hình ảnh đã đăng, đăng hình là màu tím sen nhạt ( mình rất thích) nhưng giao hàng là màu tím than, đen xì luôn, nhưng chất liệu hàng thì cũng vừa ý, cũng được",negative,negative,True,test,linear_svm
+sent_002721,Cũng được nhưng lỗi đường chỉ ( bung chỉ ) nhiều quá,negative,negative,True,test,linear_svm
+sent_002733,"Lúc mình mở ra thì dính băng dính, vậy là biết hàng có lỗi mà vẫn gửi cho KH",negative,negative,True,test,linear_svm
+sent_002742,cái chỗ nắm để xịt nước k dùng được,negative,negative,True,test,linear_svm
+sent_002749,"Trên các tai nghe còn dính keo, còn có vết hở việt tháo ra rồi",negative,negative,True,test,linear_svm
+sent_002751,"Giá thành rẻ hơn so với khi mua ở store locknlock nhiều, chất lượng sản phẩm thì khỏi phải bàn, bình giữ lạnh được lâu, dung tích lớn, mùa nắng nóng như này đem theo bình nước đi học đi làm thì khỏi lo mất nước",positive,positive,True,test,linear_svm
+sent_002758,"Đúng hàng,clok& clok thì khỏi phải chê,rất tốt,hàng chất lượng",positive,positive,True,test,linear_svm
+sent_002763,đóng gói kỹ,positive,positive,True,test,linear_svm
+sent_002770,"Đẹp, rất ưng ý",positive,positive,True,test,linear_svm
+sent_002771,"Đẹp, hy vọng sơn đừng sước mau",positive,negative,False,test,linear_svm
+sent_002772,"Đẹp, giữ nhiệt lâu",positive,positive,True,test,linear_svm
+sent_002778,Đẹp và chất lượng,positive,positive,True,test,linear_svm
+sent_002789,"Đã xài được nửa năm, sản phẩm ok, giữ lạnh và giữ nóng tốt",positive,positive,True,test,linear_svm
+sent_002794,đã nhận được hàng rất hài lòng đóng gói kĩ giao hàng nhanh,positive,positive,True,test,linear_svm
+sent_002795,đã nhận được đâu???,negative,neutral,False,test,linear_svm
+sent_002818,"chính hãng giữ nhiệt rất tốt, bình lớn nên đựng nước uống cả ngày",positive,positive,True,test,linear_svm
+sent_002820,"Chất lượng tốt, giữ nhiệt lâu",positive,positive,True,test,linear_svm
+sent_002821,"Chất lượng tốt, giữ nhiệt lâu, ủng hộ Tiki dài dài",positive,positive,True,test,linear_svm
+sent_002824,Chất lượng tốt hơn tôi nghĩ,positive,positive,True,test,linear_svm
+sent_002828,Chất lượng sản phẩm tốt đẹp,positive,positive,True,test,linear_svm
+sent_002833,"chất lượng nói chung không bằng so với đợt đầu tiên kình mua ,có hơi mỏng và nhẹ hơn nhưng tóm lại thì củng tạm đc",negative,negative,True,test,linear_svm
+sent_002834,Chất lượng Lock & Lock thì kg phải bàn,positive,positive,True,test,linear_svm
+sent_002839,Cực thích luôn,positive,positive,True,test,linear_svm
+sent_002842,"Cực kỳ hài lòng với sản phẩm này, bình kô quá to, có thể nhét vừa túi lưới hông balo, có quai xách, có lưới lọc trà - đá, sơn nhám nên cảm giác khó trầy và đẹp, thiết kế miệng và nắp vặn cổ điển nên sẽ khá bền, duy chỉ có 1 điểm mình phân vân là khe vặn ren của nắp bình khá hẹp, mà miếng đệm giữ nước silicone lại nằm trong khe đó nên sẽ khá khó vệ sinh nếu dính cặn bẩn",positive,positive,True,test,linear_svm
+sent_002847,Cực kì hài lòng với sản phẩm này,positive,positive,True,test,linear_svm
+sent_002860,Bình thì đẹp những có điều là trong bình mùi rất khó chịu ngâm nước để qua đêm đến sang vẫn có mùi,negative,positive,False,test,linear_svm
+sent_002876,"Bình to, đẹp, lớp sơn dày dặn, rất ok với giá sale luôn",positive,positive,True,test,linear_svm
+sent_002882,"Bình to và rất tốt, để đá 48h vẫn còn đá rất hài lòng",positive,positive,True,test,linear_svm
+sent_002890,"bình to đẹp, màu sắc tươi sáng",positive,positive,True,test,linear_svm
+sent_002898,binh sieu dep,positive,positive,True,test,linear_svm
+sent_002903,"Bình rất to, khả năng giữ nhiệt tốt",positive,positive,True,test,linear_svm
+sent_002906,Bình rất ok,positive,positive,True,test,linear_svm
+sent_002925,"Bình như mô tả, chắc chắn, có lớp cao su ở đáy, đặt xuống khá êm",positive,positive,True,test,linear_svm
+sent_002939,Bình nước đẹp y như hình,positive,positive,True,test,linear_svm
+sent_002940,binh nuoc giu nhiet xài quá tot,positive,positive,True,test,linear_svm
+sent_002947,"Bình mẫu mã đẹp, hơn hẳn trong bình,dung tích lớn",positive,positive,True,test,linear_svm
+sent_002949,Bình màu đẹp kiểu dáng dễ thương,positive,positive,True,test,linear_svm
+sent_002950,"Bình lớn, giữ nhiệt cũng tạm",positive,positive,True,test,linear_svm
+sent_002956,"bình khá lớn, đựng nước uống thoải mái lun, sơn nhám nên khá bám bẩn, ae nên lau chùi thường xuyên cho đẹp!",neutral,neutral,True,test,linear_svm
+sent_002974,"bình giữ nhiệt tốt, giá cả ưu đãi, giao hàng nhanh",positive,positive,True,test,linear_svm
+sent_002976,"Bình giữ nhiệt tốt, chất liệu dày dặn",positive,positive,True,test,linear_svm
+sent_002980,Bình giữ nhiệt sử dụng rất tốt,positive,positive,True,test,linear_svm
+sent_002988,bình giữ nhiệt rất tốt dù là nóng hay lạnh,positive,positive,True,test,linear_svm
+sent_003000,Bình giữ nhiệt Lock&Lock Riga Tumbler chất lượng tốt,positive,positive,True,test,linear_svm
+sent_003003,"Bình giữ nhiệt ko tốt, nhiệt bị truyền ra bên ngoài",positive,positive,True,test,linear_svm
+sent_003010,Bình giữ nóng tốt,positive,positive,True,test,linear_svm
+sent_003015,"Bình giữ đá ko tan cả ngày nha , giữ nóng cực kỳ tốt",positive,positive,True,test,linear_svm
+sent_003025,"Bình đẹp, thiết kế giản đơn, giữ nhiệt tốt",positive,positive,True,test,linear_svm
+sent_003049,"Bình đẹp, giữ nhiệt tốt, ban đầu mua 1 cái, sau anh em cơ quan thích quá, đăng ký mua hơn 20 cái",positive,positive,True,test,linear_svm
+sent_003052,"tủ giống hình, đẹp, nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,negative,True,test,linear_svm
+sent_003061,"tủ sách bình thường, ổn khi dùng để trang trí",neutral,neutral,True,test,linear_svm
+sent_003070,"sản phẩm giống hình, đẹp, nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,negative,True,test,linear_svm
+sent_003073,sản phẩm sách tốt nhưng thái độ người giao hàng ko tốt,neutral,neutral,True,test,linear_svm
+sent_003074,"sản phẩm dễ dàng lắp ráp, chất liệu ván ép nên cũng ko mong gì lâu dài được",neutral,neutral,True,test,linear_svm
+sent_003079,"sản phẩm sách bình thường, ổn khi dùng để trang trí",neutral,neutral,True,test,linear_svm
+sent_003088,"sp giống hình, đẹp, nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,negative,True,test,linear_svm
+sent_003105,"hàng giống hình, đẹp, nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,negative,True,test,linear_svm
+sent_003114,"hàng sách bình thường, ổn khi dùng để trang trí",neutral,neutral,True,test,linear_svm
+sent_003118,"chỉ giao hàng chậm quá thôi, hàng đẹp, và chắc chắn,",neutral,neutral,True,test,linear_svm
+sent_003132,sản phẩm nhìn đẹp nhưng cho mình hỏi có phải hàng chính hãng k ah ? mà lớp cao su dán dưới đế khi mình nhận hàng đã bong lớp dính gần hết,neutral,neutral,True,test,linear_svm
+sent_003135,"sản phẩm giữ nhiệt tốt,nhưng khi đựng nước uống mở nắp ra có mùi nhựa",neutral,neutral,True,test,linear_svm
+sent_003142,sp nhìn đẹp nhưng cho mình hỏi có phải hàng chính hãng k ah ? mà lớp cao su dán dưới đế khi mình nhận hàng đã bong lớp dính gần hết,neutral,neutral,True,test,linear_svm
+sent_003146,"sp giữ nhiệt tốt, tuy nhiên màu sơn dễ bị tróc khi ma sát",neutral,neutral,True,test,linear_svm
+sent_003153,"bình hiện giờ dùng tạm ổn, về lâu dài thì chưa biết sao",neutral,neutral,True,test,linear_svm
+sent_003157,"bình chất lượng giữ nhiệt rất tốt mình đánh giá 5 sao cho bình, nhưng dịch vụ giao bình bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin giao bình ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",neutral,neutral,True,test,linear_svm
+sent_003159,bình như mô tả,neutral,neutral,True,test,linear_svm
+sent_003166,"sản phẩm khá tốt , nhưng giao hàng hơi lâu",neutral,neutral,True,test,linear_svm
+sent_003181,"Kệ sách bình thường, oke khi dùng để trang trí",neutral,neutral,True,test,linear_svm
+sent_003199,"giao chậm hơn dự kiến, sản phẩm rất hợp giá tiền, ko khó lắp ráp lắm",neutral,neutral,True,test,linear_svm
+sent_003208,giao nhanh nhưng lần này nhận tai nghe không chất lượng như 2 lần trước mua,neutral,neutral,True,test,linear_svm
+sent_003209,giao nhanh nhưng năng double siêu kém,neutral,neutral,True,test,linear_svm
+sent_003213,"Chúng tôi ở một mình, ghép toàn bộ mọi thứ lại với nhau, thật vui khi lần đầu tiên được ngồi cùng nhau",neutral,neutral,True,test,linear_svm
+sent_003216,"Tủ dễ dàng tháo lắp, sử dụng chất liệu ván ép nên không sử dụng được lâu.",neutral,neutral,True,test,linear_svm
+sent_003220,"Tủ còn tốt, có trầy xước một số mặt nhưng vẫn chấp nhận được",neutral,neutral,True,test,linear_svm
+sent_003229,Chủ nhật phải mất 8 tiếng để tìm ra cách ráp 3 bộ thành một và làm sáng sản phẩm,neutral,neutral,True,test,linear_svm
+sent_003233,Sản phẩm sách tốt nhưng thái độ diễn đạt chưa tốt,neutral,neutral,True,test,linear_svm
+sent_003240,Sản phẩm tốt nhưng thời gian giao hàng hơi lâu,neutral,neutral,True,test,linear_svm
+sent_003252,"Theo hình minh họa, sp trông nhỏ hơn tưởng tượng, giá cả được cho là phù hợp đã giảm xuống.",neutral,neutral,True,test,linear_svm
+sent_003254,"sp còn đẹp, hơi xước nhưng bên em chấp nhận được",neutral,neutral,True,test,linear_svm
+sent_003262,"8 giờ ngày chủ nhật, ba bộ đã được ráp thành một và cháy hàng.",neutral,neutral,True,test,linear_svm
+sent_003296,Hàng đẹp nhưng 1 tai bị hỏng,neutral,neutral,True,test,linear_svm
+sent_003302,Chất lượng oke nhưng đeo đc 2 ngày thì dây bị đứt =(((,neutral,negative,False,test,linear_svm
+sent_003306,"Sản phẩm bên to bên nhỏ, ko hài lòng lắm về chất lượng :((((",negative,negative,True,test,linear_svm
+sent_003328,Cảm giác cầm dây không được thoải mái lắm,negative,negative,True,test,linear_svm
+sent_003341,"ko có phân biệt tai nghe trái phải, mỗi lần đụng vào chỗ jack cắm là bị rè tiếng",negative,negative,True,test,linear_svm
+sent_003348,Sản phẩm không giống hình đặt màu trắng giao màu đen nhưng sử dụng cũng tạm được,negative,negative,True,test,linear_svm
+sent_003351,Mua được giá 1k nhưng về bị hỏng 1 bẻn tai thì cũng như không :<,negative,negative,True,test,linear_svm
+sent_003360,mà ảnh lúc bán thì khác hàng nhận thì khác mn 🙂🙂🙂🙂🙂,negative,negative,True,test,linear_svm
+sent_003366,"1 cái bình thường, 1 cái hỏng 1 bên",negative,negative,True,test,linear_svm
+sent_003368,"Màu trắng tai bên trái bị nhỏ hơn so với tai phải, mic ổn",negative,negative,True,test,linear_svm
+sent_003371,Tai nghe bị nhỏ,negative,negative,True,test,linear_svm
+sent_003372,Mua về đủ để đáp ứng nhu cầu nghe,neutral,positive,False,test,linear_svm
+sent_003376,Dây bọc bên ngoài cũng ko đc bền cho lắm,negative,negative,True,test,linear_svm
+sent_003379,Dây cũng khá mỏng,negative,negative,True,test,linear_svm
+sent_003384,Nghe tương đối ổn nhưng dây quá mỏng nên dễ bị hư và giao hàng quá chậm nên sẽ trừ điểm,negative,negative,True,test,linear_svm
+sent_003391,Một sóng hình sin đang truyền trên một sợi dây theo chiều dương của trục Ox,neutral,neutral,True,test,linear_svm
+sent_003395,Tạm ổn với giá tiền không thể rẻ hơn,positive,neutral,False,test,linear_svm
+sent_003398,Theo giá tiền thôi ae ạ,neutral,neutral,True,test,linear_svm
+sent_003399,"Giao hàng khá lâu, tai nghe thì tiếng cứ bị gì ấy, nói hàng dở thật nghe ko sướng chút nào",negative,negative,True,test,linear_svm
+sent_003405,"Tại nghe đc nhưng mà shop nhắn mãi mà ko thấy hồi âm ,giao hàng lâu",negative,negative,True,test,linear_svm
+sent_003411,"Nghe bên đc bên k , tai nghe nói chung là tạm bth",negative,negative,True,test,linear_svm
+sent_003419,Chất lượng tương ứng với giá 1K,neutral,positive,False,test,linear_svm
+sent_003421,Chất lg tạm được nhưng mà rẻ nên ok,positive,neutral,False,test,linear_svm
+sent_003430,Đúng vs giá tiền,neutral,neutral,True,test,linear_svm
+sent_003441,Tai nghe tệ âm thanh bị rè dù sao cũng 10k nên thôi,negative,negative,True,test,linear_svm
+sent_003442,Tạm dc,neutral,neutral,True,test,linear_svm
+sent_003451,Bị giật,negative,negative,True,test,linear_svm
+sent_003469,Shipper nhiệt tình,positive,positive,True,test,linear_svm
+sent_003490,"Chưa kiểm tra thử nên chưa biết sản phẩm thế nào nhưng sản phẩm không phải hàng chính hãng, không có bao bì in nhà sản xuất",neutral,neutral,True,test,linear_svm
+sent_003491,Nghe chói tai đau tai,negative,negative,True,test,linear_svm
+sent_003492,Nhưng vừa mua đã bị rè rồi,negative,negative,True,test,linear_svm
+sent_003505,khuyên ko nên mua,negative,negative,True,test,linear_svm
+sent_003524,"Âm thanh của tai nghe hơi dài và nghe không được tốt lắm, nhưng với mức giá này, nó không tệ",negative,negative,True,test,linear_svm
+sent_003527,Chỉ dựa vào giá tiền thôi anh em ơi,neutral,negative,False,test,linear_svm
+sent_003531,Nghe không hay lắm,negative,negative,True,test,linear_svm
+sent_003544,Bạn có phải trả tiền cho hàng kém chất lượng,negative,negative,True,test,linear_svm
+sent_003552,"giao hàng sau tầm 1 tuần đặt như ghi trong mô tả, gói hàng tốt, cơ mà trừ vì chất lượng maybe phù hợp vs giá tiền thôi ==, nghe rất chán , xoay chân tai nghe thì nhạc cx cứ dừng vs tiếp, khó chịu",negative,negative,True,test,linear_svm
+sent_003555,Ảnh màu ga là sọc trắng nhưng lại giao cả ga và gối đen ghi,negative,negative,True,test,linear_svm
+sent_003557,Ăn nói lật lọng,negative,negative,True,test,linear_svm
+sent_003566,Đặt mẩu 7 giao mẩu 9,negative,negative,True,test,linear_svm
+sent_003569,Đổi trả thì ko cho,negative,negative,True,test,linear_svm
+sent_003576,hazzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,neutral,negative,False,test,linear_svm
+sent_003582,"Làm mình bao ko vừa , bực mình quá đi",negative,negative,True,test,linear_svm
+sent_003587,Mình đặt một màu giờ lại ship về một màu,negative,negative,True,test,linear_svm
+sent_003588,Mình sẽ trả hàng,neutral,neutral,True,test,linear_svm
+sent_003592,Mọi ng nên lưu ý khj mua hàng ở shop này,neutral,negative,False,test,linear_svm
+sent_003602,Shop k thèm giao cho bên vận chuyển,negative,negative,True,test,linear_svm
+sent_003605,Shop làm không uy tín thật đáng buồn,negative,negative,True,test,linear_svm
+sent_003624,Chọn mẫu này đưa mẫu khác,negative,negative,True,test,linear_svm
+sent_003627,Đặt 16 miếng mà giao 15 miếng,negative,negative,True,test,linear_svm
+sent_003644,Giao nhầm mẫu,negative,negative,True,test,linear_svm
+sent_003665,Lêm j mà bẩn v shop có vết rơ,negative,negative,True,test,linear_svm
+sent_003666,liên hệ shop shop k hỗ trợ,negative,negative,True,test,linear_svm
+sent_003671,"Mình đặt 1 kiểu, ship cho mình 1 kiểu rồi giờ ib shop để giải quyết thì toàn tin nhắn auto thế này",negative,negative,True,test,linear_svm
+sent_003682,Quá chán quá thất vọng đặt mua 2 bộ 1m8*2m gửi 2 bộ 1m6 nt ko trả lời thiếu tôn trọng khách hàng,negative,negative,True,test,linear_svm
+sent_003686,Sai mẫu,negative,negative,True,test,linear_svm
+sent_003690,Sản phẩm quá chán,negative,negative,True,test,linear_svm
+sent_003696,Shop k kiểm tra hàng trước khi giao cho khach,negative,negative,True,test,linear_svm
+sent_003701,"Sp kém chất lượng, may ẩu",negative,negative,True,test,linear_svm
+sent_003702,"Tiền nào của lấy, chất lượng như cái giá của sản phẩm!",neutral,neutral,True,test,linear_svm
+sent_003710,"Vải xấu, bo chun ngắn dễ tuột, giao hàng lâu, shop giao sai mã liên hệ lại không trả lời 🙄",negative,negative,True,test,linear_svm
+sent_003722,ngây ngất,negative,negative,True,test,linear_svm
+sent_003733,Giá khá rẻ nên các bạn cân nhắc,positive,positive,True,test,linear_svm
+sent_003737,Hộp thư đến hỏi cửa hàng chưa phản hồi,negative,negative,True,test,linear_svm
+sent_003739,Khách đã bị hủy,negative,negative,True,test,linear_svm
+sent_003741,"Làm cho tôi khó chịu, rất khó chịu",negative,negative,True,test,linear_svm
+sent_003742,Nhiêu lôi lâm,negative,negative,True,test,linear_svm
+sent_003750,Mng nên cân nhắc đặt hàng,neutral,neutral,True,test,linear_svm
+sent_003758,Phản ánh và gửi clip chứng minh nhân viên đã thu dọn hành lý,negative,negative,True,test,linear_svm
+sent_003762,Cửa hàng tiến hành hoạt động kinh doanh như c *,negative,negative,True,test,linear_svm
+sent_003765,Tiền nào của đay không phải là hàng giảm giá,neutral,neutral,True,test,linear_svm
+sent_003772,Gian lận buôn bán,negative,negative,True,test,linear_svm
+sent_003773,"Nói lảm nhảm nt thì k trả lời nệm 1m8,2m mà mặc thế này thì bó tay",negative,negative,True,test,linear_svm
+sent_003774,Nó bình thường,neutral,neutral,True,test,linear_svm
+sent_003775,Chất lượng sản phẩm không đạt như mong đợi,negative,negative,True,test,linear_svm
+sent_003778,Vải kém chất lượng gửi nhầm mẫu đang thất vọng ở cửa hàng,negative,negative,True,test,linear_svm
+sent_003786,"Đây sẽ là lần đầu tiên và cũng là lần cuối cùng đến cửa hàng này, thật thất vọng",negative,negative,True,test,linear_svm
+sent_003787,Bao bì thô chưa mở đã bị rách,negative,negative,True,test,linear_svm
+sent_003794,Giao hàng không có trên mô hình đã chọn,negative,negative,True,test,linear_svm
+sent_003814,Hoa văn và màu sắc khác với nội dung quảng cáo,negative,negative,True,test,linear_svm
+sent_003821,Không thích hình ảnh,negative,negative,True,test,linear_svm
+sent_003833,"Nếu bạn mua một cái gì đó, xin vui lòng không sử dụng vnpost",negative,negative,True,test,linear_svm
+sent_003842,Lỗi chế độ,negative,negative,True,test,linear_svm
+sent_003846,"Sản phẩm quá tệ, vừa giao vừa đặt giường đã rách như thế này",negative,negative,True,test,linear_svm
+sent_003859,hết hàng! ! !,negative,negative,True,test,linear_svm
+sent_003868,Xem lại cách kinh doanh,negative,negative,True,test,linear_svm
+sent_003872,"Mình mua ga giường và gối cùng mẫu 27, đến lúc nhận được hàng thì màu ga và gối ko hề liên quan đến nhau",negative,negative,True,test,linear_svm
+sent_003874,"Sản phẩm sai giao mẫu, mua cái mẫu rõ đẹp rõ sang xong giao hàng về là 1 cái mẫu cho trẻ con, chú shipper và khá cọc cằn, nói chuyện qua điện thoại hay ship đến cũng nói chuyện rất khó chịu",negative,negative,True,test,linear_svm
+sent_003879,mua mẫu 7 để vận chuyển mẫu 9,negative,negative,True,test,linear_svm
+sent_003897,Giao hàng không đúng với mẫu mua?,negative,negative,True,test,linear_svm
+sent_003900,Shop làm việc tốt,positive,positive,True,test,linear_svm
+sent_003905,"Đã nhận được hàng rồi, giao hàng nhanh chóng, k dc ưng cho lăm nak",neutral,neutral,True,test,linear_svm
+sent_003918,Ko biết hết mẫu 10 hay ntn mà shop giao mẫu khác cho m mà ko hỏi trước,neutral,negative,False,test,linear_svm
+sent_003922,Giao đầy đủ hàng và lần này giao khá nhanh,positive,positive,True,test,linear_svm
+sent_003923,Mỏng,neutral,negative,False,test,linear_svm
+sent_003925,"Đặt mẫu 1,8m x2m mà gắn vào đêm 1,8m *2m ko vừa ga thì rất hôi hàng đúng màu nhưng chỉ làm được dẻ lau rồi",negative,negative,True,test,linear_svm
+sent_003934,Đắt hơn 20k mặc dù chất y hệt thế so với bộ mình mua ở 1 shop khác :)) và các mẫu cũng ít lựa chọn hơn nữa nếu k muốn nói toàn mẫu xấu,negative,negative,True,test,linear_svm
+sent_003964,Không đúng mẫu,negative,negative,True,test,linear_svm
+sent_003990,"Chất lượng sản phẩm giống cam kết,giao hàng đúng thời gian",positive,positive,True,test,linear_svm
+sent_004001,"Không thích lắm, vì chọn mẫu khác, chả hiểu sao lại hiển thị mẫu này, k Sao, dùng tạm",neutral,negative,False,test,linear_svm
+sent_004006,"Mẫu mã đẹp, vải hơi mỏng",neutral,negative,False,test,linear_svm
+sent_004007,không dùng được nên cho shop 3*,negative,negative,True,test,linear_svm
+sent_004020,Nói chung hơi thất vọng 😑😑,negative,negative,True,test,linear_svm
+sent_004022,Ko mua lại 😀,negative,negative,True,test,linear_svm
+sent_004027,Mình giặc 2 3 lần ngâm comfor nhưng vẫn còn hắc,negative,negative,True,test,linear_svm
+sent_004032,Nt 2 ngày sau mới tl,negative,negative,True,test,linear_svm
+sent_004034,gối còn quên may cả viền,negative,negative,True,test,linear_svm
+sent_004041,Chất oki dùng tạm thì đc,neutral,neutral,True,test,linear_svm
+sent_004043,Xem kỉ hàng r hẳn gửi cho khách,negative,negative,True,test,linear_svm
+sent_004049,Áo gối bị bẩn,negative,negative,True,test,linear_svm
+sent_004052,3 * Nếu bạn không thêm đại diện! zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,negative,negative,True,test,linear_svm
+sent_004063,"Tôi không biết tất cả các mẫu 10 hoặc ntn, nhưng cửa hàng cung cấp cho tôi mẫu khác mà không cần hỏi",neutral,neutral,True,test,linear_svm
+sent_004065,"Tiền nào của nấy, chất không mềm lắm, hơi có mùi",negative,negative,True,test,linear_svm
+sent_004078,Tiền nào của nấy nhé mọi người!,neutral,neutral,True,test,linear_svm
+sent_004083,"Mình đặt lần 2, lần 1 rất hợp",positive,positive,True,test,linear_svm
+sent_004092,"Chất vải không mịn, nóng",negative,negative,True,test,linear_svm
+sent_004097,Số tiền bạn đã trả,neutral,negative,False,test,linear_svm
+sent_004100,"Chất lượng sản phẩm tạm ổn giá cả nhưng thời gian giao hàng lâu, chỉ sau một lần giặt sẽ bị nhão vải",negative,negative,True,test,linear_svm
+sent_004109,"Chất vải hơi dày, không mềm",negative,negative,True,test,linear_svm
+sent_004121,Được đóng gói đúng quy cách và có thể giao hàng nhanh chóng nhưng chất liệu này không thể thành cotton nên rất nóng,neutral,neutral,True,test,linear_svm
+sent_004129,"Tốc độ giao hàng chậm, màu k như hình",negative,negative,True,test,linear_svm
+sent_004131,Chăn màu hơi đậm so với hình phù hợp với giá cả nhưng thời gian giao hàng lâu quá,negative,negative,True,test,linear_svm
+sent_004135,Chất vải không mát nha mọi người,negative,negative,True,test,linear_svm
+sent_004138,Hang động này cũng được DC,neutral,positive,False,test,linear_svm
+sent_004142,Nhận giao hàng,neutral,neutral,True,test,linear_svm
+sent_004151,Không có gì để nói về ý tưởng của cửa hàng,negative,negative,True,test,linear_svm
+sent_004160,"Chất vải không đẹp lắm, ưu điểm là rẻ!",neutral,neutral,True,test,linear_svm
+sent_004161,Nói chung là hơi thất vọng😑😑,negative,negative,True,test,linear_svm
+sent_004167,Giao hàng nửa tháng mới nhận được,negative,negative,True,test,linear_svm
+sent_004180,Bên ngoài cửa hàng bán lẻ có đặt nhầm phải gửi đi gửi lại các bạn vui lòng ghé cửa hàng để rút kinh nghiệm cho những khách hàng sau,neutral,neutral,True,test,linear_svm
+sent_004181,Cần sửa lỗi,neutral,negative,False,test,linear_svm
+sent_004200,sản phẩm ko giống như lần trc đặt,neutral,neutral,True,test,linear_svm
+sent_004204,Hủy sản phẩm rồi mà vẫn giao,negative,negative,True,test,linear_svm
+sent_004208,Đóng gói kỹ giao sản phẩm nhanh chóng nhưng chất liệu không làm cotton nên rất nóng,neutral,neutral,True,test,linear_svm
+sent_004210,"sản phẩm không giống mẫu mình muốn, nhưng mình vẫn nhận, và bảo shop đổi cho mình mà shop không trả lời mình lun vl !",negative,negative,True,test,linear_svm
+sent_004212,"Chăn màu hơi đậm hơn hình, phù hợp giá tiền nhưng giao sản phẩm quá lâu, dự kiến ngày 11 mà tận 13 mới nhận",negative,negative,True,test,linear_svm
+sent_004214,Giao sản phẩm nhanh sản phẩm ngon shop phục vụ tốt,positive,positive,True,test,linear_svm
+sent_004226,Chất lượng phù hợp với chi phí mua sản phẩm,neutral,neutral,True,test,linear_svm
+sent_004228,"Giao sản phẩm nhanh chóng, đúng mẫu, đúng loại, hình ảnh đẹp",positive,positive,True,test,linear_svm
+sent_004229,"Tất cả sản phẩm đã được giao, thời gian này tốc độ giao sản phẩm là khá nhanh",positive,positive,True,test,linear_svm
+sent_004232,Giá mắc hơn 20k mặc dù chất lượng không tệ so với chất lượng mình mua ở cửa sản phẩm khác,negative,negative,True,test,linear_svm
+sent_004236,"Chất lượng sản phẩm tạm ổn giá cả nhưng thời gian giao sản phẩm lâu, chỉ sau một lần giặt sẽ bị nhão vải",negative,negative,True,test,linear_svm
+sent_004238,Sản phẩm tạm được và cửa sản phẩm giao nhầm sản phẩm so với đơn sản phẩm,negative,negative,True,test,linear_svm
+sent_004241,Hủy sản phẩm vẫn giao,negative,negative,True,test,linear_svm
+sent_004256,"Giao sản phẩm nhanh chóng, sản phẩm ngon và dịch vụ tốt",positive,positive,True,test,linear_svm
+sent_004265,Chất lượng phù hợp với giá tiền mua sp,neutral,neutral,True,test,linear_svm
+sent_004270,Giao sp nhanh,positive,positive,True,test,linear_svm
+sent_004271,Gét nhất là giáo sp k đúng chủng loại màu,negative,negative,True,test,linear_svm
+sent_004273,Chưa hài lòng lắm vì giao sp k đúng mẫu,negative,negative,True,test,linear_svm
+sent_004275,sp ok nhưng shop không trả lời tin nhắn của khách sp,neutral,neutral,True,test,linear_svm
+sent_004280,Hủy sp rồi mà vẫn giao,negative,negative,True,test,linear_svm
+sent_004284,Đóng gói kỹ giao sp nhanh chóng nhưng chất liệu không làm cotton nên rất nóng,neutral,neutral,True,test,linear_svm
+sent_004301,"Giao sp nhanh, chất lượng bình thường, đường khâu thô, mua 5 đôi quần tây shop mình sẽ nhuộm 1 chiếc quần tây, các bạn lưu ý kiểm tra sp trước khi chuyển sp cho khách lần sau mua sp nhé",negative,negative,True,test,linear_svm
+sent_004310,"Đóng gói tốt, nhưng giao sp ít",neutral,neutral,True,test,linear_svm
+sent_004313,sp ok nhưng cửa sp không trả lời tin nhắn của khách,neutral,neutral,True,test,linear_svm
+sent_004324,Cửa sp không cung cấp đúng mẫu mã và kích thước,negative,negative,True,test,linear_svm
+sent_004329,Nhận giao sp,neutral,neutral,True,test,linear_svm
+sent_004330,Không thể sử dụng trong cửa sp 3 *,negative,negative,True,test,linear_svm
+sent_004335,Bên ngoài cửa sp bán lẻ có đặt nhầm phải gửi đi gửi lại các bạn vui lòng ghé cửa sp để rút kinh nghiệm cho những khách sp sau,neutral,neutral,True,test,linear_svm
+sent_004345,tôi đặt 1 màu lại giao cho tôi màu khác,negative,negative,True,test,linear_svm
+sent_004347,Xứng đáng với giá tiền tôi mua sale ship luôn là 75k ạ!! Cũng ok lắm,positive,positive,True,test,linear_svm
+sent_004349,Nhưng điều không như tôi muốn đó là nhầm sản phẩm,neutral,neutral,True,test,linear_svm
+sent_004359,tôi không thích vì đã chọn mẫu khác nên không hiểu sao lại hiển thị,neutral,neutral,True,test,linear_svm
+sent_004363,tủ sách tốt nhưng thái độ người thời gian giao hàng ko tốt,neutral,neutral,True,test,linear_svm
+sent_004369,"chỉ thời gian giao hàng chậm quá thôi, sản phẩm đẹp, và chắc chắn,",neutral,neutral,True,test,linear_svm
+sent_004371,sp sách tốt nhưng thái độ người thời gian giao hàng ko tốt,neutral,neutral,True,test,linear_svm
+sent_004372,"sp tốt, nhưng thời gian giao hàng hơi lâu",neutral,neutral,True,test,linear_svm
+sent_004376,"hàng tốt, nhưng thời gian giao hàng hơi lâu",neutral,neutral,True,test,linear_svm
+sent_004378,hàng đẹp 4 sao vì thời gian giao hàng chậm,neutral,neutral,True,test,linear_svm
+sent_004404,"Thời gian thời gian giao hàng chậm thê thảm,dây nhựa xoắn bọc,chất lượng bình thường,độ bền phải dùng mới biết",negative,negative,True,test,linear_svm
+sent_004406,"Thời gian thời gian giao hàng lâu, đầu tai nghe 1 bên miếng giảm ồn màu bạc bị long",negative,negative,True,test,linear_svm
+sent_004412,thời gian giao hàng quá lâu hàng bị trầy sướt nghe thì ổn nhưng cấm vào nghe nó rè rè sao đâu ấy chắc tui nghĩ ko đúng dòng máy của nó tui sài Oppo f11,negative,negative,True,test,linear_svm
+sent_004417,thời gian giao hàng đúng loại,neutral,neutral,True,test,linear_svm
+sent_004424,"Nghe có vẻ hay hơn nhưng dây nguồn quá mỏng, dễ hư hỏng và thời gian giao hàng quá chậm nên sẽ bị trừ điểm",negative,negative,True,test,linear_svm
+sent_004425,"Thời gian thời gian giao hàng lâu quá, hàng có trầy xước, các bạn có thể nghe qua nhưng không phải, chắc mẫu máy của nó bị lỗi, mình đang dùng Oppo f11",negative,negative,True,test,linear_svm
+sent_004429,thời gian giao hàng thì chậm,negative,negative,True,test,linear_svm
+sent_004431,thời gian giao hàng không đúng đơn đặt m8 _2m nhưng giao m6_m8 đã ntin mà shop không trả lời,negative,negative,True,test,linear_svm
+sent_004434,thời gian giao hàng quá chậm,negative,negative,True,test,linear_svm
+sent_004451,thời gian giao hàng không đúng,negative,negative,True,test,linear_svm
+sent_004454,"thời gian giao hàng k đúng màu, mua lõi gối trong vỏ gối",negative,negative,True,test,linear_svm
+sent_004456,"Tôi chưa nhận được hàng, nhưng vấn đề là thời gian giao hàng có thành công không? ? ?",negative,negative,True,test,linear_svm
+sent_004457,"Mình đã hủy đơn hàng nhưng cửa hàng vẫn thời gian giao hàng, màu đẹp hơn nắng mùa thu",negative,negative,True,test,linear_svm
+sent_004467,"thời gian giao hàng nhanh, chất lượng bình thường, đường may sơ sài, mua 5 cái quần thì shop gửi 1 cái bị ố vàng, lần sau shop nên chú ý kiểm tra trước khi thời gian giao hàng cho khách",negative,negative,True,test,linear_svm
+sent_004468,thời gian giao hàng quá muộn,negative,negative,True,test,linear_svm
+sent_004472,thời gian giao hàng k đúng mẫu,negative,negative,True,test,linear_svm
+sent_004476,"Chăn màu hơi đậm hơn hình, phù hợp giá tiền nhưng thời gian giao hàng quá lâu, dự kiến ngày 11 mà tận 13 mới nhận",negative,negative,True,test,linear_svm
+sent_004485,"Đóng gói tốt, nhưng thời gian giao hàng ít",neutral,neutral,True,test,linear_svm
+sent_004486,"Đặt mẫu số 4 trong hình, phần trên màu xám, nhưng thời gian giao hàng màu xanh, phần chỉ cắt không gọn gàng, nhìn thô, biết bao nhiêu tiền, nhưng cửa hàng nên cẩn thận hơn",negative,negative,True,test,linear_svm
+sent_004487,"Chất lượng sản phẩm tạm ổn giá cả nhưng thời gian thời gian giao hàng lâu, chỉ sau một lần giặt sẽ bị nhão vải",negative,negative,True,test,linear_svm
+sent_004491,"Tốc độ thời gian giao hàng chậm, màu k như hình",negative,negative,True,test,linear_svm
+sent_004495,Nhận thời gian giao hàng,neutral,negative,False,test,linear_svm
+sent_004505,sản phẩm đẹp 4 sao vì tốc độ giao hàng chậm,neutral,neutral,True,test,linear_svm
+sent_004516,"tủ khá tốt , nhưng tốc độ giao hàng hơi lâu",neutral,neutral,True,test,linear_svm
+sent_004520,"sp khá tốt , nhưng tốc độ giao hàng hơi lâu",neutral,neutral,True,test,linear_svm
+sent_004524,"Sản phẩm chất lượng giữ nhiệt rất tốt mình đánh giá 5 sao cho sản phẩm, nhưng dịch vụ tốc độ giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin tốc độ giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",neutral,neutral,True,test,linear_svm
+sent_004525,Tủ sách tốt nhưng người tốc độ giao hàng không tốt,neutral,neutral,True,test,linear_svm
+sent_004539,"Thời gian tốc độ giao hàng chậm thê thảm,dây nhựa xoắn bọc,chất lượng bình thường,độ bền phải dùng mới biết",negative,negative,True,test,linear_svm
+sent_004546,Nghe tương đối ổn nhưng dây quá mỏng nên dễ bị hư và tốc độ giao hàng quá chậm nên sẽ trừ điểm,negative,negative,True,test,linear_svm
+sent_004551,tốc độ giao hàng lâu,negative,negative,True,test,linear_svm
+sent_004553,tốc độ giao hàng đúng loại,neutral,neutral,True,test,linear_svm
+sent_004565,tốc độ giao hàng thì chậm,negative,negative,True,test,linear_svm
+sent_004566,tốc độ giao hàng k đúng mẫu shop k có trach nhiệm đổi,negative,negative,True,test,linear_svm
+sent_004573,kí nhận hàng 0đ của khách k giao khiếu nại gần 1 tháng mới đến tốc độ giao hàng,negative,negative,True,test,linear_svm
+sent_004585,Lỗi tốc độ giao hàng,negative,negative,True,test,linear_svm
+sent_004593,"Mình đã hủy đơn hàng nhưng cửa hàng vẫn tốc độ giao hàng, màu đẹp hơn nắng mùa thu",negative,negative,True,test,linear_svm
+sent_004596,"Vải kém, co giãn kém, dễ tuột, thời gian tốc độ giao hàng lâu, sai thông tin liên hệ cửa hàng, không ai trả lời",negative,negative,True,test,linear_svm
+sent_004607,tốc độ giao hàng nhanh sản phẩm ngon shop phục vụ rất tốt khuyến mãi nhiều,positive,positive,True,test,linear_svm
+sent_004613,tốc độ giao hàng nhanh sản phẩm ngon shop phục vụ tốt,positive,positive,True,test,linear_svm
+sent_004614,tốc độ giao hàng lâu có nửa tháng mới nhận được,negative,negative,True,test,linear_svm
+sent_004627,Chăn màu hơi đậm so với hình phù hợp với giá cả nhưng thời gian tốc độ giao hàng lâu quá,negative,negative,True,test,linear_svm
+sent_004628,"Chất lượng sản phẩm đúng như lời hứa, tốc độ giao hàng đúng hẹn",positive,positive,True,test,linear_svm
+sent_004629,Lỗi tốc độ giao hàng sản phẩm,negative,negative,True,test,linear_svm
+sent_004644,"bình chất lượng giữ nhiệt rất tốt tôi đánh giá 5 sao cho bình, nhưng dịch vụ giao bình bên tiki thật sự tôi không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin giao bình ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",neutral,neutral,True,test,linear_svm
+sent_004650,tôi thấy sản phẩm tạm oke,neutral,neutral,True,test,linear_svm
+sent_004656,"Chúng tôi được ghép với nhau một tôi, điều đó rất thú vị",neutral,neutral,True,test,linear_svm
+sent_004671,tôi đã ngâm comfor nhưng cái shop giao nhầm cỡ mùi hôi vẫn nồng nặc,negative,negative,True,test,linear_svm
+sent_004672,tôi đặt một màu giờ lại ship về một màu,negative,negative,True,test,linear_svm
+sent_004677,tôi có nhắn tin rieng cho shop để đổi mẫu sau khi đặt shop ko trả lời và tự ý giao mẫu tôi ko thích shop có tôn trọng ng mua không?,negative,negative,True,test,linear_svm
+sent_004679,"tôi đã hủy đơn hàng mà shop vẫn giao, màu thì hơn mùa thu tỏa nắng",negative,negative,True,test,linear_svm
+sent_004683,"tôi không dám mua lần thứ 2, mong nhà tôi khuyên không nên mua ở đây",negative,negative,True,test,linear_svm
+sent_004687,tôi đặt chăn ga gối đệm mẫu 27,negative,negative,True,test,linear_svm
+sent_004690,tôi có nhắn tin rieng cho shop để đổi mẫu sau khi mua shop ko trả lời và tự ý giao mẫu tôi ko thích shop có tôn trọng ng mua không?,negative,negative,True,test,linear_svm
+sent_004698,"thời gian giao hàng nhanh, chất lượng bình thường, đường khâu thô, mua 5 đôi quần tây shop tôi sẽ nhuộm 1 chiếc quần tây, các bạn lưu ý kiểm tra hàng trước khi chuyển hàng cho khách lần sau mua hàng nhé",negative,negative,True,test,linear_svm
+sent_004702,"sp phù hợp với giá tiền, tuy nhiên shop hết sp tự ý đổi mẫu của tôi mà không báo trước (shop có bảo là gọi điện thoại cho tôi mà không liên lạc được, nhưng mà vẫn có thể nhắn tin qua shopee cho tôi mà?) nên tôi chỉ cho 3 sao thôi! Shop rút kinh nghiệm nhé",negative,negative,True,test,linear_svm
+sent_004706,Giá mắc hơn 20k mặc dù chất lượng không tệ so với chất lượng tôi mua ở cửa sp khác,negative,negative,True,test,linear_svm
+sent_004713,mình nên làm gì nếu kích thước sai bây giờ? Các shop khi mua hàng vui lòng để mắt và nhìn đúng,negative,negative,True,test,linear_svm
+sent_004716,"Làm cho mình khó chịu, rất khó chịu",negative,negative,True,test,linear_svm
+sent_004718,mình sẽ trở lại,neutral,neutral,True,test,linear_svm
+sent_004720,"mình chưa nhận được hàng, nhưng vấn đề là giao hàng có thành công không? ? ?",negative,negative,True,test,linear_svm
+sent_004743,"sản phẩm may bị lỗi nhiều, đường may vải chỗ thừa chỗ thiếu, xấu",negative,negative,True,test,linear_svm
+sent_004762,Khá ưng chất và màu sản phẩm nhưng shop gửi sai khích thước mình đặt 1m8 mà shop gửi 1m6,positive,positive,True,test,linear_svm
+sent_004766,sản phẩm Mỏng K dám giặt máy sợ rách huhu,negative,negative,True,test,linear_svm
+sent_004768,sản phẩm 1m6/2m nhưng kg vừa,neutral,neutral,True,test,linear_svm
+sent_004769,Vỏ gối và sản phẩm khác màu nhau,negative,negative,True,test,linear_svm
+sent_004774,sản phẩm giống ảnh và chất lượng thì tạm ổn nhưng có mùi khó rửa mấy lần mới xong,neutral,neutral,True,test,linear_svm
+sent_004778,sản phẩm 1m6 / 2m mà kg thôi,neutral,neutral,True,test,linear_svm
+sent_004784,"tủ giống hình, trông đẹp , nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,negative,True,test,linear_svm
+sent_004786,"tủ trông đẹp , có hơi trầy xước nhưng ở mặt chấp nhận được",neutral,neutral,True,test,linear_svm
+sent_004788,"chỉ giao hàng chậm quá thôi, tủ trông đẹp , và chắc chắn,",neutral,neutral,True,test,linear_svm
+sent_004789,tủ trông đẹp 4 sao vì giao hàng chậm,neutral,neutral,True,test,linear_svm
+sent_004796,"sp giống hình, trông đẹp , nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,negative,True,test,linear_svm
+sent_004814,"sp trông đẹp , mẫu mã như hình nhưng ko giữ nhiệt được lâu",neutral,neutral,True,test,linear_svm
+sent_004815,"sp trông đẹp , giữ nhiệt tốt tuy nhiên hơi khó rửa, cần có búi rửa ly riêng và hơi nặng :)",neutral,neutral,True,test,linear_svm
+sent_004820,Tủ trông đẹp nên cho 4 sao vì giao hàng chậm,neutral,neutral,True,test,linear_svm
+sent_004835,Tai nghe nhìn thì trông đẹp sịn sò mà có 1 bên nghe được so giá thì chưa đáng!,neutral,neutral,True,test,linear_svm
+sent_004838,"Mẫu mã trông đẹp , đóng gói chắc chắn",positive,positive,True,test,linear_svm
+sent_004858,"Chất vải hơi nóng, hai gối có họa tiết khác nhau nhìn không trông đẹp",negative,negative,True,test,linear_svm
+sent_004867,"Hình dáng sản phẩm đúng thiết kế, dễ lắp đặt, chỉ cần để ý kĩ các chỗ bắt vít là được, tôi mất 45p là xong",positive,positive,True,test,linear_svm
+sent_004874,Chất lượng tốt hơn tôi nghĩ nhiều,positive,positive,True,test,linear_svm
+sent_004876,tôi mua hôm khuyến mãi nên giá khá tốt,positive,positive,True,test,linear_svm
+sent_004883,"Vote 4 sao không phải vì tôi không thích mà vì mất công lắp đặt quá, tôi bị chấn thương lúc lắp đặt nên vote 4 sao thôi chứ thực ra giá sách đẹp chắc chắn xịn lắm nhé",positive,positive,True,test,linear_svm
+sent_004885,"Khá đẹp và chắc chắn, nhưng có vài cái đinh tôi không biết lắp ở chỗ nào vì không thấy có cái lỗ nào để lắp",positive,positive,True,test,linear_svm
+sent_004890,"Sản phẩm tốt so với giá tiền, tôi mua 1 cái thấy tốt nên đã mua thêm 1 cái nữa",positive,positive,True,test,linear_svm
+sent_004897,tôi thích màu sắc của bình,positive,positive,True,test,linear_svm
+sent_004899,"tôi mua màu cam, màu khá đẹp, bình dùng ổn",positive,positive,True,test,linear_svm
+sent_004905,Chiều nay tôi mới nhận được hàng giao trong 2h,positive,positive,True,test,linear_svm
+sent_004906,"bình to hơn tưởng tượng củ tôi , giữ nhiệt ổn, nhưng vỏ ngoài khá dễ trầy",positive,positive,True,test,linear_svm
+sent_004911,"Hầu hết mọi thứ đều ổn, sp chất lượng tốt",positive,positive,True,test,linear_svm
+sent_004925,"Kệ đẹp, chắc chắn, tuy có vài chỗ bị tróc nhẹ nhưng giá 570k là quá ổn cho sp, còn độ bền thì chưa biết",positive,positive,True,test,linear_svm
+sent_004932,sp chất lượng,positive,positive,True,test,linear_svm
+sent_004944,"sp tốt so với giá tiền, mình mua 1 cái thấy tốt nên đã mua thêm 1 cái nữa",positive,positive,True,test,linear_svm
+sent_004946,Con gái cũng có thể dễ dàng lắp ráp sp này,positive,positive,True,test,linear_svm
+sent_004947,sp đẹp so với giá tiền :) mình sẽ mua thêm,positive,positive,True,test,linear_svm
+sent_004950,Mình thấy hài lòng với sp,positive,positive,True,test,linear_svm
+sent_004951,sp nhìn đẹp; đáp ứng yêu cầu,positive,positive,True,test,linear_svm
+sent_004953,"Hài lòng, sp như quảng cáo",positive,positive,True,test,linear_svm
+sent_004962,sp giữ nhiệt tốt,positive,positive,True,test,linear_svm
+sent_004980,"giao hàng nhanh, sp gióng mô tả",positive,positive,True,test,linear_svm
+sent_004981,"Tủ nhìn đẹp và rẻ, mua về phải tự lắp theo hướng dẫn cũng dễ nhưng do có 1 thanh dài khoan 6 lỗ không khớp khi bắt ốc vào nên mình đã phải mò tới mò lui xem có phải do mình ráp sai chỗ nào không và cuối cùng không phải do mình mà là nhà sản xuất 😁 sau đó mình tự vặn ốc vào đại (do không có đồ khoan) nó không khít như khi có mũi khoan, nên mình chấm 4",positive,positive,True,test,linear_svm
+sent_004982,"tủ nhìn đẹp , y như mô tả",positive,positive,True,test,linear_svm
+sent_004983,"sản phẩm ok, nhìn đẹp chắc chắn, mình con gái tự lắp dễ dàng",positive,positive,True,test,linear_svm
+sent_004985,"giá mua là 538k lúc sale, giá cả hợp túi tiền, hàng nhìn đẹp , mình dư đc 1 đinh ốc, có vài lỗi nhỏ nhưng chấp nhận được như bóng tróc góc, mẻ góc",positive,positive,True,test,linear_svm
+sent_004993,Tủ sách nhìn đẹp và chất lượng khá ổn so với mức giá tiền,positive,positive,True,test,linear_svm
+sent_004994,hàng nhìn đẹp,positive,positive,True,test,linear_svm
+sent_004996,Kệ nhìn đẹp chỉ có đièu mình cố gắng mà ko siết chắc đc,positive,positive,True,test,linear_svm
+sent_004997,"Vote 4 sao không phải vì mình không thích mà vì mất công lắp đặt quá, mình bị chấn thương lúc lắp đặt nên vote 4 sao thôi chứ thực ra giá sách nhìn đẹp chắc chắn xịn lắm nhé",positive,positive,True,test,linear_svm
+sent_005006,"Kệ to, chắc chắn, khá rẻ, tuy có 1 số mối nối chưa khớp nhau, còn lệch 1-2mm nhưng nhìn chung khá nhìn đẹp",positive,positive,True,test,linear_svm
+sent_005032,Kệ chắc chắn nhìn đẹp mà rất nặng luôn,positive,positive,True,test,linear_svm
+sent_005033,"Sp nhìn đẹp , ráp hơi cực nhưng mà thành phẩm ok",positive,positive,True,test,linear_svm
+sent_005035,"Kệ nhìn đẹp và chắc chắn, lắp xong kê lên hơi cập kênh nhưng sau đó ok luôn",positive,positive,True,test,linear_svm
+sent_005036,"Kệ nhìn đẹp , nếu nhà cung cấp đánh số thứ tự lắp thì sẽ hoàn hảo hơn!",positive,positive,True,test,linear_svm
+sent_005038,"sản phẩm đúng mô tả, nhìn đẹp , không biết chất lượng thế nào, dùng được vừa giá tiền",positive,positive,True,test,linear_svm
+sent_005051,Sản phẩm nhìn đẹp so với giá tiền :) mình sẽ mua thêm,positive,positive,True,test,linear_svm
+sent_005053,Sản phẩm nhìn đẹp như hình,positive,positive,True,test,linear_svm
+sent_005058,giá sách nhìn đẹp vừa đúng ý mình,positive,positive,True,test,linear_svm
+sent_005059,Sản phẩm nhìn nhìn đẹp ; đáp ứng yêu cầu,positive,positive,True,test,linear_svm
+sent_005064,ke sach nhìn đẹp,positive,positive,True,test,linear_svm
+sent_005076,"Màu và kiểu dáng nhìn đẹp , mình mới giữ nóng thôi chưa giữ lạnh, thấy cũng tạm, k thể được như bình thuỷ được",positive,positive,True,test,linear_svm
+sent_005080,"nhìn đẹp , hy vọng sơn đừng sước mau",positive,positive,True,test,linear_svm
+sent_005085,Chất liệu nhìn đẹp,positive,positive,True,test,linear_svm
+sent_005091,Bình hơi to nhưng rất nhìn đẹp,positive,positive,True,test,linear_svm
+sent_005094,"bình nhìn đẹp , tiếc là mua rồi cái tự nhiên hôm sau sale off 53% :((",positive,positive,True,test,linear_svm
+sent_005097,"Bình nhìn đẹp , giữ nhiệt tốt, hơi to xíu thôi",positive,positive,True,test,linear_svm
+sent_005099,"thời gian giao hàng nhanh, đặt chiều thứ 4 đến chiều thứ 6 đã nhận được",positive,positive,True,test,linear_svm
+sent_005103,"Kệ nhiều vết trầy xước, có chỗ lắp bị lệch, nhưng bù lại thời gian giao hàng nhanh (hôm trc đặt, hôm sau đã giao rồi), kệ chắc chắn, giá rẻ, nên mình cho 4 sao, sản phẩm đáng để mua nha mn",positive,positive,True,test,linear_svm
+sent_005112,tủ đẹp nhưng bị mẻ một góc hơi thất vọng nhưng cho 4sao vì thời gian giao hàng nhanh and shipper dth,positive,positive,True,test,linear_svm
+sent_005116,Chất lượng sản phẩm tốt thời gian giao hàng ok chỉ có điều hơi trầy nhẹ 1 góc thôi,positive,positive,True,test,linear_svm
+sent_005119,"Mới nhận được hàng, tiki thời gian giao hàng sơm hơn dự kiến",positive,positive,True,test,linear_svm
+sent_005122,"thời gian giao hàng nhanh, kệ chất lượng, nên đánh số thứ tự để dễ lắp ráp",positive,positive,True,test,linear_svm
+sent_005127,"Hàng đúng như mô tả, thời gian giao hàng nhanh",positive,positive,True,test,linear_svm
+sent_005134,"Mình nhận dc sản phẩm thứ 7 tuần trước, muộn hơn 5 ngày nhưng rất thấy hài lòng với chất lượng sản phẩm,giá tiền và bạn giao hàng, nói chung sẽ tiếp tục ủng hộ tiki",positive,positive,True,test,linear_svm
+sent_005136,"Lần nào mua hàng trên Tiki cũng khá thấy hài lòng, lần này cũng không ngoại lệ",positive,positive,True,test,linear_svm
+sent_005140,thấy hài lòng & ưng ý,positive,positive,True,test,linear_svm
+sent_005147,"thấy hài lòng, sản phẩm như quảng cáo",positive,positive,True,test,linear_svm

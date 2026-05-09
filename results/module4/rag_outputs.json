@@ -1,0 +1,89 @@
+{
+  "query": "Khách hàng phàn nàn gì về giao sai hàng, giao chậm hoặc đóng gói bị móp?",
+  "answer": "Dựa trên 8 review được truy hồi, có 5 bằng chứng tiêu cực rõ ràng.\nCác phàn nàn chính liên quan đến: dịch vụ/shop (20), mẫu mã/size/màu (13), giá (5), giao hàng (3).\nBằng chứng chính nằm ở các review [1] [2] [3].\nCác phản hồi tiêu cực được ưu tiên trích dẫn khi sentiment là negative và rating thấp hoặc có dấu hiệu khiếu nại trong nội dung.\nTrích dẫn bằng chứng:\n[1] Lần đầu mua hàng tại shop mình đã có trải nghiệm thật sự rất khó chịu. Giao hàng rất nhanh tuy nhiên lần đầu mình mua trắng nhưng shop giao màu đen, 1 phần do mình đã có dự định về quần áo định mặc nên kh thể dùng luôn màu đen đc mình có nt cho shop để xem... (sentiment=negative, category=Fashion, rating=1)\n[2] Shop giao sai hàng nhắn tin rất nhiều lần không trả lời , điện thoại 10 c không nghe máy. để shop giải quyết trước nhưng ko dc, phải bấm hoàn tiền trên shop Pi ,nhắn tin rất nhiều lần thì shop mới trả lời một câu “ok đã bấm hoàn tiền” Hết.,Trong khi sóc là... (sentiment=negative, category=Electronic, rating=3)\n[3] Chất liệu:ok Đúng với mô tả:ok Màu sắc:ok In ảnh cho nó có thể là do mộtmột phần mềm khác thì cũng phải chi nó bảo ko phải có cái gì này thì có lẽ là do các bạn ấy có vẻ là mlà ngườngười mẫu ik học sinh lớp cô hà Hồ thì ai mà biết nó có cái lý do của họ là... (sentiment=negative, category=Fashion, rating=5)",
+  "sentiment_distribution": {
+    "negative": 8
+  },
+  "detected_aspects": {
+    "dịch vụ/shop": 20,
+    "mẫu mã/size/màu": 13,
+    "giá": 5,
+    "giao hàng": 3,
+    "chất lượng": 1,
+    "đóng gói": 1
+  },
+  "noise_filtered_count": 0,
+  "strong_negative_count": 5,
+  "weak_or_mixed_count": 3,
+  "evidence": [
+    {
+      "citation": "[1]",
+      "doc_id": "rag_Fashion_12183625609",
+      "score": 0.8294147253036499,
+      "sentiment": "negative",
+      "category": "Fashion",
+      "product_name": "Giày sandal đúp nữ quai ngọc gót vuông 10cm, giày bít gót đế TPR cao cấp ZINZIN868",
+      "rating": 1,
+      "complaint_marker_detected": true,
+      "sentiment_rating_conflict": false,
+      "excerpt": "Lần đầu mua hàng tại shop mình đã có trải nghiệm thật sự rất khó chịu. Giao hàng rất nhanh tuy nhiên lần đầu mình mua trắng nhưng shop giao màu đen, 1 phần do mình đã có dự định về quần áo định mặc nên kh thể dùng luôn màu đen đc mình có nt cho shop để xem..."
+    },
+    {
+      "citation": "[2]",
+      "doc_id": "rag_Electronic_12171819321",
+      "score": 0.8266198635101318,
+      "sentiment": "negative",
+      "category": "Electronic",
+      "product_name": "REMOTE ĐIỀU KHIỂN TRUYỀN HÌNH FPT ĐẦU BOX FPT",
+      "rating": 3,
+      "complaint_marker_detected": true,
+      "sentiment_rating_conflict": false,
+      "excerpt": "Shop giao sai hàng nhắn tin rất nhiều lần không trả lời , điện thoại 10 c không nghe máy. để shop giải quyết trước nhưng ko dc, phải bấm hoàn tiền trên shop Pi ,nhắn tin rất nhiều lần thì shop mới trả lời một câu “ok đã bấm hoàn tiền” Hết.,Trong khi sóc là..."
+    },
+    {
+      "citation": "[3]",
+      "doc_id": "rag_Fashion_14213030635",
+      "score": 0.8262240886688232,
+      "sentiment": "negative",
+      "category": "Fashion",
+      "product_name": "[Mã FATREND0911 giảm đến 30k tối đa 99k] Áo khoác bomber G toàn thân",
+      "rating": 5,
+      "complaint_marker_detected": true,
+      "sentiment_rating_conflict": true,
+      "excerpt": "Chất liệu:ok Đúng với mô tả:ok Màu sắc:ok In ảnh cho nó có thể là do mộtmột phần mềm khác thì cũng phải chi nó bảo ko phải có cái gì này thì có lẽ là do các bạn ấy có vẻ là mlà ngườngười mẫu ik học sinh lớp cô hà Hồ thì ai mà biết nó có cái lý do của họ là..."
+    },
+    {
+      "citation": "[4]",
+      "doc_id": "rag_Electronic_15741431389",
+      "score": 0.825767993927002,
+      "sentiment": "negative",
+      "category": "Electronic",
+      "product_name": "(MẪU MỚI - HOT) Camera Wifi thiết kế kiểu dáng Robot phi hành gia APP ICAM365 - Gọi thoại 2 chiều chỉ với 1 thao tác",
+      "rating": 5,
+      "complaint_marker_detected": true,
+      "sentiment_rating_conflict": true,
+      "excerpt": "Màu xinh mà hơi khó kết nối hôm mua tới giờ chưa kết nối dc luôn k biết lỗi ở đâu .m nghĩ mấy đồ này nên mua ngoài tiệm có ng tới nhà bảo hành vs lắp đặt chứ nói trên đt k giải quyết dc"
+    },
+    {
+      "citation": "[5]",
+      "doc_id": "rag_Fashion_13764220307",
+      "score": 0.8248525261878967,
+      "sentiment": "negative",
+      "category": "Fashion",
+      "product_name": "[Mã FATREND0911 giảm đến 30k tối đa 99k] Áo khoác bomber G toàn thân",
+      "rating": 5,
+      "complaint_marker_detected": true,
+      "sentiment_rating_conflict": true,
+      "excerpt": "Màu sắc:sai Đúng với mô tả:đúng Chất liệu:vải hơi mỏng nha Tuy shop còn ship sai màu , mik đặt là màu trắng nhm ra màu đen. Vải mỏng nx nhg vs giá mik săn dc 40k v cx ngon r"
+    }
+  ],
+  "retrieved_rows": 8,
+  "filters": {
+    "category": null,
+    "sentiment": "negative",
+    "min_rating": null,
+    "max_rating": null,
+    "product_id": null,
+    "product_name_contains": null
+  }
+}

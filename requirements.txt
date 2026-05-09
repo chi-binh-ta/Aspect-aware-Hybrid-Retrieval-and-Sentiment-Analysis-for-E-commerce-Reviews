@@ -1,0 +1,12 @@
+pandas
+numpy
+openpyxl
+scikit-learn
+matplotlib
+seaborn
+tqdm
+joblib
+sentence-transformers
+faiss-cpu
+pyarrow
+rank-bm25

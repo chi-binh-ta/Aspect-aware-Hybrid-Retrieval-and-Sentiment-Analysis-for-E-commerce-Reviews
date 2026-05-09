@@ -1,0 +1,65 @@
+﻿review_id,text,true_label,predicted_label,text_length,rating
+sent_003576,hazzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,neutral,negative,1,3
+sent_003923,Mỏng,neutral,negative,1,3
+sent_002289,Tiếc ghê 🤧,neutral,negative,3,3
+sent_004181,Cần sửa lỗi,neutral,negative,3,3
+sent_000763,Hàng như trong hình,neutral,negative,4,3
+sent_002795,đã nhận được đâu???,negative,neutral,4,1
+sent_003588,Mình sẽ trả hàng,neutral,negative,4,3
+sent_004097,Số tiền bạn đã trả,neutral,negative,5,3
+sent_004495,Nhận thời gian giao hàng,neutral,negative,5,3
+sent_001119,chất lượng tương ứng giá cả,neutral,positive,6,3
+sent_001663,"hàng hóa giao đúng, chất lượng",positive,neutral,6,5
+sent_004006,"Mẫu mã đẹp, vải hơi mỏng",neutral,negative,6,3
+sent_004138,Hang động này cũng được DC,neutral,negative,6,3
+sent_002403,Tiền nào của đấy chán thực sự,negative,neutral,7,1
+sent_003419,Chất lượng tương ứng với giá 1K,neutral,positive,7,3
+sent_001120,giá rẻ cho một kệ gỗ như vậy,positive,neutral,8,4
+sent_002362,"Hàng giao nhanh, nghe được nhưng bị lỗi",neutral,negative,8,3
+sent_003733,Giá khá rẻ nên các bạn cân nhắc,positive,neutral,8,4
+sent_000623,"hàng ok, bị rớt móp hết 2 góc nhỏ",neutral,negative,9,3
+sent_001144,Chất lượng gỗ Ok nhưng Kick thước quá nhỏ,negative,neutral,9,2
+sent_003372,Mua về đủ để đáp ứng nhu cầu nghe,neutral,negative,9,3
+sent_003395,Tạm ổn với giá tiền không thể rẻ hơn,positive,neutral,9,4
+sent_003421,Chất lg tạm được nhưng mà rẻ nên ok,positive,neutral,9,4
+sent_001135,chưa bao giờ thất vọng khi mua hàng trên tiki,positive,neutral,10,5
+sent_001335,"Thấy cũng ổn , không biết sau có hạn không",neutral,negative,10,3
+sent_003592,Mọi ng nên lưu ý khj mua hàng ở shop này,neutral,negative,11,3
+sent_000303,"Giá cả ko biết có rẻ ko, nhưng giao đủ đồ để lắp",positive,neutral,13,4
+sent_003302,Chất lượng oke nhưng đeo đc 2 ngày thì dây bị đứt =(((,neutral,negative,13,3
+sent_000570,"Tủ đẹp, có hướng dẫn lắp ráp, nhưng không có ốc vít kèm theo",positive,neutral,14,4
+sent_000182,"với giá chưa đến 600k thì chất lượng vậy là ổn rồi, dễ lắp ráp",positive,neutral,15,4
+sent_001377,"Tạm thời thấy ok, cần dùng một thời gian mới đánh giá chính xác được",positive,neutral,15,4
+sent_001561,Nhận được hàng rồi khá là háo hức bóc ra thì bõ công chờ đợi,neutral,negative,15,3
+sent_002288,Nhưng thật sự thì ko biết cái kẹp dùng làm sao bên ngoài thì ok,neutral,negative,15,3
+sent_002573,Mình đọc review cũng thấy dễ vỡ nhưng mà thật không may mình nằm trong số đó,neutral,negative,17,3
+sent_000044,Mk mua hàng trên tiki đã lâu đây là lần đầu tiên tiki khiến mk k hài lòng,neutral,positive,18,3
+sent_001363,"Tiki giao hàng rất nhanh, nhưng sản phẩm bị trầy xước nhiều như đã sử dụng rồi vậy",positive,neutral,18,5
+sent_003918,Ko biết hết mẫu 10 hay ntn mà shop giao mẫu khác cho m mà ko hỏi trước,neutral,negative,18,3
+sent_000648,Hàng đẹp nhưng hướng dẫn sử dụng quá đơn giản làm mất thời gian người dùng khi gắn kệ,neutral,positive,19,3
+sent_004001,"Không thích lắm, vì chọn mẫu khác, chả hiểu sao lại hiển thị mẫu này, k Sao, dùng tạm",neutral,negative,19,3
+sent_002514,Mình mua sản phẩm từ tháng 8/2019 xài khá tốt tuy nhiên sạc chưa được chục lần thì cục sạc bị lỗi,neutral,negative,22,3
+sent_005112,tủ đẹp nhưng bị mẻ một góc hơi thất vọng nhưng cho 4sao vì thời gian giao hàng nhanh and shipper dth,positive,neutral,22,4
+sent_000481,Mua về tuy không đẹp như trên hình nhưng suy nghĩ cho cùng thì với giá như vậy chất lượng của sản phẩm đủ dùng,neutral,negative,25,3
+sent_000442,"Dùng được, dễ lắp ráp, tuy nhiên khá nặng khi vận chuyển, phải đi làm giờ hành chính thì rất khó khăn vì không giao về nhà được",positive,neutral,28,4
+sent_003052,"tủ giống hình, đẹp, nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,neutral,28,2
+sent_003088,"sp giống hình, đẹp, nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,neutral,28,2
+sent_003105,"hàng giống hình, đẹp, nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,neutral,28,2
+sent_003070,"sản phẩm giống hình, đẹp, nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,neutral,29,2
+sent_004784,"tủ giống hình, trông đẹp , nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,neutral,30,2
+sent_004796,"sp giống hình, trông đẹp , nhưng gỗ ép hơi mềm, có 2 lỗ bị lờn không vặn vừa, tuy nhiên với giá tiền như vậy cũng tạm chấp nhận",negative,neutral,30,2
+sent_000095,"Do tầm giá này cũng không đòi hỏi được gì nhiều nhưng sản phẩm này sẽ tốt hơn nếu thiết kế phần vặn ốc tiện hơn, đảm bảo các bạn là vặn hết số ốc đó vô thì tay nổi chuột luôn đó :D",negative,neutral,44,2
+sent_000138,"Tạm ổn, gỗ cắt hơi lệch, lắp xong giá sách bị cong mất 2 thanh ở trên cùng và dưới cùng, bản hướng dẫn và các tấm ván gỗ cần đánh số thứ tự, chiều lắp để thuận tiện lắp ráp và sử dụng",negative,neutral,44,1
+sent_002503,"Chiều hôm 30/12 mình có đặt mua sản phẩm, thời gian giao hàng 2h ok nhưng sản phẩm giao tới tuy còn seal nhưng là đã đóng lại sau khi qua hải quan, bên trong hộp sạc cực kì bẩn, bẩn vào cả tai nghe, cũng vì vậy mà mình lau sơ và không biết bị trầy, cứ tưởng là vết bẩn",negative,neutral,62,1
+sent_001233,Hàng quá xịn,positive,negative,3,5
+sent_001034,sản phẩm quá okiiii,positive,negative,4,5
+sent_003900,Shop làm việc tốt,positive,negative,4,4
+sent_001625,Mẫu mã và màu sắt bắt mắt,positive,negative,7,5
+sent_002771,"Đẹp, hy vọng sơn đừng sước mau",positive,negative,7,4
+sent_000235,chưa ráp nhưng kiểm tra hàng rẩt ưng ý,positive,negative,9,5
+sent_002834,Chất lượng Lock & Lock thì kg phải bàn,positive,negative,9,5
+sent_001338,That tuyet vi tranh thu mua dc deal gia tot,positive,negative,10,5
+sent_004905,Chiều nay tôi mới nhận được hàng giao trong 2h,positive,negative,10,4
+sent_002860,Bình thì đẹp những có điều là trong bình mùi rất khó chịu ngâm nước để qua đêm đến sang vẫn có mùi,negative,positive,23,2
+sent_001397,"So quá good, tiếc nhất là mình vừa mua trong siêu thị xong mới thấy o thì mua lần hai , ba bình roài",positive,negative,24,5
+sent_001651,hàng xài rất tốt ! nhưng cho mình hỏi cái gon của cái nắp dưới thì mua ở đâu Bên shop mình có bán không,positive,negative,25,5

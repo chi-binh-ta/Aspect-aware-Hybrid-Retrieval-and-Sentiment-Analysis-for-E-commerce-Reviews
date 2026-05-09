@@ -1,0 +1,11 @@
+{
+  "num_documents_indexed": 45259,
+  "metadata_rows": 45259,
+  "embedding_dim": 384,
+  "model_name": "intfloat/multilingual-e5-small",
+  "output_paths": {
+    "index": "/content/ecommerce-sentiment-rag/models/module4/review_faiss.index",
+    "metadata": "/content/ecommerce-sentiment-rag/models/module4/review_metadata.parquet",
+    "config": "/content/ecommerce-sentiment-rag/models/module4/module4_index_config.json"
+  }
+}

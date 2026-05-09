@@ -1,0 +1,6 @@
+{"query": "Khách phàn nàn gì về đóng gói?", "target_keywords": ["móp hộp", "rách bao bì", "hộp móp", "bao bì rách", "móp", "rách", "méo", "bẹp", "vỡ", "gãy", "sơ sài", "không chống sốc"], "target_aspect": "dong_goi"}
+{"query": "Có review nào nói giao hàng chậm hoặc giao sai không?", "target_keywords": ["giao chậm", "giao lâu", "giao sai", "ship chậm"], "target_aspect": "giao_hang"}
+{"query": "Review nào nói shop không trả lời?", "target_keywords": ["shop không trả lời", "không trả lời", "không rep", "shop không rep"], "target_aspect": "dich_vu_shop"}
+{"query": "Khách có phàn nàn sai màu sai size không?", "target_keywords": ["sai size", "sai màu", "không đúng size", "không đúng màu"], "target_aspect": "mau_ma_size_mau"}
+{"query": "Khách nhận xét gì về giá và đáng tiền?", "target_keywords": ["giá rẻ", "đáng tiền", "giá ổn", "rẻ"], "target_aspect": "gia"}
+{"query": "Sản phẩm có bị lỗi hỏng hoặc chất lượng kém không?", "target_keywords": ["bị lỗi", "bị hỏng", "chất lượng kém", "hàng lỗi", "hàng hỏng"], "target_aspect": "chat_luong"}

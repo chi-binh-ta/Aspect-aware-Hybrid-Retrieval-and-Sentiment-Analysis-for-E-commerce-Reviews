@@ -1,0 +1,474 @@
+﻿normalized_text,num_occurrences,unique_ratings,unique_sentiment_labels,conflict_label
+bên ngoài cửa sản phẩm bán lẻ có đặt nhầm phải gửi đi gửi lại các bạn vui lòng ghé cửa sản phẩm để rút kinh nghiệm cho những khách sản phẩm sau,2,[3],"[""neutral""]",False
+bình giữ nhiệt rất tốt,4,[5],"[""positive""]",False
+bình giữ nhiệt tốt,4,[4],"[""positive""]",False
+bình nhìn đẹp,7,[4],"[""positive""]",False
+bình như hình,2,[3],"[""neutral""]",False
+bình rất đẹp,2,[5],"[""positive""]",False
+bình tốt,3,[4],"[""positive""]",False
+bình đẹp,7,[4],"[""positive""]",False
+"bình đẹp, giữ nhiệt tốt",5,[5],"[""positive""]",False
+bạn ơi mấy mẫu khác mình đặt đúng màu mà sao mẫu 8 bạn gửi không đúng như ảnh vậy,2,[2],"[""negative""]",False
+bạn ơi mấy mẫu khác tôi đặt đúng màu mà sao mẫu 8 bạn gửi không đúng như ảnh vậy,2,[2],"[""negative""]",False
+"bạn ơi, mình đặt đúng màu cho các mẫu khác mà sao mẫu 8 bạn gửi lại không khớp với ảnh vậy bạn?",2,[2],"[""negative""]",False
+"bạn ơi, tôi đặt đúng màu cho các mẫu khác mà sao mẫu 8 bạn gửi lại không khớp với ảnh vậy bạn?",2,[2],"[""negative""]",False
+bắt đầu mua hàng từ ngày 11/11 nhưng đến ngày 19 mới thời gian giao hàng cho người vận chuyển,2,[2],"[""negative""]",False
+bắt đầu đặt hàng từ ngày 11/11 nhưng đến ngày 19 mới thời gian giao hàng cho người vận chuyển,2,[2],"[""negative""]",False
+chuyển phát nhanh,2,[4],"[""positive""]",False
+"chăn màu hơi đậm hơn hình, phù hợp giá tiền nhưng giao sản phẩm quá lâu, dự kiến ngày 11 mà tận 13 mới nhận",2,[2],"[""negative""]",False
+"chăn màu hơi đậm hơn hình, phù hợp giá tiền nhưng thời gian giao hàng quá lâu, dự kiến ngày 11 mà tận 13 mới nhận",2,[2],"[""negative""]",False
+chăn màu hơi đậm so với hình phù hợp với giá cả nhưng thời gian giao sản phẩm lâu quá,2,[2],"[""negative""]",False
+chăn màu hơi đậm so với hình phù hợp với giá cả nhưng thời gian thời gian giao hàng lâu quá,2,[2],"[""negative""]",False
+chưa hài lòng lắm vì giao sản phẩm k đúng mẫu,2,[2],"[""negative""]",False
+chưa hài lòng lắm vì thời gian giao hàng k đúng mẫu,2,[2],"[""negative""]",False
+chưa nhận được hàng,2,[2],"[""negative""]",False
+chất lượng kém,3,[1],"[""negative""]",False
+chất lượng phù hợp với chi phí mua sản phẩm,2,[3],"[""neutral""]",False
+chất lượng phù hợp với giá tiền mua sản phẩm,2,[3],"[""neutral""]",False
+chất lượng quá kém,2,[1],"[""negative""]",False
+"chất lượng sản phẩm giống cam kết,giao sản phẩm đúng thời gian",2,[5],"[""positive""]",False
+"chất lượng sản phẩm giống cam kết,thời gian giao hàng đúng thời gian",2,[5],"[""positive""]",False
+chất lượng sản phẩm kém,2,[1],"[""negative""]",False
+"chất lượng sản phẩm tạm ổn giá cả nhưng thời gian giao sản phẩm lâu, chỉ sau một lần giặt sẽ bị nhão vải",2,[2],"[""negative""]",False
+"chất lượng sản phẩm tạm ổn giá cả nhưng thời gian thời gian giao hàng lâu, chỉ sau một lần giặt sẽ bị nhão vải",2,[2],"[""negative""]",False
+"chất lượng sản phẩm đúng như lời hứa, giao sản phẩm đúng hẹn",2,[5],"[""positive""]",False
+"chất lượng sản phẩm đúng như lời hứa, thời gian giao hàng đúng hẹn",2,[5],"[""positive""]",False
+chất lượng sản phẩm ổn vừa với giá tiền nhưng giao sản phẩm hơi lâu và vải bị dóc chỉ sau 1 lần giặt,2,[2],"[""negative""]",False
+chất lượng sản phẩm ổn vừa với giá tiền nhưng thời gian giao hàng hơi lâu và vải bị dóc chỉ sau 1 lần giặt,2,[2],"[""negative""]",False
+chất lượng tạm ổn,2,[3],"[""neutral""]",False
+chất lượng tốt,5,[4],"[""positive""]",False
+chất lượng và ga tốt nhưng size cửa sản phẩm gửi không đúng 1m8 mà size cửa sản phẩm gửi là 1m6,2,[4],"[""positive""]",False
+chất lượng và sản phẩm tốt nhưng size cửa sản phẩm gửi không đúng 1m8 mà size cửa sản phẩm gửi là 1m6,2,[4],"[""positive""]",False
+chất lượng âm thanh quá tệ,2,[1],"[""negative""]",False
+chất lượng ổn,2,[3],"[""neutral""]",False
+chắc sản phẩm hạ giá nên vậy,2,[3],"[""neutral""]",False
+"chỉ giao hàng chậm quá thôi, hàng trông đẹp , và chắc chắn,",2,[3],"[""neutral""]",False
+"chỉ giao hàng chậm quá thôi, hàng đẹp, và chắc chắn,",2,[3],"[""neutral""]",False
+"chỉ giao hàng chậm quá thôi, sp trông đẹp , và chắc chắn,",2,[3],"[""neutral""]",False
+"chỉ giao hàng chậm quá thôi, sp đẹp, và chắc chắn,",2,[3],"[""neutral""]",False
+"chỉ giao hàng chậm quá thôi, sản phẩm trông đẹp , và chắc chắn,",2,[3],"[""neutral""]",False
+"chỉ giao hàng chậm quá thôi, sản phẩm đẹp, và chắc chắn,",2,[3],"[""neutral""]",False
+"chỉ giao hàng chậm quá thôi, tủ trông đẹp , và chắc chắn,",2,[3],"[""neutral""]",False
+"chỉ giao hàng chậm quá thôi, tủ đẹp, và chắc chắn,",2,[3],"[""neutral""]",False
+"chỉ thời gian giao hàng chậm quá thôi, hàng đẹp, và chắc chắn,",4,[3],"[""neutral""]",False
+"chỉ thời gian giao hàng chậm quá thôi, sp đẹp, và chắc chắn,",4,[3],"[""neutral""]",False
+"chỉ thời gian giao hàng chậm quá thôi, sản phẩm đẹp, và chắc chắn,",4,[3],"[""neutral""]",False
+"chỉ thời gian giao hàng chậm quá thôi, tủ đẹp, và chắc chắn,",4,[3],"[""neutral""]",False
+"chỉ tốc độ giao hàng chậm quá thôi, hàng đẹp, và chắc chắn,",2,[3],"[""neutral""]",False
+"chỉ tốc độ giao hàng chậm quá thôi, sp đẹp, và chắc chắn,",2,[3],"[""neutral""]",False
+"chỉ tốc độ giao hàng chậm quá thôi, sản phẩm đẹp, và chắc chắn,",2,[3],"[""neutral""]",False
+"chỉ tốc độ giao hàng chậm quá thôi, tủ đẹp, và chắc chắn,",2,[3],"[""neutral""]",False
+cửa hàng không kiểm tra hàng hóa trước khi thời gian giao hàng cho khách,2,[2],"[""negative""]",False
+cửa sản phẩm cung cấp không đúng mẫu mã,2,[2],"[""negative""]",False
+cửa sản phẩm không cung cấp đúng mẫu mã và kích thước,2,[1],"[""negative""]",False
+cửa sản phẩm đang hoạt động tốt,2,[4],"[""positive""]",False
+cực kì hài lòng,2,[5],"[""positive""]",False
+cực kỳ hài lòng,2,[5],"[""positive""]",False
+dùng rất ok,2,[5],"[""positive""]",False
+dùng rất tốt,3,[5],"[""positive""]",False
+giao hàng chậm,5,[2],"[""negative""]",False
+giao hàng không đúng,2,[2],"[""negative""]",False
+giao hàng lâu,3,[2],"[""negative""]",False
+giao hàng nhanh,20,[4],"[""positive""]",False
+giao hàng quá chậm,2,[1],"[""negative""]",False
+giao hàng quá muộn,2,[1],"[""negative""]",False
+giao hàng đúng hẹn,2,"[3, 4]","[""neutral"", ""positive""]",True
+giao k đúng mẫu,2,[2],"[""negative""]",False
+giao sp chậm,2,[2],"[""negative""]",False
+giao sp nhanh,2,[4],"[""positive""]",False
+giao sp quá muộn,2,[1],"[""negative""]",False
+giao sản phẩm chậm,4,[2],"[""negative""]",False
+"giao sản phẩm chậm, màu k như hình",2,[1],"[""negative""]",False
+giao sản phẩm k đúng mẫu,2,[2],"[""negative""]",False
+giao sản phẩm không đúng,2,[2],"[""negative""]",False
+giao sản phẩm lâu có nửa tháng mới nhận được,2,[2],"[""negative""]",False
+giao sản phẩm nhanh,4,[4],"[""positive""]",False
+"giao sản phẩm nhanh chóng, chất liệu ổn, nhưng mẫu đơn đặt sản phẩm bị sai",2,[4],"[""positive""]",False
+"giao sản phẩm nhanh chóng, sản phẩm ngon tại cửa sản phẩm, khuyến mãi dịch vụ tốt",2,[5],"[""positive""]",False
+"giao sản phẩm nhanh chóng, sản phẩm ngon và dịch vụ tốt",2,[5],"[""positive""]",False
+"giao sản phẩm nhanh chóng, đúng mẫu, đúng loại, hình ảnh trông đẹp",2,[4],"[""positive""]",False
+"giao sản phẩm nhanh chóng, đúng mẫu, đúng loại, hình ảnh đẹp",2,[4],"[""positive""]",False
+giao sản phẩm nhanh sản phẩm ngon shop phục vụ rất tốt khuyến mãi nhiều,2,[5],"[""positive""]",False
+giao sản phẩm nhanh sản phẩm ngon shop phục vụ tốt,2,[5],"[""positive""]",False
+"giao sản phẩm nhanh, chất liệu ok, chỉ là giao sai mẫu đặt thôi",2,[4],"[""positive""]",False
+"giao sản phẩm nhanh, chất lượng bình thường, đường khâu thô, mua 5 đôi quần tây shop mình sẽ nhuộm 1 chiếc quần tây, các bạn lưu ý kiểm tra sản phẩm trước khi chuyển sản phẩm cho khách lần sau mua sản phẩm nhé",2,[2],"[""negative""]",False
+"giao sản phẩm nhanh, chất lượng bình thường, đường khâu thô, mua 5 đôi quần tây shop tôi sẽ nhuộm 1 chiếc quần tây, các bạn lưu ý kiểm tra sản phẩm trước khi chuyển sản phẩm cho khách lần sau mua sản phẩm nhé",2,[2],"[""negative""]",False
+"giao sản phẩm nhanh, chất lượng bình thường, đường may sơ sài, mua 5 cái quần thì shop gửi 1 cái bị ố vàng, lần sau shop nên chú ý kiểm tra trước khi giao sản phẩm cho khách",2,[2],"[""negative""]",False
+"giao sản phẩm nhanh, ok",2,[4],"[""positive""]",False
+giao sản phẩm nửa tháng mới nhận được,2,[2],"[""negative""]",False
+giao sản phẩm quá muộn,4,[1],"[""negative""]",False
+giao đầy đủ sản phẩm và lần này giao khá nhanh,2,[4],"[""positive""]",False
+giá mắc hơn 20k mặc dù chất lượng không tệ so với chất lượng mình mua ở cửa sản phẩm khác,2,[1],"[""negative""]",False
+giá mắc hơn 20k mặc dù chất lượng không tệ so với chất lượng tôi mua ở cửa sản phẩm khác,2,[1],"[""negative""]",False
+giữ nhiệt rất tốt,3,[5],"[""positive""]",False
+good,7,"[4, 5]","[""positive""]",True
+gét nhất là giáo sản phẩm k đúng chủng loại màu,2,[1],"[""negative""]",False
+hài lòng,14,[4],"[""positive""]",False
+hài lòng với sp,5,[4],"[""positive""]",False
+hài lòng với sản phẩm,4,[4],"[""positive""]",False
+hàng chất lượng,4,"[4, 5]","[""positive""]",True
+"hàng chất lượng giữ nhiệt rất khá tốt mình đánh giá 5 sao cho hàng, nhưng dịch vụ giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",2,[3],"[""neutral""]",False
+"hàng chất lượng giữ nhiệt rất khá tốt mình đánh giá 5 sao cho hàng, nhưng dịch vụ thời gian giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin thời gian giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",2,[3],"[""neutral""]",False
+"hàng chất lượng giữ nhiệt rất khá tốt mình đánh giá 5 sao cho hàng, nhưng dịch vụ tốc độ giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin tốc độ giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",2,[3],"[""neutral""]",False
+"hàng chất lượng giữ nhiệt rất khá tốt tôi đánh giá 5 sao cho hàng, nhưng dịch vụ thời gian giao hàng bên tiki thật sự tôi không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin thời gian giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",2,[3],"[""neutral""]",False
+"hàng chất lượng giữ nhiệt rất tốt mình đánh giá 5 sao cho hàng, nhưng dịch vụ giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",2,[3],"[""neutral""]",False
+"hàng chất lượng giữ nhiệt rất tốt mình đánh giá 5 sao cho hàng, nhưng dịch vụ thời gian giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin thời gian giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",2,[3],"[""neutral""]",False
+"hàng chất lượng giữ nhiệt rất tốt mình đánh giá 5 sao cho hàng, nhưng dịch vụ tốc độ giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin tốc độ giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",2,[3],"[""neutral""]",False
+"hàng chất lượng giữ nhiệt rất tốt tôi đánh giá 5 sao cho hàng, nhưng dịch vụ thời gian giao hàng bên tiki thật sự tôi không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin thời gian giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",2,[3],"[""neutral""]",False
+hàng giao đúng,2,[3],"[""neutral""]",False
+"hàng giống mô tả, chất lượng chưa test chưa rõ có ok như hàng ko sale ko",2,[3],"[""neutral""]",False
+hàng k như hình,2,[2],"[""negative""]",False
+"hàng khá tốt , nhưng thời gian giao hàng hơi lâu",2,[3],"[""neutral""]",False
+hàng kém chất lượng,2,[1],"[""negative""]",False
+hàng nhìn đẹp,9,[4],"[""positive""]",False
+hàng như hình,3,[3],"[""neutral""]",False
+hàng như shit,2,[1],"[""negative""]",False
+hàng ok,4,[4],"[""positive""]",False
+hàng quốc tế nên giao hàng hơi lâu,2,[2],"[""negative""]",False
+hàng quốc tế nên thời gian giao hàng hơi lâu,4,[2],"[""negative""]",False
+hàng quốc tế nên tốc độ giao hàng hơi lâu,2,[2],"[""negative""]",False
+hàng sách khá tốt nhưng thái độ người giao hàng ko khá tốt,2,[3],"[""neutral""]",False
+hàng sách khá tốt nhưng thái độ người thời gian giao hàng ko khá tốt,4,[3],"[""neutral""]",False
+hàng sách khá tốt nhưng thái độ người tốc độ giao hàng ko khá tốt,2,[3],"[""neutral""]",False
+hàng sách tốt nhưng thái độ người giao hàng ko tốt,3,[3],"[""neutral""]",False
+hàng sách tốt nhưng thái độ người thời gian giao hàng ko tốt,6,[3],"[""neutral""]",False
+hàng sách tốt nhưng thái độ người tốc độ giao hàng ko tốt,3,[3],"[""neutral""]",False
+hàng sách y như miêu tả,3,[3],"[""neutral""]",False
+"hàng trông nhỏ hơn kích thước minh tưởng tượng theo hình minh họa, nghĩ là phù hợp giá đã giảm",2,[3],"[""neutral""]",False
+hàng trông đẹp 4 sao vì giao hàng chậm,2,[3],"[""neutral""]",False
+hàng tạm ổn,2,"[3, 4]","[""neutral"", ""positive""]",True
+hàng tốt,2,[4],"[""positive""]",False
+"hàng tốt, nhưng thời gian giao hàng hơi lâu",2,[3],"[""neutral""]",False
+"hàng đúng chính hãng, mua đợt sale 10-10 giá 290k",2,[3],"[""neutral""]",False
+hàng đẹp,9,[4],"[""positive""]",False
+hàng đẹp 4 sao vì giao hàng chậm,2,[3],"[""neutral""]",False
+hàng đẹp 4 sao vì thời gian giao hàng chậm,4,[3],"[""neutral""]",False
+hàng đẹp 4 sao vì tốc độ giao hàng chậm,2,[3],"[""neutral""]",False
+"hàng đẹp, chất lượng tốt",2,[5],"[""positive""]",False
+hàng ở nước ngoài mà giao thiếu thì mình cũng chịu,2,[1],"[""negative""]",False
+hàng ở nước ngoài mà giao thiếu thì tôi cũng chịu,2,[1],"[""negative""]",False
+hơi khó khi lồng vào đệm,3,[2],"[""negative""]",False
+hủy sản phẩm rồi mà vẫn giao,2,[1],"[""negative""]",False
+hủy sản phẩm vẫn giao,2,[1],"[""negative""]",False
+k hài lòng,2,[2],"[""negative""]",False
+k nghe đc,2,"[1, 2]","[""negative""]",True
+k đúng với hình ảnh mình đã chọn,2,[2],"[""negative""]",False
+k đúng với hình ảnh tôi đã chọn,2,[2],"[""negative""]",False
+khá hài lòng,2,[4],"[""positive""]",False
+khá ưng chất và màu ga nhưng shop gửi sai khích thước mình đặt 1m8 mà shop gửi 1m6,2,[4],"[""positive""]",False
+khá ưng chất và màu ga nhưng shop gửi sai khích thước tôi đặt 1m8 mà shop gửi 1m6,2,[4],"[""positive""]",False
+không có gì để nói về ý tưởng của cửa sản phẩm,2,[1],"[""negative""]",False
+không có mic,2,[2],"[""negative""]",False
+không giống hình,3,[2],"[""negative""]",False
+không nghe được,2,[2],"[""negative""]",False
+không nên mua,2,"[1, 2]","[""negative""]",True
+không thích hình ảnh,3,[2],"[""negative""]",False
+không thể sử dụng trong cửa sản phẩm 3 *,2,[2],"[""negative""]",False
+ko có mic,2,[2],"[""negative""]",False
+ko nên mua,2,[1],"[""negative""]",False
+kí nhận hàng 0đ của khách k giao khiếu nại gần 1 tháng mới đến thời gian giao hàng,2,[1],"[""negative""]",False
+kệ nhìn đẹp,6,[4],"[""positive""]",False
+kệ rất đẹp,5,[5],"[""positive""]",False
+kệ sách chắc chắn,2,[4],"[""positive""]",False
+kệ sách nhìn đẹp,5,[4],"[""positive""]",False
+kệ sách đẹp,5,[4],"[""positive""]",False
+"kệ to, đẹp, chắc chắn, mua với giá 395k với kệ sách như này là cực kì hài lòng, lắp ráp rất đơn giản mình lắp tầm nửa tiếng là xong",2,[5],"[""positive""]",False
+kệ đẹp,7,[4],"[""positive""]",False
+kệ đẹp và chắc chắn,2,[5],"[""positive""]",False
+"kệ đẹp, chắc chắn",4,[5],"[""positive""]",False
+"kệ đẹp, dễ lắp ráp",5,"[4, 5]","[""positive""]",True
+"lắp ráp lắp ráp cũng dễ dàng nhưng lưu ý ốc vít bên hông sản phẩm làm mất mỹ quan, thời gian giao hàng đúng hẹn, đúng màu, một sản phẩm là 619k đồng.",2,[3],"[""neutral""]",False
+lỗi giao sản phẩm sản phẩm,2,[2],"[""negative""]",False
+lỗi thời gian giao hàng,2,[2],"[""negative""]",False
+lỗi thời gian giao hàng mẫu,2,[2],"[""negative""]",False
+lỗi thời gian giao hàng mẫu :)),2,[1],"[""negative""]",False
+"lỗi thời gian giao hàng mẫu, dịch vụ tốt",2,[1],"[""negative""]",False
+lỗi thời gian giao hàng sản phẩm,2,[2],"[""negative""]",False
+"mình cho 3 sao thôi vì mẫu27 ko giống hình cho lắm, giống màu vàng thôi còn hoạ tiết và màu hoa ko được như hình",2,[2],"[""negative""]",False
+"mình chỉ chấm 3 sao thôi, vì model27 nhìn không giống trong ảnh lắm, chỉ có màu vàng, họa tiết và hoa không như trong hình",2,[2],"[""negative""]",False
+mình giặc 2 3 lần ngâm comfor nhưng vẫn còn hắc,2,[2],"[""negative""]",False
+"mình không biết tất cả các mẫu 10 hoặc ntn, nhưng cửa sản phẩm cung cấp cho mình mẫu khác mà không cần hỏi",2,[3],"[""neutral""]",False
+mình không thích vì đã chọn mẫu khác nên không hiểu sao lại hiển thị,2,[3],"[""neutral""]",False
+mình muốn mua doremon lại gửi micky's cho mình :)),2,[1],"[""negative""]",False
+mình muốn mua doremon và gửi cho micky's :)),2,[1],"[""negative""]",False
+mình đặt 1 màu lại giao cho mình màu khác,2,[2],"[""negative""]",False
+mình đặt 2 mẫu m8 và 2 mẫu m6,2,[3],"[""neutral""]",False
+"mình đặt lần 2, lần 1 rất hợp",2,[4],"[""positive""]",False
+"mình đặt lần 2, lần thứ nhất rất vừa vận",2,[4],"[""positive""]",False
+"mình đọc kỹ mà thấy hơi buồn: ((((màu xám cuối cùng chuyển sang màu xanh, cửa sản phẩm có bán thêm chăn như thế này không?) dùng xong thấy vỏ gối bị hư, khóa lại",2,[2],"[""negative""]",False
+"nghe có vẻ hay hơn nhưng dây nguồn quá mỏng, dễ hư hỏng và thời gian giao hàng quá chậm nên sẽ bị trừ điểm",2,[2],"[""negative""]",False
+nghe hơi tệ,2,[2],"[""negative""]",False
+"nghe thì ngon nhưng vị dở, vải hơi ngứa, thời gian giao hàng lâu nhưng với giá này là đương nhiên 👍🏻",2,[2],"[""negative""]",False
+nghe tương đối ổn nhưng dây quá mỏng nên dễ bị hư và thời gian giao hàng quá chậm nên sẽ trừ điểm,2,[2],"[""negative""]",False
+"nghe ổn nhưng mùi hắc, dây vải chạm vào người hơi ngứa, thời gian giao hàng lâu nhưng với giá này chất lượng vậy là đương nhiên 👍🏻",2,[2],"[""negative""]",False
+"nhiều sản phẩm lỗi, kém chất lượng, thời gian giao hàng nhanh chóng",2,[2],"[""negative""]",False
+nhân viên thời gian giao hàng cục súc hàng thì coi trên mẫu là nó có cái cục âm thanh nhưng đặc hàng giao ra thì hk có🙁hơi thất vọng 1 chút xíu 🤦,2,[1],"[""negative""]",False
+nhìn đẹp,14,[4],"[""positive""]",False
+nhìn đẹp như hình,2,[4],"[""positive""]",False
+"như giá bình thường, sản phẩm chất lượng",2,[3],"[""neutral""]",False
+nhưng những gì mình muốn không phải là một món sản phẩm sai,2,[3],"[""neutral""]",False
+nhưng những gì tôi muốn không phải là một món sản phẩm sai,2,[3],"[""neutral""]",False
+nhưng điều không như mình muốn đó là nhầm sản phẩm,2,[3],"[""neutral""]",False
+nhưng điều không như tôi muốn đó là nhầm sản phẩm,2,[3],"[""neutral""]",False
+nhận giao sản phẩm,2,[3],"[""neutral""]",False
+"nhận sản phẩm, sản phẩm như trong hình",2,[3],"[""neutral""]",False
+nhận thời gian giao hàng,2,[3],"[""neutral""]",False
+những gì bạn đã trả,2,[3],"[""neutral""]",False
+này giống sản phẩm bị lỗi hay sao đó,2,[2],"[""negative""]",False
+ok,12,"[3, 4]","[""neutral"", ""positive""]",True
+oke trong tầm giá,2,[3],"[""neutral""]",False
+oke với giá tiền,2,[3],"[""neutral""]",False
+quá tuyệt vời,4,[5],"[""positive""]",False
+quá tệ,5,[1],"[""negative""]",False
+rất hài lòng,12,[5],"[""positive""]",False
+rất hài lòng về sản phẩm,2,[5],"[""positive""]",False
+rất hài lòng với sản phẩm,2,[5],"[""positive""]",False
+rất ok,3,[5],"[""positive""]",False
+rất tốt,4,[5],"[""positive""]",False
+rất đẹp,6,[5],"[""positive""]",False
+rất ưng ý,2,[5],"[""positive""]",False
+rẻ,2,[4],"[""positive""]",False
+sp chắc chắn,2,[4],"[""positive""]",False
+"sp khá tốt , nhưng thời gian giao hàng hơi lâu",2,[3],"[""neutral""]",False
+sp ok,4,[4],"[""positive""]",False
+sp sách khá tốt nhưng thái độ người giao hàng ko khá tốt,2,[3],"[""neutral""]",False
+sp sách khá tốt nhưng thái độ người thời gian giao hàng ko khá tốt,4,[3],"[""neutral""]",False
+sp sách khá tốt nhưng thái độ người tốc độ giao hàng ko khá tốt,2,[3],"[""neutral""]",False
+sp sách tốt nhưng thái độ người giao hàng ko tốt,2,[3],"[""neutral""]",False
+sp sách tốt nhưng thái độ người thời gian giao hàng ko tốt,4,[3],"[""neutral""]",False
+sp sách tốt nhưng thái độ người tốc độ giao hàng ko tốt,2,[3],"[""neutral""]",False
+"sp trông nhỏ hơn kích thước minh tưởng tượng theo hình minh họa, nghĩ là phù hợp giá đã giảm",2,[3],"[""neutral""]",False
+sp trông đẹp 4 sao vì giao hàng chậm,2,[3],"[""neutral""]",False
+sp tốt,7,[4],"[""positive""]",False
+sp tốt nhưng thời gian thời gian giao hàng hơi lâu,2,[3],"[""neutral""]",False
+"sp tốt, nhưng giao hàng hơi lâu",2,[3],"[""neutral""]",False
+"sp tốt, nhưng thời gian giao hàng hơi lâu",4,[3],"[""neutral""]",False
+"sp tốt, nhưng tốc độ giao hàng hơi lâu",2,[3],"[""neutral""]",False
+sp y hình,2,[3],"[""neutral""]",False
+sp đóng gói cẩn thận,2,[4],"[""positive""]",False
+sp đẹp,4,[4],"[""positive""]",False
+sp đẹp 4 sao vì giao hàng chậm,2,[3],"[""neutral""]",False
+sp đẹp 4 sao vì thời gian giao hàng chậm,4,[3],"[""neutral""]",False
+sp đẹp 4 sao vì tốc độ giao hàng chậm,2,[3],"[""neutral""]",False
+"sản phẩm bị lỗi nhiều,chất lượng kém,thời gian giao hàng nhanh",2,[2],"[""negative""]",False
+sản phẩm chính hãng,2,[3],"[""neutral""]",False
+"sản phẩm chất liệu kém, nhanh rách, đường may ẩu",2,[1],"[""negative""]",False
+"sản phẩm chất lượng giữ nhiệt rất tốt mình đánh giá 5 sao cho sản phẩm, nhưng dịch vụ giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",3,[3],"[""neutral""]",False
+"sản phẩm chất lượng giữ nhiệt rất tốt mình đánh giá 5 sao cho sản phẩm, nhưng dịch vụ thời gian giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin thời gian giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",2,[3],"[""neutral""]",False
+"sản phẩm chất lượng giữ nhiệt rất tốt mình đánh giá 5 sao cho sản phẩm, nhưng dịch vụ tốc độ giao hàng bên tiki thật sự mình không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin tốc độ giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",2,[3],"[""neutral""]",False
+"sản phẩm chất lượng giữ nhiệt rất tốt tôi đánh giá 5 sao cho sản phẩm, nhưng dịch vụ thời gian giao hàng bên tiki thật sự tôi không hài lòng, order hôm 22/5 tiki cfm giao 27/5 mà ko giao, sau đó nhắn tin thời gian giao hàng ngày 29/5 nhưng cũng ko giao và ko nhắn tin báo lại",2,[3],"[""neutral""]",False
+sản phẩm chắc chắn,2,[4],"[""positive""]",False
+sản phẩm cũng trông đẹp ok,2,[4],"[""positive""]",False
+sản phẩm cũng đẹp ok,2,[4],"[""positive""]",False
+sản phẩm dùng oke,2,[3],"[""neutral""]",False
+sản phẩm giữ nhiệt tốt nhưng quai bị lỗi rồi,2,[3],"[""neutral""]",False
+"sản phẩm giữ nhiệt tốt, tuy nhiên ngoại hình có 1 vết (giống vết sơn) không thể gỡ ra -> tuy không ảnh hưởng đến chức năng của bình nhưng sản phẩm không hoàn thiện tốt ngoại hình nên mình chỉ cho 4 sao",2,[3],"[""neutral""]",False
+"sản phẩm hiện giờ dùng tạm ổn, về lâu dài thì chưa biết sao",3,[3],"[""neutral""]",False
+"sản phẩm khá tốt , nhưng giao hàng hơi lâu",2,[3],"[""neutral""]",False
+"sản phẩm khá tốt , nhưng thời gian giao hàng hơi lâu",4,[3],"[""neutral""]",False
+"sản phẩm khá tốt , nhưng tốc độ giao hàng hơi lâu",2,[3],"[""neutral""]",False
+sản phẩm khác mẫu mình mong muốn nhưng mình vẫn nhận và yêu cầu cửa sản phẩm đổi sản phẩm cho mình nhưng cửa sản phẩm không phản hồi lại cho mình nhé!,2,[1],"[""negative""]",False
+sản phẩm khác mẫu tôi mong muốn nhưng tôi vẫn nhận và yêu cầu cửa sản phẩm đổi sản phẩm cho tôi nhưng cửa sản phẩm không phản hồi lại cho tôi nhé!,2,[1],"[""negative""]",False
+"sản phẩm không giống mẫu mình muốn, nhưng mình vẫn nhận, và bảo shop đổi cho mình mà shop không trả lời mình lun vl !",2,[1],"[""negative""]",False
+"sản phẩm không giống mẫu tôi muốn, nhưng tôi vẫn nhận, và bảo shop đổi cho tôi mà shop không trả lời tôi lun vl !",2,[1],"[""negative""]",False
+sản phẩm ko giống như lần trc đặt,2,[3],"[""neutral""]",False
+sản phẩm lỗi,2,[2],"[""negative""]",False
+sản phẩm nhìn đẹp,3,[4],"[""positive""]",False
+"sản phẩm như giá, chất lượng bình thường",2,[3],"[""neutral""]",False
+sản phẩm như hình,2,[3],"[""neutral""]",False
+sản phẩm ok,8,[4],"[""positive""]",False
+sản phẩm ok nhưng cửa sản phẩm không trả lời tin nhắn của khách,2,[3],"[""neutral""]",False
+sản phẩm ok nhưng shop không trả lời tin nhắn của khách sản phẩm,2,[3],"[""neutral""]",False
+"sản phẩm phù hợp với giá tiền nhưng cửa sản phẩm hết sản phẩm, đổi mẫu tự ý không báo trước (cửa sản phẩm nói gọi điện thì không liên lạc được, nhắn tin qua shopee vẫn được bạn nhé)",2,[2],"[""negative""]",False
+"sản phẩm phù hợp với giá tiền, tuy nhiên shop hết sản phẩm tự ý đổi mẫu của mình mà không báo trước (shop có bảo là gọi điện thoại cho mình mà không liên lạc được, nhưng mà vẫn có thể nhắn tin qua shopee cho mình mà?) nên mình chỉ cho 3 sao thôi! shop rút kinh nghiệm nhé",2,[2],"[""negative""]",False
+"sản phẩm phù hợp với giá tiền, tuy nhiên shop hết sản phẩm tự ý đổi mẫu của tôi mà không báo trước (shop có bảo là gọi điện thoại cho tôi mà không liên lạc được, nhưng mà vẫn có thể nhắn tin qua shopee cho tôi mà?) nên tôi chỉ cho 3 sao thôi! shop rút kinh nghiệm nhé",2,[2],"[""negative""]",False
+sản phẩm quá tệ,3,[1],"[""negative""]",False
+sản phẩm quá tệ mới thời gian giao hàng và bỏ lên giường thì đã thấy rách như thế này,2,[1],"[""negative""]",False
+sản phẩm rất ok,3,[5],"[""positive""]",False
+sản phẩm rất tốt,5,[5],"[""positive""]",False
+"sản phẩm sai giao mẫu, mua cái mẫu rõ đẹp rõ sang xong thời gian giao hàng về là 1 cái mẫu cho trẻ con, chú shipper và khá cọc cằn, nói chuyện qua điện thoại hay ship đến cũng nói chuyện rất khó chịu",2,[1],"[""negative""]",False
+"sản phẩm sai giao mẫu, đặt cái mẫu rõ đẹp rõ sang xong thời gian giao hàng về là 1 cái mẫu cho trẻ con, chú shipper và khá cọc cằn, nói chuyện qua điện thoại hay ship đến cũng nói chuyện rất khó chịu",2,[1],"[""negative""]",False
+sản phẩm sách khá tốt nhưng thái độ người giao hàng ko khá tốt,2,[3],"[""neutral""]",False
+sản phẩm sách khá tốt nhưng thái độ người thời gian giao hàng ko khá tốt,4,[3],"[""neutral""]",False
+sản phẩm sách khá tốt nhưng thái độ người tốc độ giao hàng ko khá tốt,2,[3],"[""neutral""]",False
+sản phẩm sách tốt nhưng thái độ người giao hàng ko tốt,2,[3],"[""neutral""]",False
+sản phẩm sách tốt nhưng thái độ người thời gian giao hàng ko tốt,4,[3],"[""neutral""]",False
+sản phẩm sách tốt nhưng thái độ người tốc độ giao hàng ko tốt,2,[3],"[""neutral""]",False
+sản phẩm trông đẹp 4 sao vì giao hàng chậm,3,[3],"[""neutral""]",False
+sản phẩm tạm được và cửa sản phẩm giao nhầm sản phẩm so với đơn sản phẩm,2,[2],"[""negative""]",False
+"sản phẩm tạm được, shop giao sai sản phẩm so với order",2,[2],"[""negative""]",False
+sản phẩm tốt,15,[4],"[""positive""]",False
+sản phẩm tốt nhưng thời gian thời gian giao hàng hơi lâu,2,[3],"[""neutral""]",False
+"sản phẩm tốt, chất liệu hơi cứng",2,[2],"[""negative""]",False
+"sản phẩm tốt, nhưng giao hàng hơi lâu",2,[3],"[""neutral""]",False
+"sản phẩm tốt, nhưng thời gian giao hàng hơi lâu",4,[3],"[""neutral""]",False
+"sản phẩm tốt, nhưng tốc độ giao hàng hơi lâu",2,[3],"[""neutral""]",False
+"sản phẩm tốt, đẹp",2,[5],"[""positive""]",False
+sản phẩm đóng gói cẩn thận,2,[4],"[""positive""]",False
+sản phẩm đóng gói trông đẹp nhưng giao hơi lâu,2,[3],"[""neutral""]",False
+sản phẩm đóng gói đẹp nhưng giao hơi lâu,2,[3],"[""neutral""]",False
+sản phẩm đẹp,3,[4],"[""positive""]",False
+sản phẩm đẹp 4 sao vì giao hàng chậm,3,[3],"[""neutral""]",False
+sản phẩm đẹp 4 sao vì thời gian giao hàng chậm,6,[3],"[""neutral""]",False
+sản phẩm đẹp 4 sao vì tốc độ giao hàng chậm,3,[3],"[""neutral""]",False
+sản phẩm đẹp bốn sao vì thời gian giao hàng chậm,2,[3],"[""neutral""]",False
+sản phẩm đẹp hơn mong đợi,2,[5],"[""positive""]",False
+"sản phẩm đẹp, chất lượng",2,[5],"[""positive""]",False
+"sản phẩm đẹp, dễ lắp ráp",2,[5],"[""positive""]",False
+"sản phẩm ổn, chất hơi cứng",2,[2],"[""negative""]",False
+"tai nghe sử dụng tốt, to thời gian giao hàng nhanh và chắc chắn, đáng tiên",2,[5],"[""positive""]",False
+thất vọng,3,[1],"[""negative""]",False
+thấy hài lòng với sản phẩm,4,[4],"[""positive""]",False
+thật thất vọng,2,[1],"[""negative""]",False
+thời gian giao hàng chậm,6,[2],"[""negative""]",False
+"thời gian giao hàng chậm, màu k như hình",2,[1],"[""negative""]",False
+"thời gian giao hàng hơi chậm, hàng tạm ổn, có nút tạm dừng bị hỏng, đóng gói cẩn thận",2,[2],"[""negative""]",False
+thời gian giao hàng hơi lâu,2,[2],"[""negative""]",False
+"thời gian giao hàng hơi lâu, một bên tai nghe không nghe được gì hết ,",2,[1],"[""negative""]",False
+"thời gian giao hàng k đúng màu, mua lõi gối trong vỏ gối",2,[1],"[""negative""]",False
+thời gian giao hàng k đúng mẫu,2,[2],"[""negative""]",False
+thời gian giao hàng k đúng mẫu shop k có trach nhiệm đổi,2,[2],"[""negative""]",False
+"thời gian giao hàng khá lâu, tai nghe thì tiếng cứ bị gì ấy, nói hàng dở thật nghe ko sướng chút nào",2,[1],"[""negative""]",False
+thời gian giao hàng không có trên mô hình đã chọn,2,[2],"[""negative""]",False
+thời gian giao hàng không đúng,4,[2],"[""negative""]",False
+"thời gian giao hàng không đúng cách, vải dính, rất kém",2,[1],"[""negative""]",False
+thời gian giao hàng không đúng mẫu đã chọn,2,[2],"[""negative""]",False
+thời gian giao hàng không đúng mẫu đơn mua hàng?,2,[2],"[""negative""]",False
+thời gian giao hàng không đúng mẫu đơn đặt hàng?,2,[2],"[""negative""]",False
+thời gian giao hàng không đúng với mẫu mua?,2,[2],"[""negative""]",False
+thời gian giao hàng không đúng với mẫu đặt?,2,[2],"[""negative""]",False
+thời gian giao hàng không đúng đơn hàng m8 _2m mà m6_m8 thời gian giao hàng có ntin mà cửa hàng ko trả lời,2,[1],"[""negative""]",False
+thời gian giao hàng không đúng đơn mua m8 _2m nhưng giao m6_m8 đã ntin mà shop không trả lời,2,[1],"[""negative""]",False
+thời gian giao hàng không đúng đơn đặt m8 _2m nhưng giao m6_m8 đã ntin mà shop không trả lời,2,[1],"[""negative""]",False
+thời gian giao hàng lâu,2,[2],"[""negative""]",False
+"thời gian giao hàng lâu , giao thiếu hàng , chất lượng sài ổn",2,[2],"[""negative""]",False
+thời gian giao hàng lâu có nửa tháng mới nhận được,2,[2],"[""negative""]",False
+thời gian giao hàng lâu đến tận hai tuần mà tai nghe cũng ổn tàm tạm giá cả phù hợp với chất âm cho 3 sao,2,[2],"[""negative""]",False
+"thời gian giao hàng lâu, loa maximum mà nghe nhỏ quá",2,[2],"[""negative""]",False
+thời gian giao hàng nhanh,20,[4],"[""positive""]",False
+"thời gian giao hàng nhanh chóng, chất liệu ổn, nhưng mẫu đơn đặt hàng bị sai",2,[4],"[""positive""]",False
+"thời gian giao hàng nhanh chóng, sản phẩm ngon tại cửa hàng, khuyến mãi dịch vụ tốt",2,[5],"[""positive""]",False
+"thời gian giao hàng nhanh chóng, sản phẩm ngon và dịch vụ tốt",2,[5],"[""positive""]",False
+"thời gian giao hàng nhanh chóng, đúng mẫu, đúng loại, hình ảnh đẹp",2,[4],"[""positive""]",False
+thời gian giao hàng nhanh sản phẩm ngon shop phục vụ rất tốt khuyến mãi nhiều,2,[5],"[""positive""]",False
+thời gian giao hàng nhanh sản phẩm ngon shop phục vụ tốt,2,[5],"[""positive""]",False
+"thời gian giao hàng nhanh, chất liệu ok, chỉ là giao sai mẫu đặt thôi",2,[4],"[""positive""]",False
+"thời gian giao hàng nhanh, chất lượng bình thường, đường may sơ sài, mua 5 cái quần thì shop gửi 1 cái bị ố vàng, lần sau shop nên chú ý kiểm tra trước khi thời gian giao hàng cho khách",2,[2],"[""negative""]",False
+"thời gian giao hàng nhanh, ok",2,[4],"[""positive""]",False
+"thời gian giao hàng nhanh, đóng gói ổn",2,[4],"[""positive""]",False
+thời gian giao hàng nửa tháng mới nhận được,2,[2],"[""negative""]",False
+thời gian giao hàng quá chậm,2,[1],"[""negative""]",False
+"thời gian giao hàng quá chậm, quá đẹp, và chắc chắn sẽ như vậy,",2,[3],"[""neutral""]",False
+"thời gian giao hàng quá chậm, tất nhiên là tủ tốt,",2,[3],"[""neutral""]",False
+thời gian giao hàng quá lâu hàng bị trầy sướt nghe thì ổn nhưng cấm vào nghe nó rè rè sao đâu ấy chắc tui nghĩ ko đúng dòng máy của nó tui sài oppo f11,2,[2],"[""negative""]",False
+thời gian giao hàng quá muộn,4,[1],"[""negative""]",False
+thời gian giao hàng sai,2,[2],"[""negative""]",False
+"thời gian giao hàng sai mẫu, dịch vụ k tốt",2,[1],"[""negative""]",False
+"thời gian giao hàng sau tầm 1 tuần đặt như ghi trong mô tả, gói hàng ok, cơ mà trừ vì chất lượng maybe phù hợp vs giá tiền thôi ==, nghe rất chán , xoay chân tai nghe thì nhạc cx cứ dừng vs tiếp, khó chịu",2,[2],"[""negative""]",False
+"thời gian giao hàng sau tầm 1 tuần đặt như ghi trong mô tả, gói hàng tốt, cơ mà trừ vì chất lượng maybe phù hợp vs giá tiền thôi ==, nghe rất chán , xoay chân tai nghe thì nhạc cx cứ dừng vs tiếp, khó chịu",2,[2],"[""negative""]",False
+thời gian giao hàng thì chậm,2,[2],"[""negative""]",False
+thời gian giao hàng đúng hẹn,3,"[3, 4]","[""neutral"", ""positive""]",True
+thời gian giao hàng đúng loại,2,[3],"[""neutral""]",False
+"thời gian thời gian giao hàng chậm thê thảm,dây nhựa xoắn bọc,chất lượng bình thường,độ bền phải dùng mới biết",2,[2],"[""negative""]",False
+thời gian thời gian giao hàng dài,2,[2],"[""negative""]",False
+"thời gian thời gian giao hàng lâu, đầu tai nghe 1 bên miếng giảm ồn màu bạc bị long",2,[1],"[""negative""]",False
+thời gian thời gian giao hàng nhanh tôi sẽ ủng hộ shop lần sau,2,[4],"[""positive""]",False
+tiki giao hàng nhanh,2,[4],"[""positive""]",False
+tiki giao hàng đúng hẹn,3,"[3, 4]","[""neutral"", ""positive""]",True
+tiki thời gian giao hàng nhanh,2,[4],"[""positive""]",False
+tiền nào của lấy,2,"[1, 3]","[""negative"", ""neutral""]",True
+tiền nào của nấy,2,[3],"[""neutral""]",False
+tiền nào của đó,3,[3],"[""neutral""]",False
+treo đầu dê bán thịt chó,2,[1],"[""negative""]",False
+tuyệt vời,4,[5],"[""positive""]",False
+"tôi cho 3 sao thôi vì mẫu27 ko giống hình cho lắm, giống màu vàng thôi còn hoạ tiết và màu hoa ko được như hình",2,[2],"[""negative""]",False
+"tôi chưa nhận được hàng, nhưng vấn đề là thời gian giao hàng có thành công không? ? ?",2,[1],"[""negative""]",False
+"tôi chỉ chấm 3 sao thôi, vì model27 nhìn không giống trong ảnh lắm, chỉ có màu vàng, họa tiết và hoa không như trong hình",2,[2],"[""negative""]",False
+tôi giặc 2 3 lần ngâm comfor nhưng vẫn còn hắc,2,[2],"[""negative""]",False
+"tôi không biết tất cả các mẫu 10 hoặc ntn, nhưng cửa sản phẩm cung cấp cho tôi mẫu khác mà không cần hỏi",2,[3],"[""neutral""]",False
+tôi không thích vì đã chọn mẫu khác nên không hiểu sao lại hiển thị,2,[3],"[""neutral""]",False
+tôi muốn mua doremon lại gửi micky's cho tôi :)),2,[1],"[""negative""]",False
+tôi muốn mua doremon và gửi cho micky's :)),2,[1],"[""negative""]",False
+tôi đặt 1 màu lại giao cho tôi màu khác,2,[2],"[""negative""]",False
+tôi đặt 2 mẫu m8 và 2 mẫu m6,2,[3],"[""neutral""]",False
+"tôi đặt lần 2, lần 1 rất hợp",2,[4],"[""positive""]",False
+"tôi đặt lần 2, lần thứ nhất rất vừa vận",2,[4],"[""positive""]",False
+"tôi đọc kỹ mà thấy hơi buồn: ((((màu xám cuối cùng chuyển sang màu xanh, cửa sản phẩm có bán thêm chăn như thế này không?) dùng xong thấy vỏ gối bị hư, khóa lại",2,"[1, 2]","[""negative""]",True
+"tại nghe đc nhưng mà shop nhắn mãi mà ko thấy hồi âm ,thời gian giao hàng lâu",2,[2],"[""negative""]",False
+tạm,2,[3],"[""neutral""]",False
+tạm được,7,[3],"[""neutral""]",False
+tạm ổn,2,[3],"[""neutral""]",False
+"tất cả hàng đã được giao, thời gian này tốc độ thời gian giao hàng là khá nhanh",2,[4],"[""positive""]",False
+"tất cả sản phẩm đã được giao, thời gian này tốc độ giao sản phẩm là khá nhanh",2,[4],"[""positive""]",False
+tận ngoài hn hôg lẻ có 1 bộ sai e phải gửi ra gửi vào nên hi vọg shop rút kinh nghiệm cho những khách sản phẩm sau,2,[3],"[""neutral""]",False
+tệ,4,[2],"[""negative""]",False
+tốc độ giao hàng chậm,3,[2],"[""negative""]",False
+"tốc độ giao hàng chậm, màu k như hình",2,[1],"[""negative""]",False
+tốc độ giao hàng không đúng,2,[2],"[""negative""]",False
+tốc độ giao hàng nhanh,3,[4],"[""positive""]",False
+tốc độ giao hàng quá muộn,2,[1],"[""negative""]",False
+"tốc độ giao sản phẩm chậm, màu k như hình",2,[1],"[""negative""]",False
+"tốc độ thời gian giao hàng chậm, màu k như hình",2,[1],"[""negative""]",False
+"tốc độ thời gian giao hàng quá chậm, sản phẩm đẹp, chắc chắn rằng",2,[3],"[""neutral""]",False
+tốt,14,[4],"[""positive""]",False
+"tủ khá tốt , nhưng giao hàng hơi lâu",2,[3],"[""neutral""]",False
+"tủ khá tốt , nhưng thời gian giao hàng hơi lâu",4,[3],"[""neutral""]",False
+"tủ khá tốt , nhưng tốc độ giao hàng hơi lâu",2,[3],"[""neutral""]",False
+tủ nhìn đẹp,2,[4],"[""positive""]",False
+tủ sách khá tốt nhưng thái độ người giao hàng ko khá tốt,2,[3],"[""neutral""]",False
+tủ sách khá tốt nhưng thái độ người thời gian giao hàng ko khá tốt,4,[3],"[""neutral""]",False
+tủ sách khá tốt nhưng thái độ người tốc độ giao hàng ko khá tốt,2,[3],"[""neutral""]",False
+tủ sách tốt nhưng người thời gian giao hàng không tốt,2,[3],"[""neutral""]",False
+tủ sách tốt nhưng thái độ người giao hàng ko tốt,2,[3],"[""neutral""]",False
+tủ sách tốt nhưng thái độ người thời gian giao hàng ko tốt,4,[3],"[""neutral""]",False
+tủ sách tốt nhưng thái độ người tốc độ giao hàng ko tốt,2,[3],"[""neutral""]",False
+tủ trông đẹp 4 sao vì giao hàng chậm,2,[3],"[""neutral""]",False
+tủ tốt nhưng thời gian thời gian giao hàng hơi lâu,2,[3],"[""neutral""]",False
+"tủ tốt, nhưng giao hàng hơi lâu",2,[3],"[""neutral""]",False
+"tủ tốt, nhưng thời gian giao hàng hơi lâu",4,[3],"[""neutral""]",False
+"tủ tốt, nhưng tốc độ giao hàng hơi lâu",2,[3],"[""neutral""]",False
+tủ đẹp,2,[4],"[""positive""]",False
+tủ đẹp 4 sao vì giao hàng chậm,2,[3],"[""neutral""]",False
+tủ đẹp 4 sao vì thời gian giao hàng chậm,4,[3],"[""neutral""]",False
+tủ đẹp 4 sao vì tốc độ giao hàng chậm,2,[3],"[""neutral""]",False
+tủ đẹp nên cho 4 sao vì thời gian giao hàng chậm,2,[3],"[""neutral""]",False
+"việc lắp ráp sản phẩm cũng rất dễ dàng, tuy nhiên cần lưu ý những con vít bên hông sản phẩm, những con vít này sẽ làm mất mỹ quan và không được thời gian giao hàng không đúng thời gian, màu sắc phù hợp với 619k vnđ 1 sản phẩm.",2,[3],"[""neutral""]",False
+"vì nghe nói nhưng cửa hàng nhắn tin liên tục nhưng không thấy hồi âm, thời gian thời gian giao hàng lâu",2,[2],"[""negative""]",False
+"vải kém, co giãn kém, dễ tuột, thời gian thời gian giao hàng lâu, sai thông tin liên hệ cửa hàng, không ai trả lời",2,[1],"[""negative""]",False
+"vải xấu, bo chun ngắn dễ tuột, thời gian giao hàng lâu, shop giao sai mã liên hệ lại không trả lời 🙄",2,[1],"[""negative""]",False
+xem kỉ sản phẩm r hẳn gửi cho khách,2,[2],"[""negative""]",False
+xứng đáng với giá tiền mình mua sale ship luôn là 75k ạ!! cũng ok lắm,2,[5],"[""positive""]",False
+xứng đáng với giá tiền tôi mua sale ship luôn là 75k ạ!! cũng ok lắm,2,[5],"[""positive""]",False
+âm thanh hơi rè,2,[2],"[""negative""]",False
+"đã kí gửi khách k phàn nàn thời gian giao hàng 0đ, gần 1 tháng mới thời gian giao hàng",2,[1],"[""negative""]",False
+"đã nhận hàng, thời gian giao hàng nhanh chóng, không hài lòng năm nak",2,[3],"[""neutral""]",False
+"đã nhận sản phẩm, giao sản phẩm nhanh chóng, không hài lòng năm nak",2,[3],"[""neutral""]",False
+"đã nhận được hàng rồi, thời gian giao hàng nhanh chóng, k dc ưng cho lăm nak",2,[3],"[""neutral""]",False
+"đã nhận được sản phẩm rồi, giao sản phẩm nhanh chóng, k dc ưng cho lăm nak",2,[3],"[""neutral""]",False
+"đã nhận được sản phẩm, sản phẩm như hình",2,[3],"[""neutral""]",False
+đó là khủng khiếp,4,[1],"[""negative""]",False
+đóng gói chắc chắn,2,[4],"[""positive""]",False
+đóng gói cẩn thận,2,[4],"[""positive""]",False
+đóng gói kỹ giao sản phẩm nhanh chóng nhưng chất liệu không làm cotton nên rất nóng,2,[3],"[""neutral""]",False
+đóng gói kỹ thời gian giao hàng nhanh chóng nhưng chất liệu không làm cotton nên rất nóng,2,[3],"[""neutral""]",False
+đóng gói ok,2,[4],"[""positive""]",False
+đóng gói tốt,2,[4],"[""positive""]",False
+"đóng gói tốt, nhưng giao sản phẩm ít",2,[3],"[""neutral""]",False
+"đóng gói tốt, nhưng thời gian giao hàng ít",2,[3],"[""neutral""]",False
+"đúng nghĩa tiền nào của đó, mỏng tanh, hình và nhận đc khá nhau hoàn toàn nha mấy má, ham rẻ thì chịu giống mình, hình loại 1 nhận loại 10 , nảy giặt 1 nước bay hết màu, haizzz",2,[1],"[""negative""]",False
+"đúng nghĩa tiền nào của đó, mỏng tanh, hình và nhận đc khá nhau hoàn toàn nha mấy má, ham rẻ thì chịu giống tôi, hình loại 1 nhận loại 10 , nảy giặt 1 nước bay hết màu, haizzz",2,[1],"[""negative""]",False
+được đóng gói đúng quy cách và có thể giao sản phẩm nhanh chóng nhưng chất liệu này không thể thành cotton nên rất nóng,2,[3],"[""neutral""]",False
+được đóng gói đúng quy cách và có thể thời gian giao hàng nhanh chóng nhưng chất liệu này không thể thành cotton nên rất nóng,2,[3],"[""neutral""]",False
+đắt hơn 20k mặc dù chất y hệt thế so với bộ mình mua ở 1 shop khác :)) và các mẫu cũng ít lựa chọn hơn nữa nếu k muốn nói toàn mẫu xấu,2,[1],"[""negative""]",False
+đắt hơn 20k mặc dù chất y hệt thế so với bộ tôi mua ở 1 shop khác :)) và các mẫu cũng ít lựa chọn hơn nữa nếu k muốn nói toàn mẫu xấu,2,[1],"[""negative""]",False
+"đặt mẫu 1,8m x2m mà gắn vào đêm 1,8m *2m ko vừa ga thì rất hôi sản phẩm đúng màu nhưng chỉ làm được dẻ lau rồi",2,[1],"[""negative""]",False
+"đặt mẫu số 4 trong hình, phần trên màu xám, nhưng giao sản phẩm màu xanh, phần chỉ cắt không gọn gàng, nhìn thô, biết bao nhiêu tiền, nhưng cửa sản phẩm nên cẩn thận hơn",2,[1],"[""negative""]",False
+"đặt mẫu số 4 trong hình, phần trên màu xám, nhưng thời gian giao hàng màu xanh, phần chỉ cắt không gọn gàng, nhìn thô, biết bao nhiêu tiền, nhưng cửa hàng nên cẩn thận hơn",2,[1],"[""negative""]",False
+đẹp,14,[4],"[""positive""]",False
+đẹp lắm,2,[5],"[""positive""]",False
+đẹp như hình,2,[4],"[""positive""]",False
+"đẹp, chắc chắn",2,[5],"[""positive""]",False
+"đẹp, tốt",2,[5],"[""positive""]",False
+ổn,2,[3],"[""neutral""]",False
+ổn trong tầm giá,3,[3],"[""neutral""]",False
+ổn với giá tiền,2,[3],"[""neutral""]",False

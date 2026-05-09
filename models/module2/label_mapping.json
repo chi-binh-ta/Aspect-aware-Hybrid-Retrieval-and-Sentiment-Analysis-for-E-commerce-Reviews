@@ -1,0 +1,28 @@
+{
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "label_to_id": {
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2
+  },
+  "id_to_label": {
+    "0": "negative",
+    "1": "neutral",
+    "2": "positive"
+  },
+  "best_model_by_valid_macro_f1": "linear_svm",
+  "best_model_candidate_id": "linear_svm_021",
+  "best_model_params": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 1,
+    "C": 1.0,
+    "class_weight": null
+  }
+}
