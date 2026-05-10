@@ -15,3 +15,5 @@ pyarrow
 rank-bm25
 pytest
 httpx
+streamlit
+localtunnel
