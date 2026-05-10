@@ -3,10 +3,5 @@ set -euo pipefail
 
 cd "$(dirname "$0")/.."
 
-echo "[module4] Running safe demo/evaluation path only."
-echo "[module4] Existing Module 4 corpus and FAISS index are reused; no rebuild is performed."
-echo "[module4] To rebuild intentionally, run scripts/rebuild_module4_index.sh."
-
 python src/module4_retrieve.py --query "khach hang phan nan gi ve giao hang?" --top_k 5 --sentiment negative
 python src/module4_rag_pipeline.py --query "Khach hang phan nan gi nhieu nhat ve chat luong san pham?" --top_k 5 --sentiment negative
-python src/module4_evaluate.py

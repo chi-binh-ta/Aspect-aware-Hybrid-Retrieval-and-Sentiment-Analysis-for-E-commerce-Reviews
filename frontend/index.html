@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Vietnamese E-commerce Review Intelligence</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">Vietnamese E-commerce Review Intelligence</p>
+        <h1>Review Intelligence Dashboard</h1>
+        <p class="subtitle">
+          Phân tích sentiment, khám phá review và hỏi đáp dựa trên bằng chứng truy xuất.
+        </p>
+      </div>
+      <div class="status-pill" id="api-status">Đang kiểm tra API...</div>
+    </header>
+
+    <main>
+      <section class="summary-grid" id="summary-cards"></section>
+      <section class="warning-box hidden" id="warning-box"></section>
+
+      <section class="layout-two">
+        <div class="panel">
+          <div class="panel-header">
+            <h2>Phân bố sentiment</h2>
+          </div>
+          <div id="sentiment-bars" class="bars"></div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-header">
+            <h2>Top vấn đề cần chú ý</h2>
+            <button id="refresh-issues" class="secondary-btn">Làm mới</button>
+          </div>
+          <div id="issues-list" class="issue-list"></div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Insight Assistant</h2>
+          <span class="muted">Câu trả lời luôn hiển thị confidence và review bằng chứng.</span>
+        </div>
+        <div class="chips" id="question-chips"></div>
+        <div class="rag-box">
+          <textarea id="rag-query" rows="3" placeholder="Ví dụ: Khách hàng phàn nàn gì nhiều nhất?"></textarea>
+          <div class="rag-controls">
+            <select id="rag-sentiment">
+              <option value="">Mọi sentiment</option>
+              <option value="negative">Negative</option>
+              <option value="neutral">Neutral</option>
+              <option value="positive">Positive</option>
+            </select>
+            <button id="ask-rag">Hỏi assistant</button>
+          </div>
+        </div>
+        <div id="rag-output" class="rag-output"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Review Explorer</h2>
+          <span class="muted">Tìm review gốc để kiểm chứng bằng chứng.</span>
+        </div>
+        <div class="filters">
+          <input id="search-q" type="search" placeholder="Từ khóa: giao hàng, đóng gói, sai size..." />
+          <select id="filter-sentiment">
+            <option value="">Sentiment</option>
+            <option value="negative">Negative</option>
+            <option value="neutral">Neutral</option>
+            <option value="positive">Positive</option>
+          </select>
+          <select id="filter-rating-min">
+            <option value="">Rating tối thiểu</option>
+            <option value="1">1 sao</option>
+            <option value="2">2 sao</option>
+            <option value="3">3 sao</option>
+            <option value="4">4 sao</option>
+            <option value="5">5 sao</option>
+          </select>
+          <select id="filter-category">
+            <option value="">Danh mục</option>
+          </select>
+          <input id="filter-product" type="search" placeholder="Tên/mã sản phẩm" />
+          <button id="search-reviews">Tìm review</button>
+        </div>
+        <div id="review-results" class="review-results"></div>
+        <button id="load-more" class="secondary-btn hidden">Tải thêm</button>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

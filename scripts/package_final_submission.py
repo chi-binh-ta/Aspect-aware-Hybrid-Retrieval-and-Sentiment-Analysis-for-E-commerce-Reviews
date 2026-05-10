@@ -66,11 +66,16 @@ def main() -> None:
     manifest_path = project_dir / "artifact_manifest.json"
 
     include_paths = [
+        ".gitignore",
+        "LICENSE",
+        "README.md",
+        "README_DEMO.md",
+        "README_RAG_WEBAPP.md",
+        "requirements.txt",
+        "backend",
+        "frontend",
         "src",
         "scripts",
-        "requirements_module1_2.txt",
-        "requirements_module4.txt",
-        "requirements_module6.txt",
         "docs",
         "README_MODULE1.md",
         "README_MODULE2.md",

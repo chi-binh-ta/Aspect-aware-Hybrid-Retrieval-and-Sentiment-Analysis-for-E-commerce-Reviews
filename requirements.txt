@@ -6,7 +6,12 @@ matplotlib
 seaborn
 tqdm
 joblib
+fastapi
+uvicorn[standard]
+pydantic
 sentence-transformers
 faiss-cpu
 pyarrow
 rank-bm25
+pytest
+httpx

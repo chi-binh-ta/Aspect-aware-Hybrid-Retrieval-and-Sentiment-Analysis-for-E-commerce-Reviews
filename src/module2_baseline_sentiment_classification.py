@@ -439,7 +439,6 @@ def make_tfidf_logreg_pipeline(ngram_range, min_df, C, class_weight):
                     max_iter=2000,
                     class_weight=class_weight,
                     solver="lbfgs",
-                    multi_class="auto",
                     C=C,
                     random_state=RANDOM_STATE,
                 ),

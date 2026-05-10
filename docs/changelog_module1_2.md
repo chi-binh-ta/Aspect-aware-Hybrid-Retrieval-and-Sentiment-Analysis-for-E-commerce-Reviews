@@ -9,7 +9,7 @@ This update adds the official Module 1 and Module 2 source code to the final rep
 - `scripts/run_module2.sh`
 - `README_MODULE1.md`
 - `README_MODULE2.md`
-- `requirements_module1_2.txt`
+- Consolidated dependencies into `requirements.txt`
 
 ## Preservation Notes
 - Existing processed data, Module 2 model artifacts, Module 4 FAISS index, Module 4 outputs, manual retrieval labels, and Module 5 reports were preserved.
