@@ -1,4 +1,9 @@
-"""Product API for the Vietnamese e-commerce review intelligence dashboard."""
+"""FastAPI backend for the local e-commerce review intelligence demo.
+
+This layer is intentionally lightweight. It exposes product-style endpoints over
+the existing processed corpus, sentiment model, and Module 4/6 retrieval
+artifacts without rebuilding indexes or retraining models.
+"""
 
 from __future__ import annotations
 
@@ -10,14 +15,18 @@ from functools import lru_cache
 from pathlib import Path
 from typing import Any
 
+import numpy as np
 import pandas as pd
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse, JSONResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 
 PROJECT_DIR = Path(os.environ.get("PROJECT_DIR", Path(__file__).resolve().parents[1])).resolve()
 SRC_DIR = PROJECT_DIR / "src"
+FRONTEND_DIR = PROJECT_DIR / "frontend"
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
@@ -25,6 +34,10 @@ CORPUS_CANDIDATES = [
     PROJECT_DIR / "data" / "processed" / "rag_corpus_module4.csv",
     PROJECT_DIR / "data" / "processed" / "rag_corpus_with_sentiment.csv",
     PROJECT_DIR / "data" / "processed" / "rag_corpus.csv",
+]
+SENTIMENT_MODEL_CANDIDATES = [
+    PROJECT_DIR / "models" / "module2" / "tfidf_linearsvm.joblib",
+    PROJECT_DIR / "models" / "module2" / "best_model.joblib",
 ]
 
 TEXT_COLUMNS = ["comment", "text", "clean_text", "review", "retrieval_text"]
@@ -62,7 +75,7 @@ ISSUE_TAXONOMY: dict[str, dict[str, Any]] = {
         "action": "Theo dõi phản hồi về giá trị cảm nhận và điều chỉnh combo/khuyến mãi nếu cần.",
     },
     "service": {
-        "label_vi": "Dịch vụ shop / hỗ trợ",
+        "label_vi": "Dịch vụ / hỗ trợ",
         "keywords": ["tư vấn", "phản hồi", "hỗ trợ", "không trả lời", "không rep"],
         "action": "Cải thiện thời gian phản hồi và kịch bản chăm sóc khách hàng sau mua.",
     },
@@ -71,8 +84,12 @@ ISSUE_TAXONOMY: dict[str, dict[str, Any]] = {
 STOPWORDS = {
     "khach", "khách", "hang", "hàng", "gi", "gì", "ve", "về", "co", "có",
     "khong", "không", "nhieu", "nhiều", "nhat", "nhất", "review", "san", "sản",
-    "pham", "phẩm", "noi", "nói", "thuong", "thường",
+    "pham", "phẩm", "noi", "nói", "thuong", "thường", "cua", "của",
 }
+
+
+class SentimentRequest(BaseModel):
+    text: str = Field(..., min_length=1)
 
 
 class RagRequest(BaseModel):
@@ -92,9 +109,9 @@ class RagRequest(BaseModel):
 
 
 app = FastAPI(
-    title="Vietnamese E-commerce Review Intelligence API",
+    title="E-commerce Review Intelligence API",
     version="1.0.0",
-    description="Product-style analytics and evidence-based RAG assistant over Vietnamese e-commerce reviews.",
+    description="Local demo API for sentiment analysis, review search, and evidence-based retrieval.",
 )
 app.add_middleware(
     CORSMiddleware,
@@ -103,6 +120,22 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+if FRONTEND_DIR.exists():
+    app.mount("/frontend", StaticFiles(directory=FRONTEND_DIR), name="frontend")
+
+
+def _json_safe(value: Any) -> Any:
+    if isinstance(value, (np.integer,)):
+        return int(value)
+    if isinstance(value, (np.floating,)):
+        if np.isnan(value):
+            return None
+        return float(value)
+    if isinstance(value, (np.bool_,)):
+        return bool(value)
+    if pd.isna(value):
+        return None
+    return value
 
 
 def _first_existing_corpus() -> Path:
@@ -110,6 +143,20 @@ def _first_existing_corpus() -> Path:
         if path.exists():
             return path
     raise FileNotFoundError("No processed RAG corpus found under data/processed.")
+
+
+def get_text_column(df: pd.DataFrame) -> str:
+    for column in TEXT_COLUMNS:
+        if column in df.columns:
+            return column
+    raise KeyError(f"No review text column found. Tried: {TEXT_COLUMNS}")
+
+
+def get_sentiment_column(df: pd.DataFrame) -> str | None:
+    for column in SENTIMENT_COLUMNS:
+        if column in df.columns:
+            return column
+    return None
 
 
 @lru_cache(maxsize=1)
@@ -126,25 +173,24 @@ def load_reviews() -> pd.DataFrame:
         if sentiment_col
         else "unknown"
     )
-    if "rating" in df.columns:
-        df["_rating_numeric"] = pd.to_numeric(df["rating"], errors="coerce")
-    else:
-        df["_rating_numeric"] = math.nan
+    df["_rating_numeric"] = (
+        pd.to_numeric(df["rating"], errors="coerce") if "rating" in df.columns else math.nan
+    )
     return df
 
 
-def get_text_column(df: pd.DataFrame) -> str:
-    for column in TEXT_COLUMNS:
-        if column in df.columns:
-            return column
-    raise KeyError(f"No review text column found. Tried: {TEXT_COLUMNS}")
+@lru_cache(maxsize=1)
+def load_sentiment_model() -> tuple[Any | None, str | None, str | None]:
+    for path in SENTIMENT_MODEL_CANDIDATES:
+        if not path.exists():
+            continue
+        try:
+            import joblib
 
-
-def get_sentiment_column(df: pd.DataFrame) -> str | None:
-    for column in SENTIMENT_COLUMNS:
-        if column in df.columns:
-            return column
-    return None
+            return joblib.load(path), path.relative_to(PROJECT_DIR).as_posix(), None
+        except Exception as exc:  # pragma: no cover - depends on local artifact
+            return None, path.relative_to(PROJECT_DIR).as_posix(), str(exc)
+    return None, None, "No sentiment model artifact found under models/module2."
 
 
 def normalize_text(value: Any) -> str:
@@ -191,14 +237,13 @@ def apply_common_filters(
 
 def review_item(row: pd.Series, match_reason: str | None = None, score: float | None = None) -> dict[str, Any]:
     rating = row.get("_rating_numeric")
-    rating_value = None if pd.isna(rating) else float(rating)
     return {
         "id": str(row.get("doc_id") or row.get("review_id") or row.name),
         "review_text": str(row.get("_review_text", "")),
         "sentiment": str(row.get("_sentiment", "unknown")),
-        "rating": rating_value,
-        "category": None if pd.isna(row.get("category", None)) else row.get("category", None),
-        "product_name": None if pd.isna(row.get("product_name", None)) else row.get("product_name", None),
+        "rating": _json_safe(rating),
+        "category": _json_safe(row.get("category", None)),
+        "product_name": _json_safe(row.get("product_name", None)),
         "product_id": None if pd.isna(row.get("product_id", None)) else str(row.get("product_id")),
         "source": row.get("_source_corpus_path", "data/processed"),
         "score_or_match_reason": match_reason or (f"score={score:.4f}" if score is not None else "metadata match"),
@@ -262,19 +307,20 @@ def dense_retrieve(request: RagRequest, query: str) -> tuple[list[dict[str, Any]
         )
         items = []
         for _, row in result.iterrows():
-            item = {
-                "id": str(row.get("doc_id")),
-                "review_text": str(row.get("comment") or row.get("retrieval_text") or ""),
-                "sentiment": str(row.get("predicted_sentiment", "unknown")),
-                "rating": None if pd.isna(row.get("rating")) else row.get("rating"),
-                "category": row.get("category"),
-                "product_name": row.get("product_name"),
-                "product_id": None if pd.isna(row.get("product_id")) else str(row.get("product_id")),
-                "source": "faiss",
-                "score_or_match_reason": f"score={float(row.get('score', 0.0)):.4f}",
-                "score": float(row.get("score", 0.0)),
-            }
-            items.append(item)
+            items.append(
+                {
+                    "id": str(row.get("doc_id")),
+                    "review_text": str(row.get("comment") or row.get("retrieval_text") or ""),
+                    "sentiment": str(row.get("predicted_sentiment", "unknown")),
+                    "rating": _json_safe(row.get("rating")),
+                    "category": _json_safe(row.get("category")),
+                    "product_name": _json_safe(row.get("product_name")),
+                    "product_id": None if pd.isna(row.get("product_id")) else str(row.get("product_id")),
+                    "source": "faiss",
+                    "score_or_match_reason": f"score={float(row.get('score', 0.0)):.4f}",
+                    "score": float(row.get("score", 0.0)),
+                }
+            )
         return items, warnings
     except Exception as exc:
         warnings.append(f"Dense retrieval unavailable; keyword fallback used. Reason: {exc}")
@@ -321,7 +367,7 @@ def estimate_confidence(query: str, evidence: list[dict[str, Any]]) -> tuple[str
     for item in evidence:
         text = normalize_text(item.get("review_text", ""))
         overlap = sum(1 for token in terms if token in text)
-        issue_overlap = any(issue_hits_for_text(str(item.get("review_text", ""))))
+        issue_overlap = bool(issue_hits_for_text(str(item.get("review_text", ""))))
         if overlap >= 1 or issue_overlap:
             related += 1
     if related >= 4:
@@ -370,11 +416,29 @@ def build_answer_text(
         [
             "Tóm tắt:\n" + summary,
             "Vấn đề/chủ đề chính:\n" + "\n".join(theme_lines),
-            f"Mức độ tin cậy:\n{confidence.title()} — {evidence_quality['reason']}",
+            f"Mức độ tin cậy:\n{confidence.title()} - {evidence_quality['reason']}",
             "Gợi ý hành động:\n" + "\n".join(action_lines),
             "Bằng chứng:\n" + "\n".join(evidence_lines),
         ]
     )
+
+
+@app.get("/", include_in_schema=False)
+def frontend_index():
+    index_path = FRONTEND_DIR / "index.html"
+    if index_path.exists():
+        return FileResponse(index_path)
+    return JSONResponse({"status": "ok", "message": "Frontend index.html not found."})
+
+
+@app.get("/app.js", include_in_schema=False)
+def frontend_app_js():
+    return FileResponse(FRONTEND_DIR / "app.js", media_type="application/javascript")
+
+
+@app.get("/styles.css", include_in_schema=False)
+def frontend_styles():
+    return FileResponse(FRONTEND_DIR / "styles.css", media_type="text/css")
 
 
 @app.get("/api/health")
@@ -388,18 +452,60 @@ def health() -> dict[str, Any]:
     }
 
 
+@app.get("/api/config")
+def config() -> dict[str, Any]:
+    df = load_reviews()
+    model, model_path, model_error = load_sentiment_model()
+    categories = sorted(df["category"].dropna().astype(str).unique().tolist()) if "category" in df.columns else []
+    return {
+        "project": "Aspect-aware Hybrid Retrieval and Sentiment Analysis for E-commerce Reviews",
+        "corpus_rows": int(len(df)),
+        "corpus_path": str(_first_existing_corpus().relative_to(PROJECT_DIR)),
+        "sentiment_model_available": model is not None,
+        "sentiment_model_path": model_path,
+        "sentiment_model_error": model_error,
+        "available_filters": {
+            "sentiments": sorted([str(value) for value in df["_sentiment"].dropna().unique()]),
+            "categories": categories,
+            "ratings": sorted(df["_rating_numeric"].dropna().astype(int).astype(str).unique().tolist()),
+        },
+        "endpoints": ["/api/health", "/api/config", "/api/sentiment", "/api/rag"],
+    }
+
+
+@app.post("/api/sentiment")
+def sentiment(request: SentimentRequest) -> dict[str, Any]:
+    model, model_path, model_error = load_sentiment_model()
+    if model is None:
+        return {
+            "ok": False,
+            "label": None,
+            "warning": f"Sentiment model unavailable: {model_error}",
+            "model_path": model_path,
+        }
+    try:
+        prediction = model.predict([request.text])[0]
+        return {
+            "ok": True,
+            "label": str(prediction),
+            "model_path": model_path,
+        }
+    except Exception as exc:
+        return {
+            "ok": False,
+            "label": None,
+            "warning": f"Sentiment prediction failed: {exc}",
+            "model_path": model_path,
+        }
+
+
 @app.get("/api/analytics/summary")
 def analytics_summary() -> dict[str, Any]:
     df = load_reviews()
     sentiment_counts = df["_sentiment"].value_counts(dropna=False).to_dict()
-    rating_counts = (
-        df["_rating_numeric"].dropna().astype(int).astype(str).value_counts().sort_index().to_dict()
-        if "_rating_numeric" in df
-        else {}
-    )
+    rating_counts = df["_rating_numeric"].dropna().astype(int).astype(str).value_counts().sort_index().to_dict()
     avg_rating = df["_rating_numeric"].dropna().mean()
     categories = sorted(df["category"].dropna().astype(str).unique().tolist()) if "category" in df.columns else []
-    warnings = []
     return {
         "total_reviews": int(len(df)),
         "sentiment_distribution": {str(k): int(v) for k, v in sentiment_counts.items()},
@@ -412,7 +518,7 @@ def analytics_summary() -> dict[str, Any]:
             "categories": categories,
             "has_product_names": bool("product_name" in df.columns and df["product_name"].notna().any()),
         },
-        "warnings": warnings,
+        "warnings": [],
     }
 
 
@@ -469,9 +575,6 @@ def analytics_issues(
     for issue, spec in ISSUE_TAXONOMY.items():
         mask = df["_review_text"].fillna("").astype(str).map(lambda text: contains_any(text, spec["keywords"]))
         hits = df[mask]
-        examples = [
-            review_item(row, match_reason=f"matched issue={issue}") for _, row in hits.head(2).iterrows()
-        ]
         count = int(len(hits))
         if count:
             issues.append(
@@ -480,14 +583,14 @@ def analytics_issues(
                     "label_vi": spec["label_vi"],
                     "count": count,
                     "share": round(count / total, 4),
-                    "example_reviews": examples,
+                    "example_reviews": [
+                        review_item(row, match_reason=f"matched issue={issue}")
+                        for _, row in hits.head(2).iterrows()
+                    ],
                 }
             )
     issues.sort(key=lambda item: item["count"], reverse=True)
-    return {
-        "issues": issues[:limit],
-        "filters_used": {"sentiment": sentiment, "category": category, "limit": limit},
-    }
+    return {"issues": issues[:limit], "filters_used": {"sentiment": sentiment, "category": category, "limit": limit}}
 
 
 @app.post("/api/rag")
@@ -514,8 +617,9 @@ def rag_answer(request: RagRequest) -> dict[str, Any]:
         warnings.append("Bằng chứng truy xuất còn yếu; không nên xem câu trả lời là kết luận chắc chắn.")
     summary = (
         f"Tìm thấy {len(evidence)} review bằng chứng. "
-        f"Chủ đề nổi bật nhất là {themes[0]['label_vi']}." if themes else
-        f"Tìm thấy {len(evidence)} review nhưng chưa có chủ đề nổi bật rõ ràng."
+        f"Chủ đề nổi bật nhất là {themes[0]['label_vi']}."
+        if themes
+        else f"Tìm thấy {len(evidence)} review nhưng chưa có chủ đề nổi bật rõ ràng."
     )
     answer = build_answer_text(summary, themes, confidence, evidence_quality, actions, evidence)
     return {

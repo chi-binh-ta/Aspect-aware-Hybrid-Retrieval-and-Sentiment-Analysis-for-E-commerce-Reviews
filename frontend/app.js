@@ -1,4 +1,4 @@
-const API_BASE = localStorage.getItem("API_BASE") || "http://127.0.0.1:8000";
+const API_BASE = window.API_BASE || "";
 
 const suggestedQuestions = [
   "Khách hàng phàn nàn gì nhiều nhất?",
@@ -32,15 +32,28 @@ function pct(count, total) {
   return `${((count / total) * 100).toFixed(1)}%`;
 }
 
+function showError(targetId, error) {
+  const target = document.getElementById(targetId);
+  if (target) {
+    target.innerHTML = `<div class="warning-box">Lỗi: ${escapeHtml(error.message || error)}</div>`;
+  }
+}
+
 async function api(path, options = {}) {
   const response = await fetch(`${API_BASE}${path}`, {
     headers: { "Content-Type": "application/json" },
     ...options
   });
-  if (!response.ok) {
-    throw new Error(`${response.status} ${response.statusText}`);
+  let payload = null;
+  try {
+    payload = await response.json();
+  } catch {
+    payload = { detail: await response.text() };
   }
-  return response.json();
+  if (!response.ok) {
+    throw new Error(payload?.detail || `${response.status} ${response.statusText}`);
+  }
+  return payload;
 }
 
 function setStatus(text, ok = true) {
@@ -65,8 +78,8 @@ function renderSummary(summary) {
   ];
   document.getElementById("summary-cards").innerHTML = cards.map(([label, value]) => `
     <div class="metric-card">
-      <div class="label">${label}</div>
-      <div class="value">${value}</div>
+      <div class="label">${escapeHtml(label)}</div>
+      <div class="value">${escapeHtml(value)}</div>
     </div>
   `).join("");
 
@@ -76,8 +89,8 @@ function renderSummary(summary) {
     const width = Math.max((count / maxCount) * 100, count ? 3 : 0);
     return `
       <div class="bar-row">
-        <strong>${name}</strong>
-        <div class="bar-track"><div class="bar-fill ${name}" style="width:${width}%"></div></div>
+        <strong>${escapeHtml(name)}</strong>
+        <div class="bar-track"><div class="bar-fill ${escapeHtml(name)}" style="width:${width}%"></div></div>
         <span>${pct(count, total)}</span>
       </div>
     `;
@@ -107,7 +120,7 @@ function renderIssues(data) {
   }
   container.innerHTML = issues.map((issue) => {
     const examples = (issue.example_reviews || []).map((item) => (
-      `<p class="muted">“${escapeHtml(item.review_text).slice(0, 150)}”</p>`
+      `<p class="muted">"${escapeHtml(item.review_text).slice(0, 150)}"</p>`
     )).join("");
     return `
       <article class="issue-card">
@@ -160,7 +173,7 @@ function renderRag(data) {
         <article class="evidence-card">
           <div class="meta-line">
             <span class="tag ${escapeHtml(item.sentiment || "")}">[${idx + 1}] ${escapeHtml(item.sentiment || "unknown")}</span>
-            <span>Rating: ${item.rating ?? "N/A"}</span>
+            <span>Rating: ${escapeHtml(item.rating ?? "N/A")}</span>
             <span>${escapeHtml(item.category || "")}</span>
             <span>${escapeHtml(item.score_or_match_reason || "")}</span>
           </div>
@@ -178,7 +191,7 @@ function renderReviews(data, append = false) {
     <article class="review-card">
       <div class="meta-line">
         <span class="tag ${escapeHtml(item.sentiment || "")}">${escapeHtml(item.sentiment || "")}</span>
-        <span>Rating: ${item.rating ?? "N/A"}</span>
+        <span>Rating: ${escapeHtml(item.rating ?? "N/A")}</span>
         <span>${escapeHtml(item.category || "")}</span>
         <span>${escapeHtml(item.product_name ? item.product_name.slice(0, 80) : "")}</span>
       </div>
@@ -205,8 +218,12 @@ async function loadSummary() {
 }
 
 async function loadIssues() {
-  const data = await api("/api/analytics/issues?sentiment=negative&limit=8");
-  renderIssues(data);
+  try {
+    const data = await api("/api/analytics/issues?sentiment=negative&limit=8");
+    renderIssues(data);
+  } catch (error) {
+    showError("issues-list", error);
+  }
 }
 
 async function askRag() {
@@ -214,11 +231,15 @@ async function askRag() {
   if (!query) return;
   const sentiment = document.getElementById("rag-sentiment").value;
   document.getElementById("rag-output").innerHTML = `<p class="muted">Đang truy xuất review bằng chứng...</p>`;
-  const data = await api("/api/rag", {
-    method: "POST",
-    body: JSON.stringify({ query, sentiment: sentiment || null, top_k: 5 })
-  });
-  renderRag(data);
+  try {
+    const data = await api("/api/rag", {
+      method: "POST",
+      body: JSON.stringify({ query, sentiment: sentiment || null, top_k: 5 })
+    });
+    renderRag(data);
+  } catch (error) {
+    showError("rag-output", error);
+  }
 }
 
 async function searchReviews(reset = true) {
@@ -236,8 +257,12 @@ async function searchReviews(reset = true) {
   if (product) params.set("product", product);
   params.set("limit", reviewLimit);
   params.set("offset", reviewOffset);
-  const data = await api(`/api/reviews/search?${params.toString()}`);
-  renderReviews(data, !reset);
+  try {
+    const data = await api(`/api/reviews/search?${params.toString()}`);
+    renderReviews(data, !reset);
+  } catch (error) {
+    showError("review-results", error);
+  }
 }
 
 document.getElementById("refresh-issues").addEventListener("click", loadIssues);

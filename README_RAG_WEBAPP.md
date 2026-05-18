@@ -1,14 +1,31 @@
 # RAG Web App Notes
 
-The web app is a lightweight frontend plus FastAPI backend for the Vietnamese E-commerce Review Intelligence Assistant.
+The web app is a lightweight FastAPI backend plus static HTML/CSS/JS frontend for the Vietnamese E-commerce Review Intelligence demo.
+
+This is a local inspection/demo layer over existing artifacts. It is not Streamlit, not a production deployment, and not a full LLM generation system.
+
+## Run
+
+```bash
+python scripts/run_rag_webapp.py
+```
+
+Default URL:
+
+```text
+http://127.0.0.1:8000
+```
 
 ## Backend Endpoints
 
+- `GET /`: serves `frontend/index.html`.
 - `GET /api/health`: API and corpus status.
-- `GET /api/analytics/summary`: total reviews, sentiment distribution, rating distribution, average rating, available filters, and warnings.
-- `GET /api/analytics/issues`: keyword-based issue taxonomy over filtered reviews.
+- `GET /api/config`: demo configuration, available filters, and model availability.
+- `POST /api/sentiment`: predicts sentiment for one text if the Module 2 model is available.
+- `GET /api/analytics/summary`: review count, sentiment distribution, rating distribution, average rating, and filters.
+- `GET /api/analytics/issues`: lightweight keyword-based issue taxonomy over filtered reviews.
 - `GET /api/reviews/search`: review explorer with keyword, sentiment, rating, category, and product filters.
-- `POST /api/rag`: evidence-based RAG-style answer with summary, themes, suggested actions, confidence, evidence quality, warnings, and evidence reviews.
+- `POST /api/rag`: evidence-based retrieval answer with summary, themes, suggested actions, confidence, evidence quality, warnings, and review evidence.
 
 ## Frontend Sections
 
@@ -17,7 +34,7 @@ The web app is a lightweight frontend plus FastAPI backend for the Vietnamese E-
 - Top issues panel.
 - Suggested question chips.
 - Review Explorer.
-- Structured RAG answer with confidence and evidence cards.
+- Structured evidence answer with confidence and evidence cards.
 
 ## Example Questions
 
@@ -28,22 +45,13 @@ The web app is a lightweight frontend plus FastAPI backend for the Vietnamese E-
 - `Có vấn đề nào về đóng gói không?`
 - `Sản phẩm có bị chê sai mô tả không?`
 
-## Confidence And Evidence Quality
+## Artifact Behavior
 
-The app estimates confidence from simple evidence overlap and issue-keyword signals:
-
-- `high`: at least four retrieved reviews look directly related.
-- `medium`: two or three retrieved reviews look related.
-- `low`: fewer than two related evidence reviews or weak retrieval evidence.
-
-This is transparent triage logic, not a calibrated probability.
-
-## Artifact Safety
-
-Demo scripts reuse the existing Module 4 corpus and FAISS index. Rebuilds are intentionally isolated in `scripts/rebuild_module4_index.sh`.
+The backend reads existing local artifacts. If dense retrieval dependencies or FAISS artifacts are unavailable, `/api/rag` falls back to keyword evidence and returns a warning instead of crashing the whole app.
 
 ## Limitations
 
-- Retrieval quality is moderate and depends on the active corpus/index.
-- Some review text contains spam, emoji, noisy abbreviations, or unrelated content.
-- The answer generator is template-based and evidence-centric; it is not a full LLM generation system.
+- Retrieval quality depends on the active corpus and index.
+- Sentiment labels on the RAG corpus are inferred and may be noisy.
+- Confidence is heuristic, not a calibrated probability.
+- The answer generator is template-based and evidence-centric, not a full LLM answer generator.

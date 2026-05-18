@@ -17,3 +17,8 @@ Thumbs.db
 *.tmp
 node_modules/
 artifact_manifest.json
+models/module4/review_faiss.index
+data/processed/*.csv
+data/processed/*.jsonl
+*.pkl
+*.joblib
